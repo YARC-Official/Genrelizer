@@ -1,0 +1,2 @@
+# Genrelizer
+Genre/Subgenre mappings
