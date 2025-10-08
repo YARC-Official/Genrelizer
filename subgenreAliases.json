@@ -2,19 +2,65 @@
   "big band": "Big Band Jazz",
   "big-band": "Big Band Jazz",
   "big-band jazz": "Big Band Jazz",
+
+  "black and roll": "Black 'n' Roll",
+  "black n roll": "Black 'n' Roll",
+  "black n' roll": "Black 'n' Roll",
+  "black 'n roll": "Black 'n' Roll",
+  "black & roll": "Black 'n' Roll",
+
+  "blackened death doom": "Blackened Death-Doom",
+  "blackened death doom metal": "Blackened Death-Doom",
+  "blackened death-doom metal": "Blackened Death-Doom",  
+
+  "blackened thrash": "Blackened Thrash Metal",
+  "black thrash": "Blackened Thrash Metal",
+  "black-thrash": "Blackened Thrash Metal",
+
+  "blackgazing": "Blackgaze",
+  "black-gaze": "Blackgaze",
+  "black-gazing": "Blackgaze",
+  
+  "death and roll": "Death 'n' Roll",
+  "death n roll": "Death 'n' Roll",
+  "death n' roll": "Death 'n' Roll",
+  "death 'n roll": "Death 'n' Roll",
+  "death & roll": "Death 'n' Roll",
+  
+  "depressive black metal":  "DSBM",
+  "depressive suicidal black metal": "DSBM",
+  "depressive-suicidal black metal": "DSBM",
+  "suicidal black metal": "DSBM",
   
   "etude": "Étude",
 
+  "electronic dance": "EDM",
   "electronic dance music": "EDM",
   
   "euro dance": "Eurodance",
   "euro-dance": "Eurodance",
+
+  "1st wave black metal": "First-Wave Black Metal",
+  "1st-wave black metal": "First-Wave Black Metal",
+  "first wave black metal": "First-Wave Black Metal",
+
+  "blackened folk metal": "Folk Black Metal",
   
   "funeral doom": "Funeral Doom Metal",
 
   "italo dance": "Italodance",
   "italo-dance": "Italodance",
 
+  "melodic black death": "Melodic Black-Death",
+  "melodic black death metal": "Melodic Black-Death",
+  "melodic black-death metal": "Melodic Black-Death",
+  "melodic blackened death": "Melodic Black-Death",
+  "melodic blackened death metal": "Melodic Black-Death",
+  
+  "melodeath": "Melodic Death Metal",
+  "melodic death": "Melodic Death Metal",
+  "melo-death": "Melodic Death Metal",
+  
   "new wave of british heavy metal": "NWOBHM",
   
   "nu disco": "Nu-Disco",
@@ -25,6 +71,8 @@
   "nü jazz": "Nu-Jazz",
   "nü-jazz": "Nu-Jazz",
 
+  "post black metal": "Post-Black Metal",
+  
   "post bop": "Post-Bop",
   "postbop": "Post-Bop",
 
@@ -36,8 +84,14 @@
   "progressive big band jazz": "Progressive Big Band",
   "progressive big-band jazz": "Progressive Big Band",
 
+  "slam death": "Slam",
+  "slam death metal": "Slam",
+  
   "synth rock": "Synthrock",
   "synth-rock": "Synthrock",
+
+  "tech death": "Technical Death Metal",
+  "tech-death": "Technical Death Metal",
   
   "truck drivin country": "Truck-Driving Country",
   "truck drivin' country": "Truck-Driving Country",
