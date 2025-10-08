@@ -1,11 +1,15 @@
 {
   "alternative metal": {
     "genre": "alternative",
-    "es-ES": "metal alternativo"
+    "localizations": {
+      "es-ES": "metal alternativo"
+    }
   },
   "alternative rock": {
     "genre": "alternative",
-    "es-ES": "rock alternativo"
+    "localizations": {
+      "es-ES": "rock alternativo"
+    }
   },
 
   "ambient": {
