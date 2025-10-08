@@ -95,11 +95,29 @@
   "italodance": {
     "genre": "dance"
   },
-  
+
+  "ambient black metal": {
+    "genre": "death/black metal"
+  },
+  "atmospheric black metal": {
+    "genre": "death/black metal"
+  },
+  "blackgaze": {
+    "genre": "death/black metal"
+  },
   "black metal": {
     "genre": "death/black metal"
   },
+  "black 'n' roll":": {
+    "genre": "death/black metal"
+  },
+  "blackened crust": {
+    "genre": "death/black metal"
+  },
   "blackened death metal": {
+    "genre": "death/black metal"
+  },
+  "blackened death-doom"": {
     "genre": "death/black metal"
   },
   "blackened thrash metal": {
@@ -108,10 +126,70 @@
   "brutal death metal": {
     "genre": "death/black metal"
   },
+  "cavernous death metal": {
+    "genre": "death/black metal"
+  },
   "death metal": {
     "genre": "death/black metal"
   },
+  "death 'n' roll": {
+    "genre": "death/black metal"
+  },
   "deathrash": {
+    "genre": "death/black metal"
+  },
+  "dsbm": {
+    "genre": "death/black metal"
+  },
+  "first-wave black metal": {
+    "genre": "death/black metal"
+  },
+  "folk black metal": {
+    "genre": "death/black metal"
+  },
+  "industrial black metal": {
+    "genre": "death/black metal"
+  },
+  "industrial death metal": {
+    "genre": "death/black metal"
+  },
+  "melodic black-death": {
+    "genre": "death/black metal"
+  },
+  "melodic death metal": {
+    "genre": "death/black metal"
+  },
+  "pagan metal": {
+    "genre": "death/black metal"
+  },
+  "post-black metal": {
+    "genre": "death/black metal"
+  },
+  "psychedelic black metal": {
+    "genre": "death/black metal"
+  },
+  "raw black metal": {
+    "genre": "death/black metal"
+  },
+  "raw death metal": {
+    "genre": "death/black metal"
+  },
+  "slam"": {
+    "genre": "death/black metal"
+  },
+  "symphonic black metal": {
+    "genre": "death/black metal"
+  },
+  "symphonic death metal": {
+    "genre": "death/black metal"
+  },
+  "symphonic technical death metal": {
+    "genre": "death/black metal"
+  },
+  "technical death metal": {
+    "genre": "death/black metal"
+  },
+  "unblack metal": {
     "genre": "death/black metal"
   },
   "viking metal": {
