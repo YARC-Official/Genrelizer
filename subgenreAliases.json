@@ -1,41 +1,47 @@
 {
-  "big band": "big band jazz",
+  "big band": "Big Band Jazz",
+  "big-band": "Big Band Jazz",
+  "big-band jazz": "Big Band Jazz",
   
-  "etude": "étude",
+  "etude": "Étude",
 
-  "electronic dance music": "edm",
+  "electronic dance music": "EDM",
   
-  "euro dance": "eurodance",
-  "euro-dance": "eurodance",
+  "euro dance": "Eurodance",
+  "euro-dance": "Eurodance",
   
-  "funeral doom": "funeral doom metal",
+  "funeral doom": "Funeral Doom Metal",
 
-  "italo dance": "italodance",
-  "italo-dance": "italodance",
+  "italo dance": "Italodance",
+  "italo-dance": "Italodance",
 
-  "new wave of british heavy metal": "nwobhm",
+  "new wave of british heavy metal": "NWOBHM",
   
-  "nu disco": "nu-disco",
-  "nü disco": "nu-disco",
-  "nü-disco": "nu-disco",
+  "nu disco": "Nu-Disco",
+  "nü disco": "Nu-Disco",
+  "nü-disco": "Nu-Disco",
 
-  "nu jazz": "nu-jazz",
-  "nü jazz": "nu-jazz",
-  "nü-jazz": "nu-jazz",
+  "nu jazz": "Nu-Jazz",
+  "nü jazz": "Nu-Jazz",
+  "nü-jazz": "Nu-Jazz",
 
-  "post bop": "post-bop",
-  "postbop": "post-bop",
+  "post bop": "Post-Bop",
+  "postbop": "Post-Bop",
 
-  "prog big band": "progressive big band",
-  "prog big band jazz": "progressive big band",
-  "progressive big band jazz": "progressive big band",
+  "prog big band": "Progressive Big Band",
+  "prog big-band": "Progressive Big Band",
+  "prog big band jazz": "Progressive Big Band",
+  "prog big-band jazz": "Progressive Big Band",
+  "progressive big-band": "Progressive Big Band",
+  "progressive big band jazz": "Progressive Big Band",
+  "progressive big-band jazz": "Progressive Big Band",
 
-  "synth rock": "synthrock",
-  "synth-rock": "synthrock",
+  "synth rock": "Synthrock",
+  "synth-rock": "Synthrock",
   
-  "truck drivin country": "truck-driving country",
-  "truck drivin' country": "truck-driving country",
-  "truck driving country": "truck-driving country",
-  "truck-drivin country": "truck-driving country",
-  "truck-drivin' country": "truck-driving country"
+  "truck drivin country": "Truck-Driving Country",
+  "truck drivin' country": "Truck-Driving Country",
+  "truck driving country": "Truck-Driving Country",
+  "truck-drivin country": "Truck-Driving Country",
+  "truck-drivin' country": "Truck-Driving Country"
 }
