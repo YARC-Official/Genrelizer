@@ -1,48 +1,48 @@
 {
-  "drone/ambient": "ambient/drone",
+  "drone/ambient": "Ambient/Drone",
   
-  "black/death metal": "death/black metal",
+  "black/death metal": "Death/Black metal",
   
-  "breakbeat/dnb/jungle": "dnb/breakbeat/jungle",
-  "breakbeat/jungle/dnb": "dnb/breakbeat/jungle",
-  "dnb/jungle/breakbeat": "dnb/breakbeat/jungle",
-  "jungle/breakbeat/dnb": "dnb/breakbeat/jungle",
-  "jungle/dnb/breakbeat": "dnb/breakbeat/jungle",
+  "breakbeat/dnb/jungle": "DnB/Breakbeat/Jungle",
+  "breakbeat/jungle/dnb": "DnB/Breakbeat/Jungle",
+  "dnb/jungle/breakbeat": "DnB/Breakbeat/Jungle",
+  "jungle/breakbeat/dnb": "DnB/Breakbeat/Jungle",
+  "jungle/dnb/breakbeat": "DnB/Breakbeat/Jungle",
   
-  "dance/electronic/pop": "electronic",
-  "dance/pop/electronic": "electronic",
-  "electronic/dance/pop": "electronic",
-  "electronic/pop/dance": "electronic",
-  "pop/dance/electronic": "electronic",
-  "pop/electronic/dance": "electronic",
+  "dance/electronic/pop": "Electronic",
+  "dance/pop/electronic": "Electronic",
+  "electronic/dance/pop": "Electronic",
+  "electronic/pop/dance": "Electronic",
+  "pop/dance/electronic": "Electronic",
+  "pop/electronic/dance": "Electronic",
   
-  "metal": "heavy metal",
+  "metal": "Heavy Metal",
 
-  "hip hop/rap": "hip-hop/rap",
-  "rap/hip hop": "hip-hop/rap",
-  "rap/hip-hop": "hip-hop/rap",
+  "hip hop/rap": "Hip-Hop/Rap",
+  "rap/hip hop": "Hip-Hop/Rap",
+  "rap/hip-hop": "Hip-Hop/Rap",
   
-  "power/melodic metal": "melodic/power metal",
+  "power/melodic metal": "Melodic/Power Metal",
 
-  "nu metal": "nu-metal",
-  "nü metal": "nu-metal",
-  "nü-metal": "nu-metal",
+  "nu metal": "Nu-Metal",
+  "nü metal": "Nu-Metal",
+  "nü-metal": "Nu-Metal",
 
-  "ska/reggae": "reggae/ska",
+  "ska/reggae": "Reggae/Ska",
 
-  "rock and roll": "rock & roll",
-  "rock n roll": "rock & roll",
-  "rock n' roll": "rock & roll",
-  "rock 'n roll": "rock & roll",
-  "rock 'n' roll": "rock & roll",
+  "rock and roll": "Rock & Roll",
+  "rock n roll": "Rock & Roll",
+  "rock n' roll": "Rock & Roll",
+  "rock 'n roll": "Rock & Roll",
+  "rock 'n' roll": "Rock & Roll",
   
-  "funk/r&b/soul": "r&b/soul/funk",
-  "funk/soul/r&b": "r&b/soul/funk",
-  "r&b/funk/soul": "r&b/soul/funk",
-  "soul/funk/r&b": "r&b/soul/funk",
-  "soul/r&b/funk": "r&b/soul/funk",
+  "funk/r&b/soul": "R&B/Soul/Funk",
+  "funk/soul/r&b": "R&B/Soul/Funk",
+  "r&b/funk/soul": "R&B/Soul/Funk",
+  "soul/funk/r&b": "R&B/Soul/Funk",
+  "soul/r&b/funk": "R&B/Soul/Funk",
 
-  "electropop/synthpop": "synthpop/electropop",
+  "electropop/synthpop": "Synthpop/Electropop",
   
-  "speed/thrash metal": "thrash/speed metal"
+  "speed/thrash metal": "Thrash/Speed Metal"
 }
