@@ -24,14 +24,14 @@
   },
   "dark ambient": {
     "genre": "Ambient/Drone",
-    "capitalized": "Dark Ambient",
+    "capitalized": "Dark Ambient"
   },
   "drone": {
     "genre": "Ambient/Drone",
     "capitalized": "Drone"
   },
   "lowercase": {
-    "genre": "Ambient/Drone"
+    "genre": "Ambient/Drone",
     "capitalized": "lowercase"
   },
 
@@ -48,6 +48,43 @@
     "capitalized": "Power Ballad"
   },
 
+  "12-bar blues": {
+    "genre": "Blues",
+    "capitalized": "12-Bar Blues"
+  },
+  "acoustic blues": {
+    "genre": "Blues",
+    "capitalized": "Acoustic Blues"
+  },
+  "chicago blues": {
+    "genre": "Blues",
+    "capitalized": "Chicago Blues"
+  },
+  "classic blues": {
+    "genre": "Blues",
+    "capitalized": "Classic Blues"
+  },
+  "contemporary blues": {
+    "genre": "Blues",
+    "capitalized": "Contemporary Blues"
+  },
+  "country blues": {
+    "genre": "Blues",
+    "capitalized": "Country Blues"
+  },
+  "delta blues": {
+    "genre": "Blues",
+    "capitalized": "Delta Blues"
+  },
+  "electric blues": {
+    "genre": "Blues",
+    "capitalized": "Electric Blues"
+  },
+  "texas blues": {
+    "genre": "Blues",
+    "capitalized": "Texas Blues"
+  },
+
   "lullaby": {
     "genre": "Children's Music",
     "capitalized": "Lullaby"
@@ -56,7 +93,33 @@
     "genre": "Children's Music",
     "capitalized": "Nursery Rhyme"
   },
-  
+
+  "8-bit": {
+    "genre": "Chiptune",
+    "capitalized": "8-Bit"
+  },
+  "16-bit": {
+    "genre": "Chiptune",
+    "capitalized": "16-Bit"
+  },
+  "nintendocore": {
+    "genre": "Chiptune",
+    "capitalized": "Nintendocore"
+  },
+
+  "album-oriented rock": {
+    "genre": "Classic Rock",
+    "capitalized": "Album-Oriented Rock"
+  },
+  "dad rock": {
+    "genre": "Classic Rock",
+    "capitalized": "Dad Rock"
+  },
+  "yacht rock": {
+    "genre": "Classic Rock",
+    "capitalized": "Yacht Rock"
+  },
+
   "ballet": {
     "genre": "Classical",
     "capitalized": "Ballet"
@@ -281,7 +344,49 @@
     "genre": "Disco",
     "capitalized": "Nu-Disco"
   },
-  
+
+  "djentcore": {
+    "genre": "Djent",
+    "capitalized": "Djentcore"
+  },
+  "thall": {
+    "genre": "Djent",
+    "capitalized": "Thall"
+  },
+
+  "breakbeat": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Breakbeat"
+  },
+  "breakcore": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Breakcore"
+  },
+  "drum and bass": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Drum and Bass"
+  },
+  "funky breaks": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Funky Breaks"
+  },
+  "jungle": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Jungle"
+  },
+
+  "blackened doom metal": {
+    "genre": "Doom Metal",
+    "capitalized": "Blackened Doom Metal"
+  },
+  "drone doom": {
+    "genre": "Doom Metal",
+    "capitalized": "Drone Doom"
+  },
+  "epic doom metal": {
+    "genre": "Doom Metal",
+    "capitalized": "Epic Doom Metal"
+  },
   "funeral doom metal": {
     "genre": "Doom Metal",
     "capitalized": "Funeral Doom Metal"
@@ -435,7 +540,12 @@
     "genre": "Grindcore",
     "capitalized": "Powerviolence"
   },
-  
+
+  "grunge rock": {
+    "genre": "Grunge",
+    "capitalized": "Grunge Rock"
+  },
+
   "extratone": {
     "genre": "Hardcore EDM",
     "capitalized": "Extratone"
@@ -473,7 +583,112 @@
     "genre": "Heavy Metal",
     "capitalized": "NWOBHM"
   },
-  
+
+  "gangsta rap": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Gangsta Rap"
+  },
+  "hardcore hip-hop": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Hardcore Hip-Hop"
+  },
+  "hip-hop": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Hip-Hop"
+  },
+  "horrorcore": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Horrorcore"
+  },
+  "mafioso rap": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Mafioso Rap"
+  },
+  "rap": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Rap"
+  },
+
+  "carol": {
+    "genre": "Holiday",
+    "capitalized": "Carol"
+  },
+  "christmas carol": {
+    "genre": "Holiday",
+    "capitalized": "Christmas Carol"
+  },
+
+  "electro house": {
+    "genre": "House",
+    "capitalized": "Electro House"
+  },
+  "french house": {
+    "genre": "House",
+    "capitalized": "French House"
+  },
+  "microhouse": {
+    "genre": "House",
+    "capitalized": "Microhouse"
+  },
+
+  "art techno": {
+    "genre": "IDM",
+    "capitalized": "Art Techno"
+  },
+  "intelligent techno": {
+    "genre": "IDM",
+    "capitalized": "Intelligent Techno"
+  },
+
+  "geek rock": {
+    "genre": "Indie Rock",
+    "capitalized": "Geek Rock"
+  },
+
+  "industrial metal": {
+    "genre": "Industrial",
+    "capitalized": "Industrial Metal"
+  },
+  "industrial rock": {
+    "genre": "Industrial",
+    "capitalized": "Industrial Rock"
+  },
+  "industrial techno": {
+    "genre": "Industrial",
+    "capitalized": "Industrial Techno"
+  },
+  "martial industrial": {
+    "genre": "Industrial",
+    "capitalized": "Martial Industrial"
+  },
+
+  "christian pop": {
+    "genre": "Inspirational",
+    "capitalized": "Christian Pop"
+  },
+  "christian rock": {
+    "genre": "Inspirational",
+    "capitalized": "Christian Rock"
+  },
+  "hymn": {
+    "genre": "Inspirational",
+    "capitalized": "Hymn"
+  },
+  "prayer": {
+    "genre": "Inspirational",
+    "capitalized": "Prayer"
+  },
+
+  "idol pop": {
+    "genre": "J-Pop",
+    "capitalized": "Idol Pop"
+  },
+
+  "visual kei": {
+    "genre": "J-Rock",
+    "capitalized": "Visual Kei"
+  },
+
   "bebop": {
     "genre": "Jazz",
     "capitalized": "Bebop"
@@ -554,9 +769,250 @@
     "genre": "Jazz",
     "capitalized": "Traditional Jazz"
   },
-  
+
+  "trot": {
+    "genre": "K-Pop",
+    "capitalized": "Trot"
+  },
+
+  "latin rock": {
+    "genre": "Latin",
+    "capitalized": "Latin Rock"
+  },
+  "latin pop": {
+    "genre": "Latin",
+    "capitalized": "Latin Pop"
+  },
+
+  "plunderphonics": {
+    "genre": "Mashup",
+    "capitalized": "Plunderphonics"
+  },
+  "sampledelia": {
+    "genre": "Mashup",
+    "capitalized": "Sampledelia"
+  },
+  "turntablism": {
+    "genre": "Mashup",
+    "capitalized": "Turntablism"
+  },
+  "xenochrony": {
+    "genre": "Mashup",
+    "capitalized": "Xenochrony"
+  },
+
+  "harsh noise": {
+    "genre": "Noise",
+    "capitalized": "Harsh Noise"
+  },
+  "harsh noise wall": {
+    "genre": "Noise",
+    "capitalized": "Harsh Noise"
+  },
+  "japanoise": {
+    "genre": "Noise",
+    "capitalized": "Japanoise"
+  },
+  "noisecore": {
+    "genre": "Noise",
+    "capitalized": "Noisecore"
+  },
   "power electronics": {
     "genre": "Noise",
     "capitalized": "Power Electronics"
   },
+  "noise wall": {
+    "genre": "Noise",
+    "capitalized": "Wall Noise"
+  },
+
+  "industrial nu-metal": {
+    "genre": "Nu-Metal",
+    "capitalized": "Industrial Nu-Metal"
+  },
+
+  "neoclassical": {
+    "genre": "Orchestral",
+    "capitalized": "Neoclassical"
+  },
+
+  "bubblegum pop": {
+    "genre": "Pop",
+    "capitalized": "Bubblegum Pop"
+  },
+  "teen pop": {
+    "genre": "Pop",
+    "capitalized": "Teen Pop"
+  },
+
+  "skate punk": {
+    "genre": "Pop Punk",
+    "capitalized": "Skate Punk"
+  },
+
+  "jangle pop": {
+    "genre": "Pop-Rock",
+    "capitalized": "Jangle Pop"
+  },
+
+  "easycore": {
+    "genre": "Post-Hardcore",
+    "capitalized": "Easycore"
+  },
+  "poetrycore": {
+    "genre": "Post-Hardcore",
+    "capitalized": "Poetrycore"
+  },
+
+  "art rock": {
+    "genre": "Progressive",
+    "capitalized": "Art Rock"
+  },
+  "progressive rock": {
+    "genre": "Progressive",
+    "capitalized": "Progressive Rock"
+  },
+
+  "garage punk": {
+    "genre": "Punk",
+    "capitalized": "Garage Punk"
+  },
+
+  "funk": {
+    "genre": "R&B/Soul/Funk",
+    "capitalized": "Funk"
+  },
+  "rhythm and blues": {
+    "genre": "R&B/Soul/Funk",
+    "capitalized": "Rhythm & Blues"
+  },
+  "soul": {
+    "genre": "R&B/Soul/Funk",
+    "capitalized": "Soul"
+  },
+  "soul rock": {
+    "genre": "R&B/Soul/Funk",
+    "capitalized": "Soul Rock"
+  },
+
+  "reggae": {
+    "genre": "Reggae/Ska",
+    "capitalized": "Reggae"
+  },
+  "ska": {
+    "genre": "Reggae/Ska",
+    "capitalized": "Ska"
+  },
+  "ska punk": {
+    "genre": "Reggae/Ska",
+    "capitalized": "Ska Punk"
+  },
+
+  "hard rock": {
+    "genre": "Rock",
+    "capitalized": "Hard Rock"
+  },
+
+  "rockabilly": {
+    "genre": "Rock & Roll",
+    "capitalized": "Rockabilly"
+  },
+
+  "incidental music": {
+    "genre": "Soundtrack",
+    "capitalized": "Incidental Music"
+  },
+  "score": {
+    "genre": "Soundtrack",
+    "capitalized": "Score"
+  },
+  "video game music": {
+    "genre": "Soundtrack",
+    "capitalized": "Video Game Music"
+  },
+
+  "boogie rock": {
+    "genre": "Southern Rock",
+    "capitalized": "Boogie Rock"
+  },
+  "jam rock": {
+    "genre": "Southern Rock",
+    "capitalized": "Jam Rock"
+  },
+  "southern metal": {
+    "genre": "Southern Rock",
+    "capitalized": "Southern Metal"
+  },
+
+  "surf guitar": {
+    "genre": "Surf Rock",
+    "capitalized": "Surf Guitar"
+  },
+  "surf pop": {
+    "genre": "Surf Rock",
+    "capitalized": "Surf Pop"
+  },
+
+  "electropop": {
+    "genre": "Synthpop/Electropop",
+    "capitalized": "Electropop"
+  },
+  "synthpop": {
+    "genre": "Synthpop/Electropop",
+    "capitalized": "Synthpop"
+  },
+
+  "acid techno": {
+    "genre": "Techno",
+    "capitalized": "Acid Techno"
+  },
+  "detroit techno": {
+    "genre": "Techno",
+    "capitalized": "Detroit Techno"
+  },
+  "dub techno": {
+    "genre": "Techno",
+    "capitalized": "Dub Techno"
+  },
+  "minimal techno": {
+    "genre": "Techno",
+    "capitalized": "Minimal Techno"
+  },
+
+  "crossover thrash": {
+    "genre": "Thrash/Speed Metal",
+    "capitalized": "Crossover Thrash"
+  },
+  "speed metal": {
+    "genre": "Thrash/Speed Metal",
+    "capitalized": "Speed Metal"
+  },
+  "thrash metal": {
+    "genre": "Thrash/Speed Metal",
+    "capitalized": "Thrash Metal"
+  },
+  "thrashcore": {
+    "genre": "Thrash/Speed Metal",
+    "capitalized": "Thrashcore"
+  },
+
+  "psychedelic trance": {
+    "genre": "Trance",
+    "capitalized": "Psychedelic Trance"
+  },
+
+  "trap-pop": {
+    "genre": "Trap",
+    "capitalized": "Trap-Pop"
+  },
+
+  "urban pop": {
+    "genre": "Urban",
+    "capitalized": "Urban Pop"
+  },
+
+  "worldbeat": {
+    "genre": "World",
+    "capitalized": "Worldbeat"
+  }
 }

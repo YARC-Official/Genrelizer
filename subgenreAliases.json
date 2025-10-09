@@ -1,4 +1,18 @@
 {
+  "8 bit": "8-Bit",
+  "eight bit": "8-Bit",
+  "eight-bit": "8-Bit",
+
+  "12 bar blues": "12-Bar Blues",
+  "twelve bar blues": "12-Bar Blues",
+  "twelve-bar blues": "12-Bar Blues",
+
+  "16 bit": "16-Bit",
+  "sixteen bit": "16-Bit",
+  "sixteen-bit": "16-Bit",
+
+  "aor": "Album-Oriented Rock",
+
   "alternative pop": "Alt-Pop",
   "alt pop": "Alt-Pop",
 
@@ -17,7 +31,11 @@
 
   "blackened death doom": "Blackened Death-Doom",
   "blackened death doom metal": "Blackened Death-Doom",
-  "blackened death-doom metal": "Blackened Death-Doom",  
+  "blackened death-doom metal": "Blackened Death-Doom",
+
+  "black doom": "Blackened Doom Metal",
+  "black doom metal": "Blackened Doom Metal",
+  "blackened doom": "Blackened Doom Metal",
 
   "blackened thrash": "Blackened Thrash Metal",
   "black thrash": "Blackened Thrash Metal",
@@ -26,32 +44,46 @@
   "blackgazing": "Blackgaze",
   "black-gaze": "Blackgaze",
   "black-gazing": "Blackgaze",
-  
+
   "dark amb": "Dark Ambient",
   "dark-amb": "Dark Ambient",
   "dark-ambient": "Dark Ambient",
-  
+
+  "xmas carol": "Christmas Carol",
+
   "circuit-bending": "Circuit Bending",
-  
+
+  "crossover thrash metal": "Crossover Thrash",
+
   "death and roll": "Death 'n' Roll",
   "death n roll": "Death 'n' Roll",
   "death n' roll": "Death 'n' Roll",
   "death 'n roll": "Death 'n' Roll",
   "death & roll": "Death 'n' Roll",
-  
-  "depressive black metal":  "DSBM",
+
+  "drone doom metal": "Drone Doom",
+  "drone-doom": "Drone Doom",
+  "drone-doom metal": "Drone Doom",
+
+  "depressive black metal": "DSBM",
   "depressive suicidal black metal": "DSBM",
   "depressive-suicidal black metal": "DSBM",
   "suicidal black metal": "DSBM",
-  
+
   "etude": "Étude",
+
+  "electrohouse": "Electro House",
+  "electro-house": "Electro House",
+
+  "electro jazz": "Electro-Jazz",
+  "electrojazz": "Electro-Jazz",
 
   "electronic dance": "EDM",
   "electronic dance music": "EDM",
-  
+
   "euro dance": "Eurodance",
   "euro-dance": "Eurodance",
-  
+
   "eurodisco": "Euro Disco",
   "euro-disco": "Euro Disco",
 
@@ -60,8 +92,33 @@
   "first wave black metal": "First-Wave Black Metal",
 
   "blackened folk metal": "Folk Black Metal",
-  
+
   "funeral doom": "Funeral Doom Metal",
+
+  "seattle sound": "Grunge",
+
+  "hardcore hip hop": "Hardcore Hip-Hop",
+
+  "harsh wall noise": "harsh noise wall",
+  "hnw": "harsh noise wall",
+  "hwn": "harsh noise wall",
+
+  "hip hop": "Hip-Hop",
+
+  "horrorcore hip hop": "Horrorcore",
+  "horrorcore hip-hop": "Horrorcore",
+  "horrorcore rap": "Horrorcore",
+
+  "braindance": "IDM",
+  "intelligent dance music": "IDM",
+
+  "incidental": "Incidental Music",
+
+  "indie": "Indie Rock",
+
+  "industrial nu metal": "Industrial Nu-Metal",
+  "industrial nü metal": "Industrial Nu-Metal",
+  "industrial nü-metal": "Industrial Nu-Metal",
 
   "italo dance": "Italodance",
   "italo-dance": "Italodance",
@@ -76,18 +133,25 @@
 
   "jazz-rock": "Jazz Rock",
 
+  "pop latino": "Latin Pop",
+
+  "rock latino": "Latin Rock",
+
   "melodic black death": "Melodic Black-Death",
   "melodic black death metal": "Melodic Black-Death",
   "melodic black-death metal": "Melodic Black-Death",
   "melodic blackened death": "Melodic Black-Death",
   "melodic blackened death metal": "Melodic Black-Death",
-  
+
   "melodeath": "Melodic Death Metal",
   "melodic death": "Melodic Death Metal",
   "melo-death": "Melodic Death Metal",
-  
-  "new wave of british heavy metal": "NWOBHM",
-  
+
+  "micro house": "Microhouse",
+  "micro-house": "Microhouse",
+
+  "wall noise": "Noise Wall",
+
   "nu disco": "Nu-Disco",
   "nü disco": "Nu-Disco",
   "nü-disco": "Nu-Disco",
@@ -96,11 +160,17 @@
   "nü jazz": "Nu-Jazz",
   "nü-jazz": "Nu-Jazz",
 
+  "nu metal": "Nu-Metal",
+  "nü metal": "Nu-Metal",
+  "nü-metal": "Nu-Metal",
+
+  "new wave of british heavy metal": "NWOBHM",
+
   "post black metal": "Post-Black Metal",
-  
+
   "post bop": "Post-Bop",
   "postbop": "Post-Bop",
-  
+
   "power violence": "Powerviolence",
   "power-violence": "Powerviolence",
 
@@ -112,25 +182,43 @@
   "progressive big band jazz": "Progressive Big Band",
   "progressive big-band jazz": "Progressive Big Band",
 
+  "psy trance": "Psychedelic Trance",
+  "psy-trance": "Psychedelic Trance",
+  "psytrance": "Psychedelic Trance",
+
+  "rhythm and blues": "Rhythm & Blues",
+  "rnb": "Rhythm & Blues",
+  "r&b": "Rhythm & Blues",
+
   "slam death": "Slam",
   "slam death metal": "Slam",
-  
+
   "symphonic tech death": "Symphonic Technical Death Metal",
   "symphonic tech-death": "Symphonic Technical Death Metal",
-  
+
+  "synth pop": "Synthpop",
+  "synth-pop": "Synthpop",
+
   "synth rock": "Synthrock",
   "synth-rock": "Synthrock",
 
   "tech death": "Technical Death Metal",
   "tech-death": "Technical Death Metal",
-  
+
   "dixieland": "Traditional Jazz",
   "dixieland jazz": "Traditional Jazz",
   "hot jazz": "Traditional Jazz",
-  
+
+  "trap pop": "Trap-Pop",
+
+  "ppongjjak": "Trot",
+
   "truck drivin country": "Truck-Driving Country",
   "truck drivin' country": "Truck-Driving Country",
   "truck driving country": "Truck-Driving Country",
   "truck-drivin country": "Truck-Driving Country",
-  "truck-drivin' country": "Truck-Driving Country"
+  "truck-drivin' country": "Truck-Driving Country",
+
+  "vgm": "Video Game Music",
+  "video game": "Video Game Music"
 }
