@@ -1,413 +1,562 @@
 {
   "alternative metal": {
-    "genre": "alternative",
+    "genre": "Alternative",
+    "capitalized": "Alternative Metal",
     "localizations": {
       "es-ES": "metal alternativo"
     }
   },
   "alternative rock": {
-    "genre": "alternative",
+    "genre": "Alternative",
+    "capitalized": "Alternative Rock",
     "localizations": {
       "es-ES": "rock alternativo"
     }
   },
+  "alt-pop": {
+    "genre": "Alternative",
+    "capitalized": "Alt-Pop"
+  },
 
   "ambient": {
-    "genre": "ambient/drone"
+    "genre": "Ambient/Drone",
+    "capitalized": "Ambient"
   },
   "dark ambient": {
-    "genre": "ambient/drone"
+    "genre": "Ambient/Drone",
+    "capitalized": "Dark Ambient",
   },
   "drone": {
-    "genre": "ambient/drone"
+    "genre": "Ambient/Drone",
+    "capitalized": "Drone"
+  },
+  "lowercase": {
+    "genre": "Ambient/Drone"
+    "capitalized": "lowercase"
   },
 
   "piano ballad": {
-    "genre": "ballad"
+    "genre": "Ballad",
+    "capitalized": "Piano Ballad"
   },
   "pop ballad": {
-    "genre": "ballad"
+    "genre": "Ballad",
+    "capitalized": "Pop Ballad"
   },
   "power ballad": {
-    "genre": "ballad"
+    "genre": "Ballad",
+    "capitalized": "Power Ballad"
   },
 
   "lullaby": {
-    "genre": "children's music"
+    "genre": "Children's Music",
+    "capitalized": "Lullaby"
   },
   "nursery rhyme": {
-    "genre": "children's music"
+    "genre": "Children's Music",
+    "capitalized": "Nursery Rhyme"
   },
   
   "ballet": {
-    "genre": "classical"
+    "genre": "Classical",
+    "capitalized": "Ballet"
   },
   "concerto": {
-    "genre": "classical"
+    "genre": "Classical",
+    "capitalized": "Concerto"
   },
   "dirge": {
-    "genre": "classical"
+    "genre": "Classical",
+    "capitalized": "Dirge"
   },
   "étude": {
-    "genre": "classical"
+    "genre": "Classical",
+    "capitalized": "Étude"
   },
   "march": {
-    "genre": "classical"
+    "genre": "Classical",
+    "capitalized": "March"
   },
   "minuet": {
-    "genre": "classical"
+    "genre": "Classical",
+    "capitalized": "Minuet"
   },
   "opera": {
-    "genre": "classical"
+    "genre": "Classical",
+    "capitalized": "Opera"
   },
   "scherzo": {
-    "genre": "classical"
+    "genre": "Classical",
+    "capitalized": "Scherzo"
   },
   "symphony": {
-    "genre": "classical"
+    "genre": "Classical",
+    "capitalized": "Symphony"
   },
 
   "alternative country": {
-    "genre": "country"
+    "genre": "Country",
+    "capitalized": "Alternative Country"
   },
   "bluegrass": {
-    "genre": "country"
+    "genre": "Country",
+    "capitalized": "Bluegrass"
   },
   "newgrass": {
-    "genre": "country"
+    "genre": "Country",
+    "capitalized": "Newgrass"
   },
   "outlaw country": {
-    "genre": "country"
+    "genre": "Country",
+    "capitalized": "Outlaw Country"
   },
   "truck-driving country": {
-    "genre": "country"
+    "genre": "Country",
+    "capitalized": "Truck-Driving Country"
   },
 
   "dance pop": {
-    "genre": "dance"
+    "genre": "Dance",
+    "capitalized": "Dance Pop"
   },
   "edm": {
-    "genre": "dance"
+    "genre": "Dance",
+    "capitalized": "EDM"
   },
   "eurodance": {
-    "genre": "dance"
+    "genre": "Dance",
+    "capitalized": "Eurodance"
   },
   "italodance": {
-    "genre": "dance"
+    "genre": "Dance",
+    "capitalized": "Italodance"
   },
 
   "ambient black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Ambient Black Metal"
   },
   "atmospheric black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Atmospheric Black Metal"
   },
   "blackgaze": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Blackgaze"
   },
   "black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Black Metal"
   },
   "black 'n' roll": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Black 'n' Roll"
   },
   "blackened crust": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Blackened Crust"
   },
   "blackened death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Blackened Death Metal"
   },
   "blackened death-doom": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Blackened Death-Doom"
   },
   "blackened thrash metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Blackened Thrash Metal"
   },
   "brutal death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Brutal Death Metal"
   },
   "cavernous death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Cavernous Death Metal"
   },
   "death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Death Metal"
   },
   "death 'n' roll": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Death 'n' Roll"
   },
   "deathrash": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Deathrash"
   },
   "dsbm": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "DSBM"
   },
   "first-wave black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "First-Wave Black Metal"
   },
   "folk black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Folk Black Metal"
   },
   "industrial black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Industrial Black Metal"
   },
   "industrial death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Industrial Death Metal"
   },
   "melodic black-death": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Melodic Black-Death"
   },
   "melodic death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Melodic Death Metal"
   },
   "pagan metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Pagan Metal"
   },
   "post-black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Post-Black Metal"
   },
   "psychedelic black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Psychedelic Black Metal"
   },
   "raw black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Raw Black Metal"
   },
   "raw death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Raw Death Metal"
   },
   "slam": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Slam"
   },
   "symphonic black metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Symphonic Black Metal"
   },
   "symphonic death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Symphonic Death Metal"
   },
   "symphonic technical death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Symphonic Technical Death Metal"
   },
   "technical death metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Technical Death Metal"
   },
   "unblack metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Unblack Metal"
   },
   "viking metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "Viking Metal"
   },
   "war metal": {
-    "genre": "death/black metal"
+    "genre": "Death/Black Metal",
+    "capitalized": "War Metal"
   },
 
   "disco funk": {
-    "genre": "disco"
+    "genre": "Disco",
+    "capitalized": "Disco Funk"
   },
   "euro disco": {
-    "genre": "disco"
+    "genre": "Disco",
+    "capitalized": "Euro Disco"
   },
   "nu-disco": {
-    "genre": "disco"
+    "genre": "Disco",
+    "capitalized": "Nu-Disco"
   },
   
   "funeral doom metal": {
-    "genre": "doom metal"
+    "genre": "Doom Metal",
+    "capitalized": "Funeral Doom Metal"
   },
 
   "brostep": {
-    "genre": "dubstep"
+    "genre": "Dubstep",
+    "capitalized": "Brostep"
   },
   "clownstep": {
-    "genre": "dubstep"
+    "genre": "Dubstep",
+    "capitalized": "Clownstep"
   },
   "funkstep": {
-    "genre": "dubstep"
+    "genre": "Dubstep",
+    "capitalized": "Funkstep"
   },
   "glitchstep": {
-    "genre": "dubstep"
+    "genre": "Dubstep",
+    "capitalized": "Glitchstep"
   },
   "hardstep": {
-    "genre": "dubstep"
+    "genre": "Dubstep",
+    "capitalized": "Hardstep"
   },
   "metalstep": {
-    "genre": "dubstep"
+    "genre": "Dubstep",
+    "capitalized": "Metalstep"
   },
 
+  "downtempo": {
+    "genre": "Electronic",
+    "capitalized": "Downtempo"
+  },
   "electronica": {
-    "genre": "electronic"
+    "genre": "Electronic",
+    "capitalized": "Electronica"
   },
 
   "electronic metal": {
-    "genre": "electronic rock"
+    "genre": "Electronic Rock",
+    "capitalized": "Electronic Metal"
   },
   "synthrock": {
-    "genre": "electronic"
+    "genre": "Electronic Rock",
+    "capitalized": "Synthrock"
   },
 
   "midwest emo": {
-    "genre": "emo"
+    "genre": "Emo",
+    "capitalized": "Midwest Emo"
   },
   "screamo": {
-    "genre": "emo"
+    "genre": "Emo",
+    "capitalized": "Screamo"
   },
 
   "acoustic folk": {
-    "genre": "folk"
+    "genre": "Folk",
+    "capitalized": "Acoustic Folk"
   },
   "folk pop": {
-    "genre": "folk"
+    "genre": "Folk",
+    "capitalized": "Folk Pop"
   },
   "folk rock": {
-    "genre": "folk"
+    "genre": "Folk",
+    "capitalized": "Folk Rock"
   },
   "traditional folk": {
-    "genre": "folk"
+    "genre": "Folk",
+    "capitalized": "Traditional Folk"
   },
 
   "jazz fusion": {
-    "genre": "fusion"
+    "genre": "Fusion",
+    "capitalized": "Jazz Fusion"
   },
   "progressive jazz fusion": {
-    "genre": "fusion"
+    "genre": "Fusion",
+    "capitalized": "Progressive Jazz Fusion"
   },
 
   "glam metal": {
-    "genre": "glam"
+    "genre": "Glam",
+    "capitalized": "Glam Metal"
   },
   "glam pop": {
-    "genre": "glam"
+    "genre": "Glam",
+    "capitalized": "Glam Pop"
   },
   "glam rock": {
-    "genre": "glam"
+    "genre": "Glam",
+    "capitalized": "Glam Rock"
   },
   "hair metal": {
-    "genre": "glam"
+    "genre": "Glam",
+    "capitalized": "Hair Metal"
   },
   "sleaze metal": {
-    "genre": "glam"
+    "genre": "Glam",
+    "capitalized": "Sleaze Metal"
   },
 
   "circuit bending": {
-    "genre": "glitch"
+    "genre": "Glitch",
+    "capitalized": "Circuit Bending"
   },
   "glitchcore": {
-    "genre": "glitch"
+    "genre": "Glitch",
+    "capitalized": "Glitchcore"
   },
 
   "blackened deathgrind": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Blackened Deathgrind"
   },
   "crustgrind": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Crustgrind"
   },
   "cybergrind": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Cybergrind"
   },
   "deathgrind": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Deathgrind"
   },
   "electrogrind": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Electrogrind"
   },
   "goregrind": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Goregrind"
   },
   "noisegrind": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Noisegrind"
   },
   "queercore": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Queercore"
   },
   "pornogrind": {
-    "genre": "grindcore"
-  },
-  "power electronics": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Pornogrind"
   },
   "powerviolence": {
-    "genre": "grindcore"
+    "genre": "Grindcore",
+    "capitalized": "Powerviolence"
   },
-
+  
   "extratone": {
-    "genre": "hardcore edm"
+    "genre": "Hardcore EDM",
+    "capitalized": "Extratone"
   },
   "gabber": {
-    "genre": "hardcore edm"
+    "genre": "Hardcore EDM",
+    "capitalized": "Gabber"
   },
   "happy hardcore": {
-    "genre": "hardcore edm"
+    "genre": "Hardcore EDM",
+    "capitalized": "Happy Hardcore"
   },
   "hardcore dance": {
-    "genre": "hardcore edm"
+    "genre": "Hardcore EDM",
+    "capitalized": "Hardcore Dance"
   },
   "hardstyle": {
-    "genre": "hardcore edm"
+    "genre": "Hardcore EDM",
+    "capitalized": "Hardstyle"
   },
   "speedcore": {
-    "genre": "hardcore edm"
+    "genre": "Hardcore EDM",
+    "capitalized": "Speedcore"
   },
   "splittercore": {
-    "genre": "hardcore edm"
+    "genre": "Hardcore EDM",
+    "capitalized": "Splittercore"
   },
 
+  "groove metal": {
+    "genre": "Heavy Metal",
+    "capitalized": "Groove Metal"
+  },
   "nwobhm": {
-    "genre": "heavy metal"
+    "genre": "Heavy Metal",
+    "capitalized": "NWOBHM"
   },
   
   "bebop": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Bebop"
   },
   "big band jazz": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Big Band Jazz"
   },
   "bossa nova": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Bossa Nova"
   },
   "cool jazz": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Cool Jazz"
   },
   "electro-jazz": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Electro-Jazz"
   },
   "freeform jazz": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Freeform Jazz"
   },
   "hard bop": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Hard Bop"
+  },
+  "jazz manouche": {
+    "genre": "Jazz",
+    "capitalized": "Jazz Manouche"
   },
   "jazz metal": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Jazz Metal"
   },
   "jazz pop": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Jazz Pop"
   },
   "jazz rock": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Jazz Rock"
   },
   "lounge": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Lounge"
   },
   "modal jazz": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Modal Jazz"
   },
   "modern jazz": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Modern Jazz"
   },
   "nu-jazz": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Nu-Jazz"
   },
   "post-bop": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Post-Bop"
   },
   "progressive big band": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Progressive Big Band"
   },
   "ragtime": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Ragtime"
   },
   "swing jazz": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Swing Jazz"
   },
   "traditional jazz": {
-    "genre": "jazz"
+    "genre": "Jazz",
+    "capitalized": "Traditional Jazz"
+  },
+  
+  "power electronics": {
+    "genre": "Noise",
+    "capitalized": "Power Electronics"
   },
 }
