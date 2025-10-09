@@ -17,6 +17,10 @@
     "genre": "Alternative",
     "capitalized": "Alt-Pop"
   },
+  "college rock": {
+    "genre": "Alternative",
+    "capitalized": "College Rock"
+  },
 
   "ambient": {
     "genre": "Ambient/Drone",
@@ -165,6 +169,22 @@
     "genre": "Country",
     "capitalized": "Bluegrass"
   },
+  "contemporary country": {
+    "genre": "Country",
+    "capitalized": "Contemporary Country"
+  },
+  "country pop": {
+    "genre": "Country",
+    "capitalized": "Country Pop"
+  },
+  "country rock": {
+    "genre": "Country",
+    "capitalized": "Country Rock"
+  },
+  "honky tonk": {
+    "genre": "Country",
+    "capitalized": "Honky Tonk"
+  },
   "newgrass": {
     "genre": "Country",
     "capitalized": "Newgrass"
@@ -246,6 +266,10 @@
   "death 'n' roll": {
     "genre": "Death/Black Metal",
     "capitalized": "Death 'n' Roll"
+  },
+  "deathcore": {
+    "genre": "Death/Black Metal",
+    "capitalized": "Deathcore"
   },
   "deathrash": {
     "genre": "Death/Black Metal",
@@ -482,6 +506,10 @@
     "genre": "Glam",
     "capitalized": "Glam Rock"
   },
+  "goth": {
+    "genre": "Glam",
+    "capitalized": "Goth"
+  },
   "hair metal": {
     "genre": "Glam",
     "capitalized": "Hair Metal"
@@ -584,13 +612,33 @@
     "capitalized": "NWOBHM"
   },
 
+  "alternative hip-hop": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Alternative Hip-Hop"
+  },
+  "alternative rap": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Alternative Rap"
+  },
+  "conscious hip-hop": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Conscious Hip-Hop"
+  },
   "gangsta rap": {
     "genre": "Hip-Hop/Rap",
     "capitalized": "Gangsta Rap"
   },
+  "golden age hip-hop": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Golden Age Hip-Hop"
+  },
   "hardcore hip-hop": {
     "genre": "Hip-Hop/Rap",
     "capitalized": "Hardcore Hip-Hop"
+  },
+  "hardcore rap": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Hardcore Rap"
   },
   "hip-hop": {
     "genre": "Hip-Hop/Rap",
@@ -600,6 +648,14 @@
     "genre": "Hip-Hop/Rap",
     "capitalized": "Horrorcore"
   },
+  "jazz rap": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Jazz Rap"
+  },
+  "left-field hip-hop": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Left-Field Hip-Hop"
+  },
   "mafioso rap": {
     "genre": "Hip-Hop/Rap",
     "capitalized": "Mafioso Rap"
@@ -607,6 +663,18 @@
   "rap": {
     "genre": "Hip-Hop/Rap",
     "capitalized": "Rap"
+  },
+  "trip hop": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Trip Hop"
+  },
+  "underground hip-hop": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Underground Hip-Hop"
+  },
+  "underground rap": {
+    "genre": "Hip-Hop/Rap",
+    "capitalized": "Underground Rap"
   },
 
   "carol": {
@@ -643,6 +711,22 @@
   "geek rock": {
     "genre": "Indie Rock",
     "capitalized": "Geek Rock"
+  },
+  "lo-fi": {
+    "genre": "Indie Rock",
+    "capitalized": "Lo-Fi"
+  },
+  "lo-fi rock": {
+    "genre": "Indie Rock",
+    "capitalized": "Lo-Fi Rock"
+  },
+  "post-rock": {
+    "genre": "Indie Rock",
+    "capitalized": "Post-Rock"
+  },
+  "shoegaze": {
+    "genre": "Indie Rock",
+    "capitalized": "Shoegaze"
   },
 
   "industrial metal": {
@@ -689,6 +773,10 @@
     "capitalized": "Visual Kei"
   },
 
+  "acid jazz": {
+    "genre": "Jazz",
+    "capitalized": "Acid Jazz"
+  },
   "bebop": {
     "genre": "Jazz",
     "capitalized": "Bebop"
@@ -701,6 +789,10 @@
     "genre": "Jazz",
     "capitalized": "Bossa Nova"
   },
+  "contemporary jazz": {
+    "genre": "Jazz",
+    "capitalized": "Contemporary Jazz"
+  },
   "cool jazz": {
     "genre": "Jazz",
     "capitalized": "Cool Jazz"
@@ -708,6 +800,10 @@
   "electro-jazz": {
     "genre": "Jazz",
     "capitalized": "Electro-Jazz"
+  },
+  "experimental jazz": {
+    "genre": "Jazz",
+    "capitalized": "Experimental Jazz"
   },
   "freeform jazz": {
     "genre": "Jazz",
@@ -761,6 +857,10 @@
     "genre": "Jazz",
     "capitalized": "Ragtime"
   },
+  "smooth jazz": {
+    "genre": "Jazz",
+    "capitalized": "Smooth Jazz"
+  },
   "swing jazz": {
     "genre": "Jazz",
     "capitalized": "Swing Jazz"
@@ -799,6 +899,41 @@
   "xenochrony": {
     "genre": "Mashup",
     "capitalized": "Xenochrony"
+  },
+
+  "mathcore": {
+    "genre": "Math Rock",
+    "capitalized": "Mathcore"
+  },
+
+  "extreme power metal": {
+    "genre": "Melodic/Power Metal",
+    "capitalized": "Extreme Power Metal"
+  },
+  "melodic metal": {
+    "genre": "Melodic/Power Metal",
+    "capitalized": "Melodic Metal"
+  },
+  "pirate metal": {
+    "genre": "Melodic/Power Metal",
+    "capitalized": "Pirate Metal"
+  },
+  "power metal": {
+    "genre": "Melodic/Power Metal",
+    "capitalized": "Power Metal"
+  },
+  "symphonic metal": {
+    "genre": "Melodic/Power Metal",
+    "capitalized": "Symphonic Metal"
+  },
+  "symphonic power metal": {
+    "genre": "Melodic/Power Metal",
+    "capitalized": "Symphonic Power Metal"
+  },
+
+  "progressive metalcore": {
+    "genre": "Metalcore",
+    "capitalized": "Progressive Metalcore"
   },
 
   "harsh noise": {

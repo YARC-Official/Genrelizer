@@ -1,8 +1,8 @@
 {
   "drone/ambient": "Ambient/Drone",
-  
+
   "black/death metal": "Death/Black metal",
-  
+
   "djent metal": "djent",
 
   "breakbeat/dnb/jungle": "DnB/Breakbeat/Jungle",
@@ -10,21 +10,34 @@
   "dnb/jungle/breakbeat": "DnB/Breakbeat/Jungle",
   "jungle/breakbeat/dnb": "DnB/Breakbeat/Jungle",
   "jungle/dnb/breakbeat": "DnB/Breakbeat/Jungle",
-  
+
   "dance/electronic/pop": "Electronic",
   "dance/pop/electronic": "Electronic",
   "electronic/dance/pop": "Electronic",
   "electronic/pop/dance": "Electronic",
   "pop/dance/electronic": "Electronic",
   "pop/electronic/dance": "Electronic",
-  
+
+  "grind": "Grindcore",
+  "grind core": "Grindcore",
+  "grind-core": "Grindcore",
+
+  "hard core edm": "Hardcore EDM",
+  "hard-core edm": "Hardcore EDM",
+  "hard core electronic dance music": "Hardcore EDM",
+  "hardcore electronic dance music": "Hardcore EDM",
+  "hard-core electronic dance music": "Hardcore EDM",
+
   "metal": "Heavy Metal",
 
   "hip hop/rap": "Hip-Hop/Rap",
   "rap/hip hop": "Hip-Hop/Rap",
   "rap/hip-hop": "Hip-Hop/Rap",
-  
+
   "power/melodic metal": "Melodic/Power Metal",
+
+  "metal core": "Metalcore",
+  "metal-core": "Metalcore",
 
   "nu metal": "Nu-Metal",
   "nü metal": "Nu-Metal",
@@ -37,7 +50,7 @@
   "rock n' roll": "Rock & Roll",
   "rock 'n roll": "Rock & Roll",
   "rock 'n' roll": "Rock & Roll",
-  
+
   "funk/r&b/soul": "R&B/Soul/Funk",
   "funk/soul/r&b": "R&B/Soul/Funk",
   "r&b/funk/soul": "R&B/Soul/Funk",
@@ -45,6 +58,6 @@
   "soul/r&b/funk": "R&B/Soul/Funk",
 
   "electropop/synthpop": "Synthpop/Electropop",
-  
+
   "speed/thrash metal": "Thrash/Speed Metal"
 }
