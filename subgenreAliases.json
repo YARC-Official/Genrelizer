@@ -11,6 +11,13 @@
   "sixteen bit": "16-Bit",
   "sixteen-bit": "16-Bit",
 
+  "acid-punk": "Acid Punk",
+  "acid punk rock": "Acid Punk",
+  "acid punkrock": "Acid Punk",
+  "acid punk-rock": "Acid Punk",
+
+  "acid-rock": "Acid Rock",
+
   "aor": "Album-Oriented Rock",
 
   "alt hip hop": "Alternative Hip-Hop",
@@ -103,6 +110,9 @@
 
   "break core": "Breakcore",
   "break-core": "Breakcore",
+
+  "brit pop": "Britpop",
+  "brit-pop": "Britpop",
 
   "contemporary pop rock": "Contemporary Pop-Rock",
   "contemporary poprock": "Contemporary Pop-Rock",
@@ -383,6 +393,12 @@
   "hip hop": "Hip-Hop",
   "hiphop": "Hip-Hop",
 
+  "hot rod": "Hotrod Rock",
+  "hotrod": "Hotrod Rock",
+  "hot-rod": "Hotrod Rock",
+  "hot rod rock": "Hotrod Rock",
+  "hot-rod rock": "Hotrod Rock",
+
   "horror core": "Horrorcore",
   "horror-core": "Horrorcore",
   "horror core hip hop": "Horrorcore",
@@ -653,6 +669,8 @@
   "post rock": "Post-Rock",
   "postrock": "Post-Rock",
 
+  "post industrial": "Post-Industrial",
+
   "pop-soul": "Pop Soul",
 
   "power violence": "Powerviolence",
@@ -735,6 +753,13 @@
 
   "stoner doom": "Stoner Doom Metal",
 
+  "surf punk rock": "Surf Punk",
+  "surf punkrock": "Surf Punk",
+  "surf punk-rock": "Surf Punk",
+  "surf-punk": "Surf Punk",
+  "surf-punk rock": "Surf Punk",
+  "surfpunk": "Surf Punk",
+
   "symphonic tech death": "Symphonic Technical Death Metal",
   "symphonic tech-death": "Symphonic Technical Death Metal",
 
@@ -784,5 +809,9 @@
   "underground hiphop": "Underground Hip-Hop",
 
   "vgm": "Video Game Music",
-  "video game": "Video Game Music"
+  "video game": "Video Game Music",
+
+  "vocal surf rock": "Vocal Surf",
+  "vocal surfrock": "Vocal Surf",
+  "vocal surf-rock": "Vocal Surf"
 }

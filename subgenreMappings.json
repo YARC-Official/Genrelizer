@@ -923,6 +923,10 @@
     "genre": "Industrial",
     "capitalized": "Martial Industrial"
   },
+  "post-industrial": {
+    "genre": "Industrial",
+    "capitalized": "Post-Industrial"
+  },
 
   "christian pop": {
     "genre": "Inspirational",
@@ -1172,6 +1176,14 @@
     "capitalized": "Skate Punk"
   },
 
+  "beat": {
+    "genre": "Pop-Rock",
+    "capitalized": "Beat"
+  },
+  "britpop": {
+    "genre": "Pop-Rock",
+    "capitalized": "Britpop"
+  },
   "contemporary pop-rock": {
     "genre": "Pop-Rock",
     "capitalized": "Contemporary Pop-Rock"
@@ -1207,6 +1219,10 @@
     "capitalized": "Progressive Rock"
   },
 
+  "acid rock": {
+    "genre": "Psychedelic",
+    "capitalized": "Acid Rock"
+  },
   "psychedelia": {
     "genre": "Psychedelic",
     "capitalized": "Psychedelia"
@@ -1216,6 +1232,10 @@
     "capitalized": "Psychedelic Rock"
   },
 
+  "acid punk": {
+    "genre": "Punk",
+    "capitalized": "Acid Punk"
+  },
   "alternative punk": {
     "genre": "Punk",
     "capitalized": "Alternative Punk"
@@ -1239,6 +1259,10 @@
   "riot grrrl": {
     "genre": "Punk",
     "capitalized": "Riot Grrrl"
+  },
+  "surf punk": {
+    "genre": "Punk",
+    "capitalized": "Surf Punk"
   },
 
   "funk": {
@@ -1300,6 +1324,10 @@
     "genre": "Rock & Roll",
     "capitalized": "Rockabilly"
   },
+  "skiffle": {
+    "genre": "Rock & Roll",
+    "capitalized": "Skiffle"
+  },
 
   "incidental music": {
     "genre": "Soundtrack",
@@ -1327,6 +1355,10 @@
     "capitalized": "Southern Metal"
   },
 
+  "hotrod rock": {
+    "genre": "Surf Rock",
+    "capitalized": "Hotrod Rock"
+  },
   "surf guitar": {
     "genre": "Surf Rock",
     "capitalized": "Surf Guitar"
@@ -1334,6 +1366,10 @@
   "surf pop": {
     "genre": "Surf Rock",
     "capitalized": "Surf Pop"
+  },
+  "vocal surf": {
+    "genre": "Surf Rock",
+    "capitalized": "Vocal Surf"
   },
 
   "electropop": {
