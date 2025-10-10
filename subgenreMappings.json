@@ -21,6 +21,14 @@
     "genre": "Alternative",
     "capitalized": "College Rock"
   },
+  "desert rock": {
+    "genre": "Alternative",
+    "capitalized": "Desert Rock"
+  },
+  "stoner rock": {
+    "genre": "Alternative",
+    "capitalized": "Stoner Rock"
+  },
 
   "ambient": {
     "genre": "Ambient/Drone",
@@ -378,6 +386,14 @@
     "capitalized": "Thall"
   },
 
+  "atmospheric dnb": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Atmospheric DnB"
+  },
+  "big beat": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Big Beat"
+  },
   "breakbeat": {
     "genre": "DnB/Breakbeat/Jungle",
     "capitalized": "Breakbeat"
@@ -385,6 +401,10 @@
   "breakcore": {
     "genre": "DnB/Breakbeat/Jungle",
     "capitalized": "Breakcore"
+  },
+  "drill 'n' bass": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Drill 'n' Bass"
   },
   "drum and bass": {
     "genre": "DnB/Breakbeat/Jungle",
@@ -394,9 +414,73 @@
     "genre": "DnB/Breakbeat/Jungle",
     "capitalized": "Funky Breaks"
   },
+  "fungle": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Fungle"
+  },
+  "hardstep": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Hardstep"
+  },
+  "heavy dnb": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Heavy DnB"
+  },
+  "jazz & bass": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Jazz & Bass"
+  },
+  "jazzy jungle": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Jazzy Jungle"
+  },
+  "jump-up": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Jump-Up"
+  },
   "jungle": {
     "genre": "DnB/Breakbeat/Jungle",
     "capitalized": "Jungle"
+  },
+  "light dnb": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Light DnB"
+  },
+  "liquid dnb": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Liquid DnB"
+  },
+  "liquid funk": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Liquid Funk"
+  },
+  "mainstream dnb": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Mainstream DnB"
+  },
+  "metal & bass": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Metal & Bass"
+  },
+  "neuro": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Neuro"
+  },
+  "neurofunk": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Neurofunk"
+  },
+  "sambass": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Sambass"
+  },
+  "spunk jazz": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Spunk Jazz"
+  },
+  "techstep": {
+    "genre": "DnB/Breakbeat/Jungle",
+    "capitalized": "Techstep"
   },
 
   "blackened doom metal": {
@@ -415,6 +499,26 @@
     "genre": "Doom Metal",
     "capitalized": "Funeral Doom Metal"
   },
+  "gothic doom metal": {
+    "genre": "Doom Metal",
+    "capitalized": "Gothic Doom Metal"
+  },
+  "progressive doom metal": {
+    "genre": "Doom Metal",
+    "capitalized": "Progressive Doom Metal"
+  },
+  "psychedelic doom metal": {
+    "genre": "Doom Metal",
+    "capitalized": "Psychedelic Doom Metal"
+  },
+  "stoner doom metal": {
+    "genre": "Doom Metal",
+    "capitalized": "Stoner Doom Metal"
+  },
+  "traditional doom metal": {
+    "genre": "Doom Metal",
+    "capitalized": "Traditional Doom Metal"
+  },
 
   "brostep": {
     "genre": "Dubstep",
@@ -424,6 +528,14 @@
     "genre": "Dubstep",
     "capitalized": "Clownstep"
   },
+  "drumstep": {
+    "genre": "Dubstep",
+    "capitalized": "Drumstep"
+  },
+  "dubstyle": {
+    "genre": "Dubstep",
+    "capitalized": "Dubstyle"
+  },
   "funkstep": {
     "genre": "Dubstep",
     "capitalized": "Funkstep"
@@ -431,10 +543,6 @@
   "glitchstep": {
     "genre": "Dubstep",
     "capitalized": "Glitchstep"
-  },
-  "hardstep": {
-    "genre": "Dubstep",
-    "capitalized": "Hardstep"
   },
   "metalstep": {
     "genre": "Dubstep",
@@ -603,6 +711,22 @@
     "capitalized": "Splittercore"
   },
 
+  "acoustic metal": {
+    "genre": "Heavy Metal",
+    "capitalized": "Acoustic Metal"
+  },
+  "bass metal": {
+    "genre": "Heavy Metal",
+    "capitalized": "Bass Metal"
+  },
+  "classic heavy metal": {
+    "genre": "Heavy Metal",
+    "capitalized": "Classic Heavy Metal"
+  },
+  "experimental metal": {
+    "genre": "Heavy Metal",
+    "capitalized": "Experimental Metal"
+  },
   "groove metal": {
     "genre": "Heavy Metal",
     "capitalized": "Groove Metal"
@@ -702,6 +826,14 @@
   "art techno": {
     "genre": "IDM",
     "capitalized": "Art Techno"
+  },
+  "intelligent dnb": {
+    "genre": "IDM",
+    "capitalized": "Intelligent DnB"
+  },
+  "intelligent jungle": {
+    "genre": "IDM",
+    "capitalized": "Intelligent Jungle"
   },
   "intelligent techno": {
     "genre": "IDM",
