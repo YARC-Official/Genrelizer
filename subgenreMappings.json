@@ -68,6 +68,10 @@
     "genre": "Blues",
     "capitalized": "Acoustic Blues"
   },
+  "blues rock": {
+    "genre": "Blues",
+    "capitalized": "Blues Rock"
+  },
   "chicago blues": {
     "genre": "Blues",
     "capitalized": "Chicago Blues"
@@ -553,9 +557,29 @@
     "genre": "Electronic",
     "capitalized": "Downtempo"
   },
+  "electro": {
+    "genre": "Electronic",
+    "capitalized": "Electro"
+  },
   "electronica": {
     "genre": "Electronic",
     "capitalized": "Electronica"
+  },
+  "electro-funk": {
+    "genre": "Electronic",
+    "capitalized": "Electro-Funk"
+  },
+  "garage": {
+    "genre": "Electronic",
+    "capitalized": "Garage"
+  },
+  "uk garage": {
+    "genre": "Electronic",
+    "capitalized": "UK Garage"
+  },
+  "wonky": {
+    "genre": "Electronic",
+    "capitalized": "Wonky"
   },
 
   "crossbreed": {
@@ -740,6 +764,10 @@
   "classic heavy metal": {
     "genre": "Heavy Metal",
     "capitalized": "Classic Heavy Metal"
+  },
+  "dark metal": {
+    "genre": "Heavy Metal",
+    "capitalized": "Dark Metal"
   },
   "experimental metal": {
     "genre": "Heavy Metal",
@@ -1086,6 +1114,15 @@
     "capitalized": "Progressive Metalcore"
   },
 
+  "dark wave": {
+    "genre": "New Wave",
+    "capitalized": "Dark Wave"
+  },
+  "electroclash": {
+    "genre": "New Wave",
+    "capitalized": "Electroclash"
+  },
+
   "harsh noise": {
     "genre": "Noise",
     "capitalized": "Harsh Noise"
@@ -1135,9 +1172,21 @@
     "capitalized": "Skate Punk"
   },
 
+  "contemporary pop-rock": {
+    "genre": "Pop-Rock",
+    "capitalized": "Contemporary Pop-Rock"
+  },
   "jangle pop": {
     "genre": "Pop-Rock",
     "capitalized": "Jangle Pop"
+  },
+  "power pop": {
+    "genre": "Pop-Rock",
+    "capitalized": "Power Pop"
+  },
+  "soft rock": {
+    "genre": "Pop-Rock",
+    "capitalized": "Soft Rock"
   },
 
   "easycore": {
@@ -1167,6 +1216,18 @@
     "capitalized": "Psychedelic Rock"
   },
 
+  "alternative punk": {
+    "genre": "Punk",
+    "capitalized": "Alternative Punk"
+  },
+  "classic punk": {
+    "genre": "Punk",
+    "capitalized": "Classic Punk"
+  },
+  "dance-punk": {
+    "genre": "Punk",
+    "capitalized": "Dance-Punk"
+  },
   "garage punk": {
     "genre": "Punk",
     "capitalized": "Garage Punk"
@@ -1184,6 +1245,18 @@
     "genre": "R&B/Soul/Funk",
     "capitalized": "Funk"
   },
+  "motown": {
+    "genre": "R&B/Soul/Funk",
+    "capitalized": "Motown"
+  },
+  "pop r&b": {
+    "genre": "R&B/Soul/Funk",
+    "capitalized": "Pop R&B"
+  },
+  "pop soul": {
+    "genre": "R&B/Soul/Funk",
+    "capitalized": "Pop Soul"
+  },
   "rhythm and blues": {
     "genre": "R&B/Soul/Funk",
     "capitalized": "Rhythm & Blues"
@@ -1197,6 +1270,10 @@
     "capitalized": "Soul Rock"
   },
 
+  "dub": {
+    "genre": "Reggae/Ska",
+    "capitalized": "Dub"
+  },
   "reggae": {
     "genre": "Reggae/Ska",
     "capitalized": "Reggae"

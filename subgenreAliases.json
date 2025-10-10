@@ -22,6 +22,22 @@
   "alternative hip hop": "Alternative Hip-Hop",
   "alternative hiphop": "Alternative Hip-Hop",
 
+  "alt punk": "Alternative Punk",
+  "alt punk rock": "Alternative Punk",
+  "alt punkrock": "Alternative Punk",
+  "alt punk-rock": "Alternative Punk",
+  "alternative punk rock": "Alternative Punk",
+  "alternative punkrock": "Alternative Punk",
+  "alternative punk-rock": "Alternative Punk",
+  "alt. punk": "Alternative Punk",
+  "alt. punk rock": "Alternative Punk",
+  "alt. punkrock": "Alternative Punk",
+  "alt. punk-rock": "Alternative Punk",
+  "alt-punk": "Alternative Punk",
+  "alt-punk rock": "Alternative Punk",
+  "alt-punkrock": "Alternative Punk",
+  "alt-punk-rock": "Alternative Punk",
+
   "alt rap": "Alternative Rap",
   "alt. rap": "Alternative Rap",
   "alt-rap": "Alternative Rap",
@@ -83,8 +99,14 @@
   "black-gaze": "Blackgaze",
   "black-gazing": "Blackgaze",
 
+  "blues-rock": "Blues Rock",
+
   "break core": "Breakcore",
   "break-core": "Breakcore",
+
+  "contemporary pop rock": "Contemporary Pop-Rock",
+  "contemporary poprock": "Contemporary Pop-Rock",
+  "contemporary pop/rock": "Contemporary Pop-Rock",
 
   "crust grind": "Crustgrind",
   "crust-grind": "Crustgrind",
@@ -98,6 +120,10 @@
 
   "classic metal": "Classic Heavy Metal",
 
+  "classic punk rock": "Classic Punk",
+  "classic punkrock": "Classic Punk",
+  "classic punk-rock": "Classic Punk",
+
   "conscious hip hop": "Conscious Hip-Hop",
   "conscious hiphop": "Conscious Hip-Hop",
 
@@ -106,9 +132,15 @@
 
   "crossover thrash metal": "Crossover Thrash",
 
+  "dancepunk": "Dance-Punk",
+  "dance punk": "Dance-Punk",
+
   "dark amb": "Dark Ambient",
   "dark-amb": "Dark Ambient",
   "dark-ambient": "Dark Ambient",
+
+  "darkwave": "Dark Wave",
+  "dark-wave": "Dark Wave",
 
   "death core": "Deathcore",
   "death-core": "Deathcore",
@@ -176,11 +208,17 @@
 
   "etude": "Étude",
 
+  "electro clash": "Electroclash",
+  "electro-clash": "Electroclash",
+
   "electro grind": "Electrogrind",
   "electro-grind": "Electrogrind",
 
   "electrohouse": "Electro House",
   "electro-house": "Electro House",
+
+  "electro funk": "Electro-Funk",
+  "electrofunk": "Electro-Funk",
 
   "electro jazz": "Electro-Jazz",
   "electrojazz": "Electro-Jazz",
@@ -210,6 +248,10 @@
   "easy-core": "Easycore",
 
   "funeral doom": "Funeral Doom Metal",
+
+  "garage punk rock": "Garage Punk",
+  "garage punkrock": "Garage Punk",
+  "garage punk-rock": "Garage Punk",
 
   "glitch core": "Glitchcore",
   "glitch-core": "Glitchcore",
@@ -298,6 +340,15 @@
   "hard-core": "Hardcore Punk",
   "hard core punk": "Hardcore Punk",
   "hard-core punk": "Hardcore Punk",
+  "hardcore punk rock": "Hardcore Punk",
+  "hardcore punk-rock": "Hardcore Punk",
+  "hardcore punkrock": "Hardcore Punk",
+  "hard core punk rock": "Hardcore Punk",
+  "hard core punkrock": "Hardcore Punk",
+  "hard core punk-rock": "Hardcore Punk",
+  "hard-core punk rock": "Hardcore Punk",
+  "hard-core punk-rock": "Hardcore Punk",
+  "hard-core punkrock": "Hardcore Punk",
 
   "hard core rap": "Hardcore Rap",
   "hard-core rap": "Hardcore Rap",
@@ -557,6 +608,37 @@
   "poetry core": "Poetrycore",
   "poetry-core": "Poetrycore",
 
+  "poppunk": "Pop Punk",
+  "poppunk rock": "Pop Punk",
+  "poppunkrock": "Pop Punk",
+  "poppunk-rock": "Pop Punk",
+  "pop punk rock": "Pop Punk",
+  "pop punkrock": "Pop Punk",
+  "pop punk-rock": "Pop Punk",
+  "pop-punk": "Pop Punk",
+  "pop-punk rock": "Pop Punk",
+  "pop-punkrock": "Pop Punk",
+  "pop-punk-rock": "Pop Punk",
+
+  "pop rhythm and blues": "Pop R&B",
+  "pop rhythm n blues": "Pop R&B",
+  "pop rhythm n' blues": "Pop R&B",
+  "pop rhythm 'n blues": "Pop R&B",
+  "pop rhythm 'n' blues": "Pop R&B",
+  "pop rhythm & blues": "Pop R&B",
+  "pop rhythm'n'blues": "Pop R&B",
+  "pop rhythm-and-blues": "Pop R&B",
+  "pop rhythm-n-blues": "Pop R&B",
+  "pop rhythm-n'-blues": "Pop R&B",
+  "pop rhythm-'n-blues": "Pop R&B",
+  "pop rhythm-'n'-blues": "Pop R&B",
+  "pop rhythm-&-blues": "Pop R&B",
+  "pop rhythm&blues": "Pop R&B",
+  "pop rnb": "Pop R&B",
+  "pop r'n'b": "Pop R&B",
+  "pop-rnb": "Pop R&B",
+  "pop-r&b": "Pop R&B",
+
   "porn grind": "Pornogrind",
   "porngrind": "Pornogrind",
   "porn-grind": "Pornogrind",
@@ -570,6 +652,8 @@
 
   "post rock": "Post-Rock",
   "postrock": "Post-Rock",
+
+  "pop-soul": "Pop Soul",
 
   "power violence": "Powerviolence",
   "power-violence": "Powerviolence",
@@ -617,7 +701,20 @@
   "queer-core": "Queercore",
 
   "rhythm and blues": "Rhythm & Blues",
+  "rhythm n blues": "Rhythm & Blues",
+  "rhythm n' blues": "Rhythm & Blues",
+  "rhythm 'n blues": "Rhythm & Blues",
+  "rhythm 'n' blues": "Rhythm & Blues",
+  "rhythm'n'blues": "Rhythm & Blues",
+  "rhythm-and-blues": "Rhythm & Blues",
+  "rhythm-n-blues": "Rhythm & Blues",
+  "rhythm-n'-blues": "Rhythm & Blues",
+  "rhythm-'n-blues": "Rhythm & Blues",
+  "rhythm-'n'-blues": "Rhythm & Blues",
+  "rhythm-&-blues": "Rhythm & Blues",
+  "rhythm&blues": "Rhythm & Blues",
   "rnb": "Rhythm & Blues",
+  "r'n'b": "Rhythm & Blues",
   "r&b": "Rhythm & Blues",
 
   "riot girl": "Riot Grrrl",
@@ -680,6 +777,8 @@
   "truck driving country": "Truck-Driving Country",
   "truck-drivin country": "Truck-Driving Country",
   "truck-drivin' country": "Truck-Driving Country",
+
+  "u.k. garage": "UK Garage",
 
   "underground hip hop": "Underground Hip-Hop",
   "underground hiphop": "Underground Hip-Hop",
