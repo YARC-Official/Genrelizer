@@ -45,8 +45,7 @@ The only exception to this is for certain specific genre/subgenre pairs that Mag
 
 ### Can I submit a pull request to add a new mapping or alias?
 **Yes!** Genrelizer is meant to be crowdsourced, and we're always happy to receive new mappings and aliases from the community. Please make sure you follow these rules:
-* Key strings should be all-lowercase. This doesn't strictly matter because all of Genrelizer's string comparisons are case-insensitive, but we keep it that way for readability
-* Value strings should be in Title Case, because they will be displayed case-sensitively in some contexts in YARG
+* Follow the capitalization patterns that you see in each file. In some cases, this is just for readability, but many Title Case strings in these files will be rendered case-sensitively in _YARG_
 * Don't submit aliases between genre names that have _any_ semantic difference. Aliases have to be absolutely 100% synonymous to be valid
 * _Do_ try to be exhaustive with aliases for nonsemantic differences. If a genre might hyphenate two words, alias the hyphenated version to the non-hyphenated one or vice-versa (your call, depending on which is more common). If there's a shortened version of a word (like "prog" for "progressive"), alias one to the other. When a genre name has multiple of these scenarios at once, create aliases for all the possible permutations (`progressive hip-hop`, `prog hip-hop`, `progressive hip hop`, `prog hip hop`...)
 * Try to avoid subgenre names that are just adjectives - we prefer "alternative rock" over "alternative". You can bend this rule if a genre name is getting overly long, or if the adjective-only form is much more common in everyday use
