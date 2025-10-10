@@ -558,6 +558,14 @@
     "capitalized": "Electronica"
   },
 
+  "crossbreed": {
+    "genre": "Electronic Rock",
+    "capitalized": "Crossbreed"
+  },
+  "electro-rock": {
+    "genre": "Electronic Rock",
+    "capitalized": "Electro-Rock"
+  },
   "electronic metal": {
     "genre": "Electronic Rock",
     "capitalized": "Electronic Metal"
@@ -677,9 +685,19 @@
     "capitalized": "Powerviolence"
   },
 
+  "southern groove metal": {
+    "genre": "Groove Metal",
+    "capitalized": "Southern Groove Metal"
+  },
+
   "grunge rock": {
     "genre": "Grunge",
     "capitalized": "Grunge Rock"
+  },
+
+  "arena rock": {
+    "genre": "Hard Rock",
+    "capitalized": "Arena Rock"
   },
 
   "extratone": {
@@ -1140,9 +1158,26 @@
     "capitalized": "Progressive Rock"
   },
 
+  "psychedelia": {
+    "genre": "Psychedelic",
+    "capitalized": "Psychedelia"
+  },
+  "psychedelic rock": {
+    "genre": "Psychedelic",
+    "capitalized": "Psychedelic Rock"
+  },
+
   "garage punk": {
     "genre": "Punk",
     "capitalized": "Garage Punk"
+  },
+  "hardcore punk": {
+    "genre": "Punk",
+    "capitalized": "Hardcore Punk"
+  },
+  "riot grrrl": {
+    "genre": "Punk",
+    "capitalized": "Riot Grrrl"
   },
 
   "funk": {
@@ -1175,9 +1210,13 @@
     "capitalized": "Ska Punk"
   },
 
-  "hard rock": {
+  "instrumental rock": {
     "genre": "Rock",
-    "capitalized": "Hard Rock"
+    "capitalized": "Instrumental Rock"
+  },
+  "modern rock": {
+    "genre": "Rock",
+    "capitalized": "Modern Rock"
   },
 
   "rockabilly": {

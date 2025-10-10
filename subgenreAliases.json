@@ -101,6 +101,9 @@
   "conscious hip hop": "Conscious Hip-Hop",
   "conscious hiphop": "Conscious Hip-Hop",
 
+  "cross breed": "Crossbreed",
+  "cross-breed": "Crossbreed",
+
   "crossover thrash metal": "Crossover Thrash",
 
   "dark amb": "Dark Ambient",
@@ -181,6 +184,9 @@
 
   "electro jazz": "Electro-Jazz",
   "electrojazz": "Electro-Jazz",
+
+  "electro rock": "Electro-Rock",
+  "electrorock": "Electro-Rock",
 
   "electronic dance": "EDM",
   "electronic dance music": "EDM",
@@ -286,6 +292,12 @@
   "hard-core hip-hop": "Hardcore Hip-Hop",
   "hard-core hip hop": "Hardcore Hip-Hop",
   "hard-core hiphop": "Hardcore Hip-Hop",
+
+  "hardcore": "Hardcore Punk",
+  "hard core": "Hardcore Punk",
+  "hard-core": "Hardcore Punk",
+  "hard core punk": "Hardcore Punk",
+  "hard-core punk": "Hardcore Punk",
 
   "hard core rap": "Hardcore Rap",
   "hard-core rap": "Hardcore Rap",
@@ -592,6 +604,8 @@
   "psyche-doom": "Psychedelic Doom Metal",
   "psyche-doom metal": "Psychedelic Doom Metal",
 
+  "psychadelic rock": "Psychedelic Rock",
+
   "psy trance": "Psychedelic Trance",
   "psy-trance": "Psychedelic Trance",
   "psytrance": "Psychedelic Trance",
@@ -605,6 +619,11 @@
   "rhythm and blues": "Rhythm & Blues",
   "rnb": "Rhythm & Blues",
   "r&b": "Rhythm & Blues",
+
+  "riot girl": "Riot Grrrl",
+  "riot grl": "Riot Grrrl",
+  "riot grrl": "Riot Grrrl",
+  "riot grrrrl": "Riot Grrrl",
 
   "shoegazing": "Shoegaze",
 
