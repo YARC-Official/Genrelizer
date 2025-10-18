@@ -1218,6 +1218,10 @@
     "genre": "Progressive",
     "capitalized": "Progressive Rock"
   },
+  "progressive metal": {
+    "genre": "Progressive",
+    "capitalized": "Progressive Metal"
+  },
 
   "acid rock": {
     "genre": "Psychedelic",
