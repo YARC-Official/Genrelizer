@@ -1,0 +1,63 @@
+{
+  "name": "Melodic/Power Metal",
+
+  "substitutions": {
+    "melodic/power metal": [
+      "power/melodic metal",
+      "powermelodicmetal",
+      "melodic/powermetal",
+      "melodic/power-metal",
+      "melodicpowermetal"
+    ]
+  },
+
+  "subgenres": {
+    "Extreme Power Metal": {
+      "substitutions": {
+        "extreme": [ "xtreme", "x-treme" ],
+        "power ": [ "power", "power-" ]
+      }
+    },
+
+    "Melodic Metal": {},
+
+    "Neoclassical Metal": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Pirate Metal": {},
+
+    "Japanese Power Metal": {
+      "substitutions": {
+        "power ": [ "power", "power-" ]
+      }
+    },
+
+    "Power Metal": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Intense Symphonic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Symphonic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Symphonic Power Metal": {
+      "substitutions": {
+        "power ": [ "power", "power-" ]
+      }
+    }
+  }
+}

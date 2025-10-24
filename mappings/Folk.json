@@ -1,0 +1,42 @@
+{
+  "name": "Folk",
+
+  "subgenres": {
+    "Acoustic Folk": {},
+
+    "American Roots": {},
+
+    "Dance-Folk": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Folk Pop": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Folk Rock": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Folktronica": {},
+
+    "Indie Folk": {
+      "substitutions": {
+        "ie": [ "y", "ependent" ],
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Traditional Folk": {
+      "substitutions": {
+        "traditional ": [ "trad ", "trad. ", "trad-" ]
+      }
+    }
+  }
+}

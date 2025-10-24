@@ -1,0 +1,44 @@
+{
+  "name": "World",
+
+  "subgenres": {
+    "Afrobeat": {
+      "substitutions": {
+        "beat": [ " beat", "-beat" ]
+      }
+    },
+
+    "Bhangra": {},
+
+    "Canzone Napoletana": {
+      "substitutions": {
+        "canzone napoletana": [ "canzone" ]
+      }
+    },
+
+    "Chanson": {},
+
+    "Exotica": {},
+
+    "Indian Music": {
+      "substitutions": {
+        " music": [ "" ]
+      }
+    },
+
+    "Junkanoo": {},
+
+    "Laïkó": {
+      "substitutions": {
+        "ï": [ "i" ],
+        "ó": [ "o" ]
+      }
+    },
+
+    "Worldbeat": {
+      "substitutions": {
+        "beat": [ " beat", "-beat" ]
+      }
+    }
+  }
+}

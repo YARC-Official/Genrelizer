@@ -1,0 +1,35 @@
+{
+  "name": "Synthpop/Electropop",
+
+  "substitutions": [
+    "synth pop/electro pop",
+    "synth-pop/electro-pop",
+    "synthpopelectropop",
+    "electropop/synthpop",
+    "electro pop/synth pop",
+    "electro-pop/synth-pop",
+    "electropopsynthpop"
+  ],
+
+  "subgenres": {
+    "Dance-Pop": {
+      "substitutions": {
+        "-pop": [ " pop", "pop" ]
+      }
+    },
+
+    "Electronic Pop": {},
+
+    "Electropop": {
+      "substitutions": {
+        "pop": [ " pop", "-pop" ]
+      }
+    },
+
+    "Synthpop": {
+      "substitutions": {
+        "pop": [ " pop", "-pop" ]
+      }
+    }
+  }
+}

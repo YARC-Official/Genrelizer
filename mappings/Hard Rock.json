@@ -1,0 +1,15 @@
+{
+  "name": "Hard Rock",
+
+  "substitutions": {
+    " ": [ "", "-" ]
+  },
+
+  "subgenres": {
+    "Arena Rock": {},
+
+    "Heavy Rock": {},
+
+    "Stadium Rock": {}
+  }
+}

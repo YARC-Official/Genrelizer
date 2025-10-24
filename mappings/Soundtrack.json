@@ -1,0 +1,67 @@
+{
+  "name": "Soundtrack",
+
+  "substitutions": {
+    "soundtrack": [ "sound-track", "sound track", "ost" ]
+  },
+
+  "subgenres": {
+    "Backing Music": {
+      "substitutions": {
+        " music": [ "" ]
+      }
+    },
+
+    "Cartoon": {
+      "suffixes": [ "s", " music" ]
+    },
+
+    "Fanfare": {},
+
+    "Incidental Music": {
+      "substitutions": {
+        " music": [ "" ]
+      }
+    },
+
+    "Jingle": {},
+
+    "Score": {},
+
+    "Sting": {},
+
+    "Video Game Music": {
+      "substitutions": {
+        "video game music": [
+          "video game",
+          "video-game",
+          "videogame",
+          "vg",
+          "vg music",
+          "vgmusic",
+          "vgm",
+          "video game ost",
+          "video-game ost",
+          "videogame ost",
+          "vg ost",
+          "game",
+          "game cover",
+          "game music",
+          "game ost",
+          "game soundtrack",
+          "game sound track",
+          "game sound-track",
+          "video game soundtrack",
+          "video-game soundtrack",
+          "videogame soundtrack",
+          "video game sound track",
+          "video-game sound track",
+          "videogame sound track",
+          "video game sound-track",
+          "video-game sound-track",
+          "videogame sound-track"
+        ]
+      }
+    }
+  }
+}

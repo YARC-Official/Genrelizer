@@ -1,0 +1,67 @@
+{
+  "name": "Electronic Rock",
+
+  "substitutions": {
+    " ": [ "" ]
+  },
+
+  "subgenres": {
+    "8-Bit Rock": {
+      "substitutions": {
+        "8": [ "eight" ],
+        "-": [ "", " " ]
+      }
+    },
+
+    "Bit Metal": {
+      "subtitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Bit Rock": {
+      "subtitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Chiptune Metal": {
+      "substitutions": {
+        "chiptune": [ "chip tune", "chip-tune" ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Chiptune Rock": {
+      "substitutions": {
+        "chiptune": [ "chip tune", "chip-tune" ]
+      }
+    },
+
+    "Crossbreed": {
+      "substitutions": {
+        "cross": [ "cross ", "cross-" ]
+      }
+    },
+
+    "Electro-Rock": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Electronic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Instrumental Synth Metal": {},
+
+    "Synthrock": {
+      "substitutions": {
+        "synth": [ "synth ", "synth-" ]
+      }
+    }
+  }
+}

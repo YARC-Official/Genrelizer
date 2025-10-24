@@ -1,0 +1,65 @@
+{
+  "name": "Progressive",
+
+  "substitutions": {
+    "progressive": [ "prog", "prog." ]
+  },
+
+  "subgenres": {
+    "Art Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Avant-Garde Rock": {
+      "substitutions": {
+        "-garde ": [ "garde ", " garde ", "" ]
+      }
+    },
+
+    "Avant-Garde Metal": {
+      "substitutions": {
+        "-garde ": [ "garde ", " garde ", "" ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Blackened Progressive Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
+    "Electronic Progressive Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
+    "Instrumental Progressive Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "New Prog": {
+      "substitutions": {
+        "prog": [ "prog.", "progressive" ]
+      }
+    },
+
+    "Progressive Rock": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
+    "Progressive Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "name": "Fusion",
+
+  "subgenres": {
+    "Balkan Fusion": {},
+
+    "Classical Fusion": {},
+
+    "Digital Fusion": {},
+
+    "Flamenco Jazz Fusion": {
+      "jazz fusion": [ "jazz-fusion" ]
+    },
+
+    "Flamenco Metal": {},
+
+    "Fusion Metal": {},
+
+    "Fusion Rock": {},
+
+    "Jazz Fusion": {
+      "substitutions": {
+        " ": [ "-" ]
+      }
+    },
+
+    "Progressive Jazz Fusion": {
+      "substitutions": {
+        "jazz fusion": [ "jazz-fusion" ],
+        "progressive": [ "prog", "prog." ]
+      }
+    }
+  }
+}

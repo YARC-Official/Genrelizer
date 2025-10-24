@@ -1,0 +1,42 @@
+{
+  "name": "IDM",
+
+  "substitutions": {
+    "idm": [ "intelligent dance music", "braindance" ]
+  },
+
+  "subgenres": {
+    "Art Techno": {
+      "substitutions": {
+        "art ": [ "art-" ]
+      }
+    },
+
+    "Intelligent DnB": {
+      "substitutions": {
+        "dnb": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      },
+
+      "Intelligent Jungle": {},
+
+      "Intelligent Techno": {}
+    }
+  }
+}

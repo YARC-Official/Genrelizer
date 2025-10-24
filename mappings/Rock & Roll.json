@@ -1,0 +1,20 @@
+{
+  "name": "Rock & Roll",
+
+  "substitutions": {
+    " ": [ "", "-" ],
+    "&": [ "and", "n", "'n'", "n'", "'n" ]
+  },
+
+  "subgenres": {
+    "Boogie Woogie": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Rockabilly": {},
+
+    "Skiffle": {}
+  }
+}

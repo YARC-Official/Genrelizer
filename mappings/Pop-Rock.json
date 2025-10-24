@@ -1,0 +1,43 @@
+{
+  "name": "Pop-Rock",
+
+  "substitutions": {
+    "-": [ "", " " ]
+  },
+
+  "subgenres": {
+    "Beat": {
+      "suffixes": [ " music" ]
+    },
+
+    "Britpop": {
+      "substitutions": {
+        "pop": [ " pop", "-pop" ]
+      }
+    },
+
+    "Contemporary Pop-Rock": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Jangle Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Power Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Soft Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    }
+  }
+}

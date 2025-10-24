@@ -1,0 +1,130 @@
+{
+  "name": "Pop",
+
+  "suffixes": [
+    " music"
+  ],
+
+  "subgenres": {
+    "80's Pop": {
+      "substitutions": {
+        "80's": [ "80s", "1980s", "1980's", "eighties" ]
+      }
+    },
+
+    "90's Pop": {
+      "substitutions": {
+        "90's": [ "90s", "1990s", "1990's", "nineties" ]
+      }
+    },
+
+    "Adult Alternative": {
+      "substitutions": {
+        " ": [ "-" ],
+        "alternative": [ "alt", "alt.", "alt'", "altern", "altern.", "altern'", "alternate" ]
+      }
+    },
+
+    "Adult Contemporary": {
+      "substitutions": {
+        " ": [ "-" ]
+      }
+    },
+
+    "Art Pop": {
+      "subtitutions": {
+        " pop": [ "-pop", "pop" ]
+      }
+    },
+
+    "Baroque Pop": {
+      "subtitutions": {
+        " pop": [ "-pop", "pop" ]
+      }
+    },
+
+    "Bubblegum Bass": {
+      "subtitutions": {
+        "gum": [ "-gum", " gum" ]
+      }
+    },
+
+    "Bubblegum Pop": {
+      "subtitutions": {
+        "gum": [ "-gum", " gum" ],
+        " pop": [ "-pop", "pop" ]
+      }
+    },
+
+    "City Pop": {},
+
+    "Classic Pop": {
+      "suffixes": [
+        " music"
+      ]
+    },
+
+    "Classical Crossover": {},
+
+    "Contemporary Pop": {
+      "suffixes": [
+        " music"
+      ]
+    },
+
+    "Doo-Wop": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Dream Pop": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Europop": {
+      "substitutions": {
+        "euro": [ "euro ", "euro-" ]
+      }
+    },
+
+    "Experimental Pop": {},
+
+    "Hyperpop": {
+      "subtitutions": {
+        " pop": [ "-pop", "pop" ]
+      }
+    },
+
+    "Indie Pop": {
+      "substitutions": {
+        "ie": [ "y", "ependent" ],
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Live Pop": {},
+
+    "Modern Pop": {
+      "suffixes": [
+        " music"
+      ]
+    },
+
+    "Radio Pop": {},
+
+    "Teen Pop": {
+      "subtitutions": {
+        " pop": [ "-pop", "pop" ]
+      }
+    },
+
+    "Traditional Pop": {
+      "suffixes": [
+        " music"
+      ]
+    }
+  }
+}

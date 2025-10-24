@@ -1,0 +1,23 @@
+{
+  "name": "Ballad",
+
+  "subgenres": {
+    "Piano Ballad": {
+      "substitutions": {
+        "piano ": [ "piano", "piano-" ]
+      }
+    },
+
+    "Pop Ballad": {
+      "substitutions": {
+        "pop ": [ "pop", "pop-" ]
+      }
+    },
+
+    "Power Ballad": {
+      "substitutions": {
+        "power ": [ "power", "power-" ]
+      }
+    }
+  }
+}

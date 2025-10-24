@@ -1,0 +1,27 @@
+{
+  "name": "Trap",
+
+  "subgenres": {
+    "Ambient Trap": {
+      "substitutions": {
+        "ambient": [ "amb", "amb'", "amb." ]
+      }
+    },
+
+    "Country Trap": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Experimental Trap": {},
+
+    "Hybrid Trap": {},
+
+    "Trap Pop": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    }
+  }
+}

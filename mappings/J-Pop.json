@@ -1,0 +1,12 @@
+{
+  "name": "J-Pop",
+
+  "substitutions": {
+    "j": [ "japan", "japanese" ],
+    "-": [ "", " " ]
+  },
+
+  "subgenres": {
+    "Idol Pop": {}
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Doom Metal",
+
+  "substitutions": {
+    " ":  [ "" ]
+  },
+
+  "subgenres": {
+    "Blackened Doom Metal": {
+      "substitutions": {
+        "blackened ": [ "black", "black-" ],
+        "doom metal": [ "doom" ]
+      }
+    },
+
+    "Doom Death": {
+      "substitutions": {
+        "doom death": [ "doom-death" ]
+      },
+      "suffixes": [ " metal" ]
+    },
+
+    "Drone Doom": {
+      "substitutions": {
+        "drone ": [ "drone-" ],
+        "doom": [ "doom metal" ]
+      }
+    },
+
+    "Epic Doom Metal": {
+      "substitutions": {
+        "doom metal": [ "doom" ]
+      }
+    },
+
+    "Funeral Doom Metal": {
+      "substitutions": {
+        "doom metal": [ "doom" ]
+      }
+    },
+
+    "Gothic Doom Metal": {
+      "substitutions": {
+        "doom metal": [ "doom" ]
+      }
+    },
+
+    "Progressive Doom Metal": {
+      "substitutions": {
+        "doom metal": [ "doom" ],
+        "progressive ": [ "prog ", "prog-" ]
+      }
+    },
+
+    "Psychedelic Doom Metal": {
+      "substitutions": {
+        "doom metal": [ "doom" ],
+        "psychedelic ": [ "psych ", "psych-", "psyche ", "psyche-" ]
+      }
+    },
+
+    "Stoner Doom Metal": {
+      "substitutions": {
+        "doom metal": [ "doom" ]
+      }
+    },
+
+    "Traditional Doom Metal": {
+      "substitutions": {
+        "doom metal": [ "doom" ],
+        "traditional":  [ "trad", "trad." ]
+      }
+    }
+  }
+}

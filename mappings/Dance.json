@@ -1,0 +1,88 @@
+{
+  "name": "Dance",
+
+  "suffixes": [ "electronic" ],
+
+  "subgenres": {
+    "Alternative Dance": {
+      "substitutions": {
+        "alternative ": [ "alt", "alt ", "alt-", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternate" ]
+      }
+    },
+
+    "Country EDM": {
+      "substitutions": {
+        "edm": [ "electronic dance music", "electronic dance" ]
+      }
+    },
+
+    "Country Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Country Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Country Swing": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "EDM": {
+      "substitutions": {
+        "edm": [ "electronic dance music", "electronic dance" ]
+      }
+    },
+
+    "Electro Dance": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Electronic Body Music": {
+      "substitutions": {
+        "electronic body music": [ "ebm" ]
+      }
+    },
+
+    "Eurobeat": {
+      "substitutions": {
+        "euro": [ "euro ", "euro-" ]
+      }
+    },
+
+    "Eurodance": {
+      "substitutions": {
+        "euro": [ "euro ", "euro-" ]
+      }
+    },
+
+    "Folk EDM": {},
+
+    "Future Bass": {},
+
+    "Grime": {},
+
+    "Hyper Eurobeat": {
+      "substitutions": {
+        "hyper ": [ "hyper", "hyper-" ],
+        "euro": [ "euro ", "euro-" ]
+      }
+    },
+
+    "Italodance": {
+      "substitutions": {
+        "italo": [ "italo ", "italo-" ]
+      }
+    },
+
+    "Rave": {}
+  }
+}

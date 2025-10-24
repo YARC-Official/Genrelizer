@@ -1,0 +1,54 @@
+{
+  "name": "Country",
+
+  "subgenres": {
+    "Alternative Country": {
+      "substitutions": {
+        "alternative ": [ "alt", "alt ", "alt-", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternate" ]
+      }
+    },
+
+    "Bluegrass": {
+      "substitutions": {
+        "blue": [ "blue ", "blue-" ]
+      }
+    },
+
+    "Contemporary Country": {},
+
+    "Country Pop": {
+      "substitutions": {
+        "country ": [ "country-" ]
+      }
+    },
+
+    "Country Rock": {
+      "substitutions": {
+        "country ": [ "country-" ]
+      }
+    },
+
+    "Electronic Country": {},
+
+    "Honky Tonk": {
+      "substitutions": {
+        "honky ": [ "honky", "honky-" ]
+      }
+    },
+
+    "Newgrass": {
+      "substitutions": {
+        "blue": [ "new ", "new-" ]
+      }
+    },
+
+    "Outlaw Country": {},
+
+    "Truck-Driving Country": {
+      "substitutions": {
+        "truck-": [ "truck", "truck " ],
+        "driving": [ "drivin", "drivin'" ]
+      }
+    }
+  }
+}

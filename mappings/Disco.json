@@ -1,0 +1,26 @@
+{
+  "name": "Disco",
+
+  "subgenres": {
+    "Disco Funk": {
+      "substitutions": {
+        "disco ": [ "disco", "disco-" ]
+      }
+    },
+
+    "Disco Polo": {},
+
+    "Euro Disco": {
+      "substitutions": {
+        "euro ": [ "euro", "euro-" ]
+      }
+    },
+
+    "Nu-Disco": {
+      "substitutions": {
+        "nu": [ "nü" ],
+        "-": [ "", " " ]
+      }
+    }
+  }
+}

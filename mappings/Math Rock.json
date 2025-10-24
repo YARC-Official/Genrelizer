@@ -1,0 +1,22 @@
+{
+  "name": "Math Rock",
+
+  "substitutions": {
+    " ": [ "", "-" ]
+  },
+
+  "subgenres": {
+    "Avant-Garde Math Rock": {
+      "substitutions": {
+        "-garde ": [ "garde ", " garde ", "" ],
+        "math ": [ "math", "math-" ]
+      }
+    },
+
+    "Mathcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    }
+  }
+}

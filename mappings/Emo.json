@@ -1,0 +1,26 @@
+{
+  "name": "Emo",
+
+  "subgenres": {
+    "Emo Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Emo Punk": {
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Emo Rock": {},
+
+    "Midwest Emo": {
+      "substitutions": {
+        "mid": [ "mid ", "mid-" ],
+        "west": [ "western" ]
+      }
+    },
+
+    "Screamo": {}
+  }
+}

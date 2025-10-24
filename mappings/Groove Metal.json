@@ -1,0 +1,19 @@
+{
+  "name": "Groove Metal",
+
+  "substitutions": {
+    " ": [ "" ]
+  },
+
+  "subgenres": {
+    "Chug Metal": {},
+
+    "Groove Metalcore": {
+      "substitutions": {
+        "core": [ "-core", " core" ]
+      }
+    },
+
+    "Southern Groove Metal": {}
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "name": "Jazz",
+
+  "subgenres": {
+    "Acid Jazz": {
+      "substitutions": {
+        " ": [ "-" ]
+      }
+    },
+
+    "Avant-Garde Jazz": {
+      "substitutions": {
+        "-garde ": [ "garde ", " garde ", "" ]
+      }
+    },
+
+    "Bebop": {
+      "substitutions": {
+        "bebop": [ "be-bop" ]
+      }
+    },
+
+    "Big Band Jazz": {
+      "substitutions": {
+        "big band": [ "big-band", "bigband" ],
+        " jazz": [ "" ]
+      }
+    },
+
+    "Bossa Nova": {},
+
+    "Contemporary Jazz": {},
+
+    "Cool Jazz": {},
+
+    "Dark Cabaret": {},
+
+    "Djazz": {},
+
+    "Electro-Jazz": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Electroswing": {
+      "substitutions": {
+        "electro": [ "electro ", "electro-" ]
+      }
+    },
+
+    "Ethno Jazz": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Experimental Jazz": {},
+
+    "Folk Jazz": {},
+
+    "Freeform Jazz": {
+      "substitutions": {
+        "freeform": [ "free form", "free-form", "free" ]
+      }
+    },
+
+    "Fusion Jazz": {},
+
+    "Hard Bop": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Indie Jazz": {
+      "substitutions": {
+        "ie": [ "y", "ependent" ],
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Jazz Manouche": {
+      "substitutions": {
+        "jazz manouche": [ "gypsy jazz" ]
+      }
+    },
+
+    "Jazz Metal": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Jazz Pop": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Jazz Rock": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Jazztronica": {},
+
+    "Lounge": {
+      "suffixes": [ " Jazz" ]
+    },
+
+    "Modal Jazz": {},
+
+    "Modern Jazz": {},
+
+    "Nu-Jazz": {
+      "substitutions": {
+        "nu": [ "nü" ],
+        "-": [ "", " " ]
+      }
+    },
+
+    "Post-Bop": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Progressive Big Band": {
+      "substitutions": {
+        "big band": [ "big-band", "bigband" ],
+        "progressive": [ "prog", "prog." ]
+      },
+      "suffixes": [ " jazz" ]
+    },
+
+    "Ragtime": {
+      "suffixes": [ " jazz" ]
+    },
+
+    "Smooth Jazz": {},
+
+    "Swing Jazz": {
+      "substitutions": {
+        "swing ": [ "" ]
+      }
+    },
+
+    "Traditional Jazz": {
+      "substitutions": {
+        "traditional": [ "trad", "trad.", "dixieland", "dixie land", "dixie-land" ]
+      }
+    }
+  }
+}

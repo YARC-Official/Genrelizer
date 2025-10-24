@@ -1,0 +1,58 @@
+{
+  "name": "Indie Rock",
+
+  "substitutions": {
+    "ie": [ "y", "ependent" ],
+    " rock": [ "-rock", "rock", "" ] 
+  },
+
+  "subgenres": {
+    "Avant-Garde Indie": {
+      "substitutions": {
+        "-garde ": [ "garde ", " garde ", "" ],
+        "ie": [ "y", "ependent" ]
+      }
+    },
+
+    "Avant-Garde Indie Rock": {
+      "substitutions": {
+        "-garde ": [ "garde ", " garde ", "" ],
+        "ie": [ "y", "ependent" ],
+        " rock": [ "-rock", "rock" ]
+      }
+    },
+
+    "Experimental Indie": {
+      "substitutions": {
+        "ie": [ "y", "ependent" ]
+      }
+    },
+
+    "Experimental Indie Rock": {
+      "substitutions": {
+        "ie": [ "y", "ependent" ],
+        " rock": [ "-rock", "rock", "" ]
+      }
+    },
+
+    "Geek Rock": {},
+
+    "Lo-Fi Rock": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Post-Rock": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Shoegaze": {
+      "substitutions": {
+        "gaze": [ " gaze", "-gaze", "gazing", " gazing", "-gazing" ]
+      }
+    }
+  }
+}

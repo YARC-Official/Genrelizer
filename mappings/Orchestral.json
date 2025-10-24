@@ -1,0 +1,23 @@
+{
+  "name": "Orchestral",
+
+  "substitutions": {
+    "orchestral": [ "orchestra", "orchestration", "orch", "orch." ]
+  },
+
+  "subgenres": {
+    "Bugle Call": {
+      "substitutions": {
+        "bugle call": [ "bugle" ]
+      }
+    },
+
+    "Neoclassical": {
+      "substitutions": {
+        "neo": [ "neo-", "neo " ]
+      }
+    },
+
+    "Symphonic": {}
+  }
+}

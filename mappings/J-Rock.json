@@ -1,0 +1,34 @@
+{
+  "name": "J-Rock",
+
+  "substitutions": {
+    "j": [ "japan", "japanese" ],
+    "-": [ "", " " ]
+  },
+
+  "subgenres": {
+    "J-Metal": {
+      "substitutions": {
+        "j": [ "japan", "japanese" ],
+        "-": [ "", " " ]
+      }
+    },
+
+    "J-Punk": {
+      "substitutions": {
+        "j": [ "japan", "japanese" ],
+        "-": [ "", " " ]
+      }
+    },
+
+    "Kawaii Death Metal": {},
+
+    "Kawaii Deathcore": {},
+
+    "Kawaii Future Rock": {},
+
+    "Kawaii Metal": {},
+
+    "Visual Kei": {}
+  }
+}

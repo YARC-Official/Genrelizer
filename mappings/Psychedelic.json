@@ -1,0 +1,26 @@
+{
+  "name": "Psychedelic",
+
+  "substitutions": {
+    "psychedelic": [ "psychadelic", "psych", "psyche" ]
+  },
+
+  "subgenres": {
+    "Acid Rock": {
+      "substitutions": {
+        " rock": [ "rock", "-rock" ]
+      }
+    },
+
+    "Hypnagogic Pop": {},
+
+    "Psychedelia": {},
+
+    "Psychedelic Rock": {
+      "substitutions": {
+        "psychedelic": [ "psychadelic", "psych", "psyche" ],
+        " rock": [ "rock", "-rock" ]
+      }
+    }
+  }
+}

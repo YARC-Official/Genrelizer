@@ -1,0 +1,26 @@
+{
+  "name": "Holiday",
+
+  "subgenres": {
+    "Carol": {},
+
+    "Christmas Carol": {
+      "substitutions": {
+        "christ": [ "x", "x-" ]
+      }
+    },
+
+    "Christmas Music": {
+      "substitutions": {
+        "christ": [ "x", "x-" ]
+      }
+    },
+
+    "Christmascore": {
+      "substitutions": {
+        "christ": [ "x", "x-" ],
+        "core": [ " core", "-core" ]
+      }
+    }
+  }
+}

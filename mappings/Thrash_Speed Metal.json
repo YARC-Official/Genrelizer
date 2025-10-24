@@ -1,0 +1,59 @@
+{
+  "name": "Thrash/Speed Metal",
+
+  "substitutions": {
+    "thrash/speed metal": [
+      "thrashspeedmetal",
+      "speed/thrash metal",
+      "speedthrashmetal"
+    ]
+  },
+
+  "subgenres": {
+    "A Capella Thrash Metal": {
+      "substitutions": {
+        "a capella": [ "a cappella", "a-capella", "a-cappella", "acapella", "acappella" ]
+      }
+    },
+
+    "Blackened Thrash Metal": {
+      "substitutions": {
+        "thrash metal": [ "thrash" ]
+      }
+    },
+
+    "Crossover Thrash": {
+      "suffixes": [ " metal" ]
+    },
+
+    "Crust Shred": {
+      "suffixes": [ " metal" ]
+    },
+
+    "Experimental Shred": {
+      "suffixes": [ " metal" ]
+    },
+
+    "Progressive Speed Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
+    "Progressive Thrash Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
+    "Speed Metal": {},
+
+    "Thrash Metal": {},
+
+    "Thrashcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    }
+  }
+}

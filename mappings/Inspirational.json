@@ -1,0 +1,33 @@
+{
+  "name": "Inspirational",
+
+  "subgenres": {
+    "Christian": {},
+
+    "Christian Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Christian Pop": {},
+
+    "Christian Power Metal": {
+      "substitutions": {
+        "power ": [ "power", "power-" ]
+      }
+    },
+
+    "Christian Rock": {},
+
+    "Gospel": {
+      "suffixes": [ " music"]
+    },
+
+    "Hymn": {},
+
+    "Prayer": {},
+
+    "Religious": {}
+  }
+}

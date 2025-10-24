@@ -1,0 +1,25 @@
+{
+  "name": "Southern Rock",
+
+  "substitutions": {
+    " ": [ "" ]
+  },
+
+  "subgenres": {
+    "Boogie Rock": {},
+
+    "Jam Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Roots Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Southern Metal": {}
+  }
+}

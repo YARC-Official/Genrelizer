@@ -1,0 +1,76 @@
+{
+  "name": "Novelty",
+
+  "subgenres": {
+    "Country Novelty": {
+      "substitutions": {
+        "country novelty": [ "novelty country" ]
+      }
+    },
+
+    "Comedy": {},
+
+    "Comedy Hip-Hop": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Comedy Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Comedy Rap": {},
+
+    "Comedy Rock": {},
+
+    "Electronic Novelty": {},
+
+    "Humorcore": {
+      "substitutions": {
+        "humor": [ "humour" ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Meme": {
+      "suffixes": [ "s" ]
+    },
+
+    "Novelty Chiptune": {
+      "substitutions": {
+        "novelty chiptune": [
+          "chiptune novelty",
+          "chip tune novelty",
+          "chip-tune novelty",
+          "novelty chip tune",
+          "novelty chip-tune"
+        ]
+      }
+    },
+
+    "Novelty Hip-Hop": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Novelty Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Novelty Rap": {},
+
+    "Novelty Rock": {},
+
+    "Stand-Up Comedy": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    }
+  }
+}

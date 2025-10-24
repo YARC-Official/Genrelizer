@@ -1,0 +1,356 @@
+{
+  "name": "DnB/Breakbeat/Jungle",
+
+  "substitutions": {
+    "dnb/breakbeat/jungle": [
+      "breakbeat/dnb/jungle",
+      "breakbeat/d&b/jungle",
+      "breakbeatdnbjungle",
+      "breakbeatd&bjungle",
+
+      "breakbeat/jungle/dnb",
+      "breakbeat/jungle/d&b",
+      "breakbeatjunglednb",
+      "breakbeatjungled&b",
+
+      "dnb/jungle/breakbeat",
+      "d&b/jungle/breakbeat",
+      "dnbjunglebreakbeat",
+      "d&bjunglebreakbeat",
+
+      "d&b/breakbeat/jungle",
+      "dnbbreakbeatjungle",
+      "d&bbreakbeatjungle",
+
+      "jungle/breakbeat/dnb",
+      "jungle/breakbeat/d&b",
+      "junglebreakbeatdnb",
+      "junglebreakbeatd&b",
+
+      "jungle/dnb/breakbeat",
+      "jungle/d&b/breakbeat",
+      "junglednbbreakbeat",
+      "jungled&bbreakbeat"
+    ],
+    "breakbeat": [ "break-beat", "break beat" ]
+  },
+
+  "subgenres": {
+    "Atmospheric DnB": {
+      "substitutions": {
+        "dnb": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      }
+    },
+
+    "Big Beat": {
+      "substitutions": {
+        "big ": [ "big", "big-" ]
+      }
+    },
+
+    "Breakbeat": {
+      "substitutions": {
+        "break": [ "break-", "break " ]
+      }
+    },
+
+    "Breakcore": {
+      "substitutions": {
+        "break": [ "break-", "break " ]
+      }
+    },
+
+    "Broken Beat": {
+      "substitutions": {
+        "broken beat": [ "broken-beat", "brokenbeat", "bruk" ]
+      }
+    },
+
+    "Dancefloor DnB": {
+      "substitutions": {
+        "dance": [ "dance ", "dance-" ],
+        "dnb": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      }
+    },
+
+    "Drill 'n' Bass": {
+      "substitutions": {
+        "'n'": [ "and", "n", "'n", "n'", "&" ],
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Drum and Bass": {
+      "substitutions": {
+        "drum and bass": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "dnb",
+          "d&b"
+        ]
+      }
+    },
+
+    "Drumstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Funky Breaks": {},
+
+    "Fungle": {},
+
+    "Halftime DnB": {
+      "substitutions": {
+        "half": [ "half-", "half " ],
+        "dnb": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      }
+    },
+
+    "Hardstep": {
+      "substitutions": {
+        "hard": [ "hard ", "hard-" ]
+      }
+    },
+
+    "Heavy DnB": {
+      "substitutions": {
+        "dnb": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      }
+    },
+
+    "Infinite Breakcore": {
+      "substitutions": {
+        "break": [ "break-", "break " ]
+      }
+    },
+
+    "Jazz and Bass": {
+      "substitutions": {
+        "jazz and bass": [
+          "jazz & bass",
+          "jazz-&-bass",
+          "jazz-and-bass",
+          "jazz n bass",
+          "jazz-n-bass",
+          "jazz 'n' bass",
+          "jazz-'n'-bass",
+          "jazz 'n bass",
+          "jazz-'n-bass",
+          "jazz n' bass",
+          "jazz-n'-bass",
+          "j.n.b.",
+          "j'n'b",
+          "jnb",
+          "j&b"
+        ]
+      }
+    },
+
+    "Jazzy Jungle": {},
+
+    "Jump-Up": {
+      "substitutions": {
+        "jump-": [ "jump", "jump " ]
+      }
+    },
+
+    "Jungle": {},
+
+    "Light DnB": {
+      "substitutions": {
+        "drum and bass": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      }
+    },
+
+    "Liquid DnB": {
+      "substitutions": {
+        "drum and bass": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      }
+    },
+
+    "Liquid Funk": {},
+
+    "Mainstream DnB": {
+      "substitutions": {
+        "drum and bass": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      }
+    },
+
+    "Metal and Bass": {
+      "substitutions": {
+        "metal and bass": [
+          "metal & bass",
+          "metal-&-bass",
+          "metal-and-bass",
+          "metal n bass",
+          "metal-n-bass",
+          "metal 'n' bass",
+          "metal-'n'-bass",
+          "metal 'n bass",
+          "metal-'n-bass",
+          "metal n' bass",
+          "metal-n'-bass",
+          "m.n.b.",
+          "m'n'b",
+          "mnb",
+          "m&b"
+        ]
+      }
+    }
+  },
+
+  "Neuro": {},
+
+  "Neurofunk": {
+    "substitutions": {
+      "neuro": [ "neuro ", "neuro-" ]
+    }
+  },
+
+  "Sambass": {},
+
+  "Spunk Jazz": {
+    "substitutions": {
+      "spunk ": [ "spunk", "spunk-" ]
+    }
+  },
+
+  "Techstep": {
+    "substitutions": {
+      "tech": [ "tech ", "tech-" ]
+    }
+  }
+}

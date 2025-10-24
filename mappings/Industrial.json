@@ -1,0 +1,50 @@
+{
+  "name": "Industrial",
+
+  "subgenres": {
+    "Aggrotech": {
+      "substitutions": {
+        "aggro": [ "aggro ", "aggro-" ],
+        "tech": [ "tek" ]
+      }
+    },
+
+    "Electro-Industrial": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Industrial Electronica": {},
+
+    "Industrial Hardcore": {
+      "substitutions": {
+        "core": [ "-core", " core" ]
+      }
+    },
+
+    "Industrial Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Industrial Pop": {},
+
+    "Industrial Rock": {},
+
+    "Industrial Techno": {},
+
+    "Martial Industrial": {
+      "substitutions": {
+        " ": [ "-" ]
+      }
+    },
+
+    "Post-Industrial": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Mashup",
+
+  "substitutions": {
+    "mashup": [ "mash up", "mash-up" ]
+  },
+
+  "subgenres": {
+    "Compilation": {},
+
+    "Endless Setlist": {},
+
+    "Guitar Turntablism": {},
+
+    "Medley": {},
+
+    "Megamix": {
+      "substitutions": {
+        "mega": [ "mega ", "mega-" ]
+      }
+    },
+
+    "Plunderphonics": {
+      "substitutions": {
+        "plunder": [ "plunder-", "plunder " ],
+        "phonics": [ "phonic" ]
+      }
+    },
+
+    "Sampledelia": {
+      "substitutions": {
+        "sample": [ "sample-", "sample " ]
+      }
+    },
+
+    "Sampling": {},
+
+    "Sound Collage": {},
+
+    "Turntablism": {},
+
+    "Various": {
+      "substitutions": {
+        "various": [ "multiple", "many", "several", "numerous" ]
+      },
+      "suffixes": [ " genres", " styles" ]
+    },
+
+    "Xenochrony": {},
+
+    "YTPMV": {
+      "substitutions": {
+        "ytpmv": [ "ytp", "youtube poop", "youtube poop music video" ]
+      }
+    }
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Electronic",
+
+  "substitutions": {
+    "electronic": [
+      "dance/electronic/pop",
+      "danceelectronicpop",
+      "dance/pop/electronic",
+      "dancepopelectronic",
+      "dance/electronic/pop",
+      "danceelectronicpop",
+      "dance/pop/electronic",
+      "dancepopelectronic",
+      "pop/dance/electronic",
+      "popdanceelectronic",
+      "pop/electronic/dance",
+      "popelectronicdance"
+    ]
+  },
+
+  "subgenres": {
+    "2-Step Garage": {
+      "substitutions": {
+        "2": [ "two" ],
+        "-": [ "", " " ],
+        "step garage": [ "step" ]
+      }
+    },
+
+    "Bleep Bloop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Darksynth": {
+      "substitutions": {
+        "dark": [ "dark ", "dark-" ]
+      }
+    },
+
+    "Doom Electronic": {},
+
+    "Downtempo": {
+      "substitutions": {
+        "downtempo": [ "down tempo", "down-tempo" ]
+      }
+    },
+
+    "Electro": {},
+
+    "Electronic Waltz": {},
+
+    "Electronica": {},
+
+    "Electro-Funk": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Experimental Electronic": {},
+
+    "French Electro": {},
+
+    "Garage": {},
+
+    "Indietronic": {},
+
+    "Indietronica": {},
+
+    "Synthwave": {
+      "substitutions": {
+        "synth": [ "synth", "synth-" ]
+      }
+    },
+
+    "UK Garage": {
+      "substitutioins": {
+        "uk": [ "u.k." ]
+      }
+    },
+
+    "Wonky": {}
+  }
+}

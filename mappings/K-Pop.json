@@ -1,0 +1,16 @@
+{
+  "name": "K-Pop",
+
+  "substitutions": {
+    "k": [ "korea", "korean" ],
+    "-": [ "", " " ]
+  },
+
+  "subgenres": {
+    "Trot": {
+      "substitutions": {
+        "trot": [ "ppongjjak" ]
+      }
+    }
+  }
+}

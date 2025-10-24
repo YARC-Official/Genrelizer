@@ -1,0 +1,31 @@
+{
+  "name": "Latin",
+
+  "subgenres": {
+    "Bolero": {},
+
+    "Calypso": {},
+
+    "Choro": {
+      "substitutions": {
+        "choro": [ "chorinho" ]
+      }
+    },
+
+    "Flamenco": {},
+
+    "Latin Fusion": {},
+
+    "Latin Jazz": {},
+
+    "Latin Pop": {},
+
+    "Latin Rock": {},
+
+    "Latino": {},
+
+    "Mariachi": {},
+
+    "Salsa": {}
+  }
+}

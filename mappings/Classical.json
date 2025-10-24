@@ -1,0 +1,71 @@
+{
+  "name": "Classical",
+
+  "suffixes": [" music" ],
+
+  "subgenres": {
+    "Aria": {},
+
+    "Avant-Garde Classical": {
+      "substitutions": {
+        "-garde ": [ "garde ", " garde ", "" ]
+      }
+    },
+
+    "Bagatelle": {},
+
+    "Ballet": {},
+
+    "Baroque": {},
+
+    "Canon": {},
+
+    "Classical Guitar": {},
+
+    "Classical Piano": {},
+
+    "Concerto": {},
+
+    "Contemporary Classical": {},
+
+    "Dirge": {},
+
+    "Étude": {
+      "substitutions": {
+        "étude": [ "etude" ]
+      }
+    },
+
+    "Fugue": {},
+
+    "Impressionist": {
+      "substitutions": {
+        "ist": [ "ism" ]
+      }
+    },
+
+    "March": {},
+
+    "Minuet": {},
+
+    "Opera": {},
+
+    "Oratorio": {},
+
+    "Overture": {},
+
+    "Renaissance": {},
+
+    "Rhapsody": {},
+
+    "Rondo": {},
+
+    "Scherzo": {},
+
+    "Serenade": {},
+
+    "Sonata": {},
+
+    "Symphony": {}
+  }
+}

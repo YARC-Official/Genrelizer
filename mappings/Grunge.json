@@ -1,0 +1,15 @@
+{
+  "name": "Grunge",
+
+  "substitutions": {
+    "grunge": [ "seattle sound" ]
+  },
+
+  "subgenres": {
+    "Grunge Rock": {
+      "substitutions": {
+        "grunge ": [ "grunge-" ]
+      }
+    }
+  }
+}

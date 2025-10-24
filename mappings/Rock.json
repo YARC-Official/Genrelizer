@@ -1,0 +1,68 @@
+{
+  "name": "Rock",
+
+  "subgenres": {
+    "Acoustic Rock": {},
+
+    "Big Band Rock": {
+      "substitutions": {
+        "big band": [ "big-band", "bigband" ]
+      }
+    },
+
+    "Butt Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Cabaret Rock": {},
+
+    "Celtic Rock": {},
+
+    "Contemporary Rock": {},
+
+    "Dance Rock": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Dark Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Death Rock": {
+      "substitutions": {
+        "death ": [ "death", "death-" ]
+      }
+    },
+
+    "Experimental Rock": {},
+
+    "German Rock": {},
+
+    "Horror Rock": {},
+
+    "Instrumental Rock": {},
+
+    "K-Rock": {
+      "substitutions": {
+        "k": [ "korea", "korean" ],
+        "-": [ "", " " ]
+      }
+    },
+
+    "Modern Rock": {},
+
+    "Post-Grunge": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Shock Rock": {}
+  }
+}

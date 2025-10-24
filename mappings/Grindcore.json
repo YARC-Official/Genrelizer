@@ -1,0 +1,86 @@
+{
+  "name": "Grindcore",
+
+  "substitutions": {
+    "core": [ " core", "-core", "" ]
+  },
+
+  "Blackened Deathgrind": {
+    "substitutions": {
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Crustgrind": {
+    "substitutions": {
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Cybergrind": {
+    "substitutions": {
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Deathgrind": {
+    "substitutions": {
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Experimental Deathgrind": {
+    "substitutions": {
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Disco Deathgrind": {
+    "substitutions": {
+      "disco ": [ "disco-" ],
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Electrogrind": {
+    "substitutions": {
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Goregrind": {
+    "substitutions": {
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Noisegrind": {
+    "substitutions": {
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Queercore": {
+    "substitutions": {
+      "core": [ " core", "-core" ]
+    }
+  },
+
+  "Porngore": {
+    "substitutions": {
+      "gore": [ " gore", "-gore" ]
+    }
+  },
+
+  "Pornogrind": {
+    "substitutions": {
+      "grind": [ " grind", "-grind" ]
+    }
+  },
+
+  "Powerviolence": {
+    "substitutions": {
+      "violence": [ " violence", "-violence" ]
+    }
+  }
+}

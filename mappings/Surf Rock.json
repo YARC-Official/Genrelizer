@@ -1,0 +1,33 @@
+{
+  "name": "Surf Rock",
+
+  "substitutions": {
+    " rock": [ "-rock", "rock", "" ]
+  },
+
+  "subgenres": {
+    "Hotrod Rock": {
+      "hotrod": [ "hot rod", "hot-rod" ],
+      " rock": [ "rock", "-rock" ]
+    },
+
+    "Surf Guitar": {},
+
+    "Surf Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Surf Punk": {
+      "substitutions": {
+        " punk": [ "punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Vocal Surf": {
+      "suffixes": [ " rock" ]
+    }
+  }
+}

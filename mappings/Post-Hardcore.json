@@ -1,0 +1,22 @@
+{
+  "name": "Post-Hardcore",
+
+  "substitutions": {
+    "post-": [ "post", "post " ],
+    "core": [ " core", "-core" ]
+  },
+
+  "subgenres": {
+    "Easycore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Poetrycore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    }
+  }
+}

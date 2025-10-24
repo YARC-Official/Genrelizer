@@ -1,0 +1,99 @@
+{
+  "name": "Hardcore EDM",
+
+  "substitutions": {
+    "core": [ " core", "-core" ],
+    " edm": [ "edm", " electronic dance music" ]
+  },
+
+  "subgenres": {
+    "Chaotic Extratone": {
+      "substitutions": {
+        "tone": [ " tone", "-tone" ]
+      }
+    },
+
+    "Chaotic Speedcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Chaotic Splittercore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Chiptune Extratone": {
+      "substitutions": {
+        "chiptune": [ "chip tune", "chip-tune" ],
+        "tone": [ " tone", "-tone" ]
+      }
+    },
+
+    "Chiptune Speedcore": {
+      "substitutions": {
+        "chiptune": [ "chip tune", "chip-tune" ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Chiptune Splittercore": {
+      "substitutions": {
+        "chiptune": [ "chip tune", "chip-tune" ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Extratone": {
+      "substitutions": {
+        "tone": [ " tone", "-tone" ]
+      }
+    },
+
+    "Gabber": {
+      "substitutions": {
+        "er": [ "a" ]
+      }
+    },
+
+    "Happy Hardcore": {
+      "substitutions": {
+        " hardcore": [ " hard core", "hard-core", " core", "core" ]
+      }
+    },
+
+    "Hard Dance": {},
+
+    "Hardcore Dance": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Hardcore Techno": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Hardstyle": {
+      "substitutions": {
+        "style": [ " style", "-style" ]
+      }
+    },
+
+    "Speedcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Splittercore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    }
+  }
+}

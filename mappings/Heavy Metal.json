@@ -1,0 +1,95 @@
+{
+  "name": "Heavy Metal",
+
+  "substitutions": {
+    "heavy ": [ "heavy", "" ]
+  },
+
+  "subgenres": {
+    "Acoustic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Arabic Metal": {},
+
+    "Bass Metal": {},
+
+    "Chinese Folk Metal": {},
+
+    "Classic Heavy Metal": {
+      "substitutions": {
+        "heavy metal": [ "metal" ]
+      }
+    },
+
+    "Cyber Metal": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Dark Metal": {
+      "substitutions": {
+        "heavy metal": [ "metal" ]
+      }
+    },
+
+    "Dubstep Metal": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Experimental Funk Metal": {
+      "substitutions": {
+        "funk ": [ "funk-", "funk" ]
+      }
+    },
+
+    "Experimental Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Folk Metal": {},
+
+    "Funk Metal": {
+      "substitutions": {
+        "funk ": [ "funk-", "funk" ]
+      }
+    },
+
+    "Gothic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Horror Metal": {},
+
+    "Hypermetal": {
+      "substitutions": {
+        "hyper": [ "hyper ", "hyper-" ]
+      }
+    },
+
+    "Indian Folk Metal": {},
+
+    "Instrumental Horror Metal": {},
+
+    "Instrumental Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "NWOBHM": {
+      "substitutions": {
+        "nwobhm": [ "new wave of british heavy metal" ]
+      }
+    }
+  }
+}

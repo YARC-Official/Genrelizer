@@ -1,0 +1,36 @@
+{
+  "name": "Ambient/Drone",
+
+  "substitutions": {
+    "ambient/drone": [ "drone/ambient", "ambientdrone", "droneambient" ]
+  },
+
+  "subgenres": {
+    "Ambient": {
+      "substitutions": {
+        "ambient": [ "amb", "amb'", "amb.", "ambience", "ambiance" ]
+      }
+    },
+
+    "Ambient Electronic": {
+      "substitutions": {
+        "ambient": [ "amb", "amb'", "amb." ]
+      }
+    },
+
+    "Dark Ambient": {
+      "substitutions": {
+        "dark ": [ "dark", "dark-" ],
+        "ambient": [ "amb", "amb'", "amb.", "ambience", "ambiance" ]
+      }
+    },
+
+    "Drone": {},
+
+    "lowercase": {
+      "substitutions": {
+        "lower": [ "lower ", "lower-" ]
+      }
+    }
+  }
+}

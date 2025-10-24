@@ -1,0 +1,86 @@
+{
+  "name": "House",
+
+  "subgenres": {
+    "Acid House": {},
+
+    "Ambient House": {
+      "substitutions": {
+        "ambient": [ "amb", "amb'", "amb." ]
+      }
+    },
+
+    "Bass House": {},
+
+    "Bounce House": {},
+
+    "Chicago House": {},
+
+    "Complextro": {},
+
+    "Deep House": {},
+
+    "Disco House": {},
+
+    "Electro House": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Ethnic House": {},
+
+    "Euro House": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Filter House": {},
+
+    "French House": {},
+
+    "Funky House": {},
+
+    "Future Bounce": {},
+
+    "Future Funk": {},
+
+    "Future House": {},
+
+    "Garage House": {},
+
+    "Hard Bass": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Indie House": {
+      "substitutions": {
+        "ie": [ "y", "ependent" ],
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Italo House": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Microhouse": {
+      "substitutions": {
+        "micro": [ "micro ", "micro-" ]
+      }
+    },
+
+    "Minimal House": {},
+
+    "Pumping House": {
+      "substitutions": {
+        "pumping": [ "bumping" ]
+      }
+    }
+  }
+}

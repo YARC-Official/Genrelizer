@@ -1,0 +1,59 @@
+{
+	"name": "Alternative",
+	
+	"substitutions": {
+		"alternative": [ "alt", "alt.", "alt'", "altern", "altern.", "altern'", "alternate" ]
+	},
+
+	"subgenres": {
+		"Alternative Metal": {
+			"substitutions": {
+				"alternative ": [ "alt", "alt ", "alt-", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternate" ]
+			},
+			"localizations": {
+				"es-ES": "Metal Alternativo"
+			}
+		},
+
+		"Alternative Pop-Rock": {
+			"substitutions": {
+				"alternative ": [ "alt", "alt ", "alt-", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternate" ],
+				"-": [ "", " " ]
+			}
+		},
+
+		"Alternative Rock": {
+			"substitutions": {
+				"alternative ": [ "alt", "alt ", "alt-", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternate" ]
+			},
+			"localizations": {
+				"es-ES": "Rock Alternativo"
+			}
+		},
+
+		"Alt-Pop": {
+			"substitutions": {
+				"alt-": [ "alt", "alt ", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternative ", "alternate" ]
+			},
+			"localizations": {
+				"es-ES": "Pop Alternativo"
+			}
+		},
+
+		"Desert Rock": {
+			"substitutions": {
+				"desert ": [ "desert", "desert-"]
+			}
+		},
+
+		"Garage Rock": {},
+
+		"Garage Rock Revival": {},
+
+		"Stoner Rock": {
+			"substitutions": {
+				"desert ": [ "stoner", "stoner-" ]
+			}
+		}
+	}
+}

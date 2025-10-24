@@ -1,0 +1,69 @@
+{
+  "name": "Chiptune",
+
+  "substitutions": {
+    "chiptune": [ "chip tune", "chip-tune" ]
+  },
+
+  "subgenres": {
+    "8-Bit": {
+      "substitutions": {
+        "8-": [ "8", "8 ", "eight", "eight ", "eight-" ]
+      },
+      "suffixes": [ " chiptune", " chip tune", " chip-tune" ]
+    },
+
+    "8-Bitcore": {
+      "substitutions": {
+        "8-": [ "8", "8 ", "eight", "eight ", "eight-" ],
+        "bitcore": [ "bit core", "bit-core" ]
+      },
+      "suffixes": [ " chiptune", " chip tune", " chip-tune" ]
+    },
+
+    "16-Bit": {
+      "substitutions": {
+        "16-": [ "16", "16 ", "sixteen", "sixteen ", "sixteen-" ]
+      },
+      "suffixes": [ " chiptune", " chip tune", " chip-tune" ]
+    },
+
+    "16-Bitcore": {
+      "substitutions": {
+        "8-": [ "16", "16 ", "sixteen", "sixteen ", "sixteen-" ],
+        "bitcore": [ "bit core", "bit-core" ]
+      },
+      "suffixes": [ " chiptune", " chip tune", " chip-tune" ]
+    },
+
+    "Bitpop": {
+      "subtitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Chipcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Chiptune Jazz": {
+      "substitutions": {
+        "chiptune": [ "chip tune", "chip-tune" ]
+      }
+    },
+
+    "Happy Chipcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Nintendocore": {
+      "substitutions": {
+        "nintendo": [ "nintendo ", "nintendo-" ]
+      }
+    }
+  }
+}

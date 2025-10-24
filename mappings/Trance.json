@@ -1,0 +1,26 @@
+{
+  "name": "Trance",
+
+  "subgenres": {
+    "Electro Trance": {
+      "substitutions": {
+        "electro ": [ "electro", "electro-" ]
+      }
+    },
+
+    "Epic Trance": {},
+
+    "Fusion Trance": {},
+
+    "Goa Trance": {},
+
+    "Hard Trance": {},
+
+    "Psychedelic Trance": {
+      "substitutions": {
+        "psychedelic": [ "psy", "psych", "psyche" ],
+        " ": [ "", "-" ]
+      }
+    }
+  }
+}

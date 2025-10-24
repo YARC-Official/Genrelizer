@@ -1,0 +1,16 @@
+{
+  "name": "Metalcore",
+
+  "substitutions": {
+    "metal": [ "metal ", "metal-" ]
+  },
+
+  "subgenres": {
+    "Progressive Metalcore": {
+      "substitutions": {
+        "progressive ": [ "prog ", "prog. ", "prog-" ],
+        "metal": [ "metal ", "metal-" ]
+      }
+    }
+  }
+}

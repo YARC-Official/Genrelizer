@@ -1,0 +1,115 @@
+{
+  "name": "Punk",
+
+  "suffixes": [ " rock", "rock", "-rock" ],
+
+  "subgenres": {
+    "Acid Punk": {
+      "substitutions": {
+        " ": [ " ", "-" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Alternative Punk": {
+      "substitutions": {
+        "alternative ": [ "alt", "alt ", "alt-", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternate" ],
+        " punk": [ "punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Anarcho-Punk": {
+      "substitutions": {
+        "-": [ "", " " ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Balkan Punk": {
+      "substitutions": {
+        " ": [ " ", "-" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Blackened Punk": {
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Celtic Punk": {
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Classic Punk": {
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Crust Punk": {
+      "substitutions": {
+        " punk": [ "punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Dance-Punk": {
+      "substitutions": {
+        "-": [ "", " " ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Death Punk": {
+      "substitutions": {
+        "death ": [ "death", "death-" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Electropunk": {
+      "substitutions": {
+        "electro": [ "electro ", "electro-" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Folk Punk": {
+      "substitutions": {
+        " punk": [ "punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Garage Punk": {
+      "substitutions": {
+        " punk": [ "punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Hardcore Punk": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ],
+      "localizations": {
+        "fr-FR": "Punk Hardcore"
+      }
+    },
+
+    "Horror Punk": {
+      "substitutions": {
+        " punk": [ "punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Psychobilly": {},
+
+    "Riot Grrrl": {
+      "substitutions": {
+        "rrr": [ "rr", "r", "ir", "rrrr" ]
+      }
+    }
+  }
+}

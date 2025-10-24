@@ -1,0 +1,51 @@
+{
+  "name": "Glam",
+
+  "subgenres": {
+    "Glam Hard Rock": {
+      "substitutions": {
+        "hard ": [ "hard", "hard-" ]
+      }
+    },
+
+    "Glam Metal": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Glam Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Glam Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Goth": {},
+
+    "Goth Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Gothic Rock": {},
+
+    "Hair Metal": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Sleaze Metal": {
+      "substitutions": {
+        " ": [ "-" ]
+      }
+    }
+  }
+}

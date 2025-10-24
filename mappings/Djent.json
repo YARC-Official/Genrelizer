@@ -1,0 +1,35 @@
+{
+  "name": "Djent",
+
+  "suffixes": [ " metal" ],
+
+  "subgenres": {
+    "Ambient Djent": {
+      "substitutions": {
+        "ambient": [ "amb", "amb.", "amb'" ]
+      }
+    },
+
+    "Blackened Djent": {},
+
+    "Death Thall": {},
+
+    "Djent Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Djentcore": {
+      "substitutions": {
+        "djent": [ "djent ", "djent-" ]
+      }
+    },
+
+    "Electronic Djent": {},
+
+    "Instrumental Djent": {},
+
+    "Thall": {}
+  }
+}

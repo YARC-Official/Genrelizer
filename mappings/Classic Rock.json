@@ -1,0 +1,29 @@
+{
+  "name": "Classic Rock",
+
+  "substitutions": {
+    " ": [ "", "-" ]
+  },
+
+  "subgenres": {
+    "Album-Oriented Rock": {
+      "substitutions": {
+        "album-oriented rock": [ "album oriented rock", "aor", "a.o.r.", "a.o.r" ]
+      }
+    },
+
+    "Crocodile Rock": {},
+
+    "Dad Rock": {
+      "substitutions": {
+        "dad ": [ "dad", "dad-" ]
+      }
+    },
+
+    "Yacht Rock": {
+      "substitutions": {
+        "yacht ": [ "yacht", "yacht-" ]
+      }
+    }
+  }
+}

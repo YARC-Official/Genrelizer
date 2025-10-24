@@ -1,0 +1,57 @@
+{
+  "name": "Blues",
+
+  "subgenres": {
+    "12-Bar Blues": {
+      "substitutions": {
+        "12-": [ "12", "12 ", "twelve", "twelve ", "twelve-" ]
+      }
+    },
+
+    "Acoustic Blues": {},
+
+    "Blues Rock": {
+      "substitutions": {
+        "blues ": [ "blues", "blues-" ]
+      }
+    },
+
+    "Blues Shred": {
+      "substitutions": {
+        "blues shred": [ "shred blues" ]
+      }
+    },
+
+    "Chicago Blues": {},
+
+    "Classic Blues": {},
+
+    "Contemporary Blues": {},
+
+    "Country Blues": {
+      "substitutions": {
+        "country ": [ "country-" ]
+      }
+    },
+
+    "Delta Blues": {},
+
+    "Desert Blues": {},
+
+    "Electric Blues": {
+      "substitutions": {
+        "electric": [ "'lectric" ]
+      }
+    },
+
+    "Electronic Blues": {},
+
+    "Jump Blues": {},
+
+    "Texas Blues": {
+      "substitutions": {
+        "texas": [ "tejas", "tx" ]
+      }
+    }
+  }
+}

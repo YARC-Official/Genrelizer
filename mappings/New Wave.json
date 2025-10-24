@@ -1,0 +1,58 @@
+{
+  "name": "New Wave",
+
+  "substitutions": {
+    " ": [ "-", "" ]
+  },
+
+  "subgenres": {
+    "Coldwave": {
+      "substitutions": {
+        "wave": [ "-wave", " wave" ]
+      }
+    },
+
+    "Darkwave": {
+      "substitutions": {
+        "wave": [ "-wave", " wave" ]
+      }
+    },
+
+    "Death Wave": {
+      "substitutions": {
+        " wave": [ "-wave", "wave" ]
+      }
+    },
+
+    "Electroclash": {
+      "substitutions": {
+        "electro": [ "electro-", "electro " ]
+      }
+    },
+
+    "Ethereal Wave": {
+      "substitutions": {
+        " wave": [ "-wave", "wave" ]
+      }
+    },
+
+    "Neoclassical Darkwave": {
+      "substitutions": {
+        "neo": [ "neo-", "neo " ],
+        "wave": [ "-wave", " wave" ]
+      }
+    },
+
+    "Neue Deutsche Todeskunst": {
+      "substitutions": {
+        "neue deutsche todeskunst": [ "ndt", "new german death art" ]
+      }
+    },
+
+    "No-Wave": {
+      "substitutions": {
+        "-": [ " ", "" ]
+      }
+    }
+  }
+}

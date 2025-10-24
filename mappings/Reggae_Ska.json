@@ -1,0 +1,65 @@
+{
+  "name": "Reggae/Ska",
+
+  "substitutions": {
+    "reggae/ska": [ "ska/reggae", "reggaeska", "skareggae" ]
+  },
+
+  "subgenres": {
+    "2 Tone": {
+      "substitutions": {
+        "2": [ "two" ],
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Blackened Ska": {},
+
+    "Dancehall": {
+      "substitutions": {
+        "dance": [ "dance ", "dance-" ]
+      }
+    },
+
+    "Dub": {},
+
+    "First-Wave Ska": {
+      "substitutions": {
+        "first": [ "1st" ],
+        "-": [ " ", "" ]
+      }
+    },
+
+    "Jamaican Ska": {},
+
+    "Reggae": {},
+
+    "Reggae Rock": {
+      "substitutions": {
+        "reggae ": [ "reggae", "reggae-" ]
+      }
+    },
+
+    "Second-Wave Ska": {
+      "substitutions": {
+        "second": [ "2nd" ],
+        "-": [ " ", "" ]
+      }
+    },
+
+    "Ska": {},
+
+    "Ska Punk": {
+      "substitutions": {
+        "ska ": [ "ska", "ska-" ]
+      }
+    },
+
+    "Third-Wave Ska": {
+      "substitutions": {
+        "third": [ "3rd" ],
+        "-": [ " ", "" ]
+      }
+    }
+  }
+}

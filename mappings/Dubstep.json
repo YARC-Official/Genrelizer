@@ -1,0 +1,81 @@
+{
+  "name": "Dubstep",
+
+  "substitutions": {
+    "step": [ " step", "-step" ]
+  },
+
+  "subgenres": {
+    "Brostep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Celtic Dubstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Chillstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Clownstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Deathstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Drillstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Dubstyle": {
+      "substitutions": {
+        "style": [ " style", "-style" ]
+      }
+    },
+
+    "Funkstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Funky Dubstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Glitchstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Metalstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Wubstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    }
+  }
+}

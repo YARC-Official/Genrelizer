@@ -1,0 +1,29 @@
+{
+  "name": "Glitch",
+
+  "subgenres": {
+    "Circuit Bending": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Glitchcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Glitch-Hop": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Glitch Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    }
+  }
+}

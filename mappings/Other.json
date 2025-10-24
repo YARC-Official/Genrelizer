@@ -1,0 +1,130 @@
+{
+  "name": "Other",
+
+  "substitutions": {
+    "other": [ "miscellaneous", "misc", "misc.", "unclassifiable" ]
+  },
+
+  "subgenres": {
+    "A Capella": {
+      "substitutions": {
+        " ": [ "", "-" ],
+        "capella": [ "cappella" ]
+      }
+    },
+
+    "Abstract": {},
+
+    "Acoustic": {},
+
+    "Acoustic Fingerstyle": {
+      "substitutions": {
+        "style": [ " style", "-style" ]
+      }
+    },
+
+    "Atonal": {},
+
+    "Avant-Garde": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Beatboxing": {
+      "substitutions": {
+        "ing": [ "" ]
+      }
+    },
+
+    "Black MIDI": {},
+
+    "Danger Music": {
+      "substitutions": {
+        " music": [ "" ]
+      }
+    },
+
+    "Dark Instrumental": {},
+
+    "Diss Track": {
+      "substitutions": {
+        " track": [ "" ]
+      }
+    },
+
+    "Easy Listening": {},
+
+    "Elevator Music": {
+      "substitutions": {
+        " music": [ "" ]
+      }
+    },
+
+    "Exercise": {
+      "suffixes": [ "s" ]
+    },
+
+    "Experimental": {
+      "substitutions": {
+        "al": [ "", "s", "ation" ]
+      }
+    },
+
+    "Field Recording": {
+      "suffixes": [ "s" ]
+    },
+
+    "Fingerstyle": {
+      "suffixes": [ " guitar" ]
+    },
+
+    "Free Improvisation": {
+      "substitutions": {
+        "isation": [ "" ]
+      }
+    },
+
+    "Guitar Exercise": {
+      "suffixes": [ "s" ]
+    },
+
+    "Guitar Lesson": {
+      "suffixes": [ "s" ]
+    },
+
+    "Instrumental": {},
+
+    "Interlude": {},
+
+    "Lesson": {
+      "suffixes": [ "s" ]
+    },
+
+    "Muzak": {},
+
+    "New Age": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Percussion": {},
+
+    "Piano Exercise": {
+      "suffixes": [ "s" ]
+    },
+
+    "Piano Lesson": {
+      "suffixes": [ "s" ]
+    },
+
+    "Polka": {},
+
+    "Tutorial": {
+      "suffixes": [ "s" ]
+    },
+
+    "Waltz": {}
+  }
+}
