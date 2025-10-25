@@ -47,7 +47,7 @@
     "Neo Progressive Rock": {
       "substitutions": {
         "neo ": [ "neo-", "neo" ],
-        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "progressive": [ "prog", "prog." ],
         " rock": [ "rock", "-rock", "" ]
       }
     },

@@ -41,7 +41,7 @@
 
     "Symphonic VGM": {
       "substitutions": {
-        "video game music": [
+        "vgm": [
           "video game",
           "video-game",
           "videogame",
