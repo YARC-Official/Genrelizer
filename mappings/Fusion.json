@@ -22,15 +22,50 @@
 
     "Jazz Fusion": {
       "substitutions": {
-        " ": [ "-" ]
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Math Fusion": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Metal Fusion": {
+      "prefixes": [ "heavy ", "heavy" ]
+    },
+
+    "Power Jazz Fusion": {
+      "substitutions": {
+        "power ": [ "power", "power-" ],
+        "jazz ": [ "jazz-", "jazz" ]
+      }
+    },
+
+    "Progressive Carnatic Fusion": {
+      "substitutions": {
+        "progressive": [ "prog", "prog." ]
+      }
+    },
+
+    "Progressive Fusion": {
+      "substitutions": {
+        " ": [ "", "-" ],
+        "progressive": [ "prog", "prog." ]
       }
     },
 
     "Progressive Jazz Fusion": {
       "substitutions": {
-        "jazz fusion": [ "jazz-fusion" ],
-        "progressive": [ "prog", "prog." ]
+        "progressive": [ "prog", "prog." ],
+        " jazz": [ "-jazz" ],
+        " fusion": [ "-fusion" ]
       }
-    }
+    },
+
+    "World Fusion": {},
+
+    "Zeuhl": {}
   }
 }

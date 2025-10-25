@@ -101,6 +101,12 @@
       "suffixes": [ "s" ]
     },
 
+    "Minimalism": {
+      "substitutions": {
+        "ism": [ "ist", "" ]
+      }
+    },
+
     "Muzak": {},
 
     "New Age": {
@@ -109,22 +115,55 @@
       }
     },
 
+    "Outsider": {
+      "suffixes": [ " music" ]
+    },
+
     "Percussion": {},
+
+    "Piano": {},
 
     "Piano Exercise": {
       "suffixes": [ "s" ]
     },
 
+    "Piano Instrumental": {},
+
     "Piano Lesson": {
       "suffixes": [ "s" ]
     },
 
+    "Poetry": {},
+
     "Polka": {},
+
+    "Post-Minimalism": {
+      "substitutions": {
+        "-": [ "", " " ],
+        "ism": [ "ist", "" ]
+      }
+    },
+
+    "Power Polka": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Solo": {},
+
+    "Spoken Word": {},
+
+    "Sung Poetry": {},
 
     "Tutorial": {
       "suffixes": [ "s" ]
     },
 
-    "Waltz": {}
+    "Virtuoso": {},
+
+    "Waltz": {},
+
+    "Zydeco": {}
   }
 }

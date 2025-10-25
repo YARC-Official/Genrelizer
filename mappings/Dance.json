@@ -79,6 +79,16 @@
 
     "Moombahton": {},
 
-    "Rave": {}
+    "New Rave": {},
+
+    "Rave": {},
+
+    "Symphonic EDM": {
+      "substitutions": {
+        "edm": [ "electronic dance music", "electronic dance" ]
+      }
+    },
+
+    "Symphonic Rave": {}
   }
 }

@@ -90,6 +90,39 @@
       "substitutions": {
         "nwobhm": [ "new wave of british heavy metal" ]
       }
+    },
+
+    "Pop Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Post-Metal": {
+      "substitutions": {
+        "-": [ "", " " ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Sludge Metal": {
+      "substitutions": {
+        " metal": [ "" ]
+      }
+    },
+
+    "Stoner Metal": {},
+
+    "Synthetic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Video Game Metal": {
+      "substitutions": {
+        "video game": [ "vg" ]
+      }
     }
   }
 }

@@ -66,13 +66,46 @@
       }
     },
 
+    "Melodic Dubstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
     "Metalstep": {
       "substitutions": {
         "step": [ " step", "-step" ]
       }
     },
 
+    "Neoclassical Dubstep": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ],
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Orchestral Dubstep": {
+      "substitutions": {
+        "orchestral": [ "orchestra", "orchestration", "orch", "orch." ],
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Pirate Dubstep": {
+      "substitutions": {
+        " dub": [ "" ],
+        "step": [ " step", "-step" ]
+      }
+    },
+
     "Reggaestep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Symphonic Dubstep": {
       "substitutions": {
         "step": [ " step", "-step" ]
       }

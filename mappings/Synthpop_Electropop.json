@@ -3,6 +3,12 @@
 
   "substitutions": {
     "synthpop/electropop": [
+      "synthpop electropop",
+      "synth-pop electro-pop",
+      "synth pop electro pop",
+      "electropop synthpop",
+      "electro-pop synth-pop",
+      "electro pop synth pop",
       "synth pop/electro pop",
       "synth-pop/electro-pop",
       "synthpopelectropop",
@@ -31,6 +37,13 @@
     "Synthpop": {
       "substitutions": {
         "pop": [ " pop", "-pop" ]
+      }
+    },
+
+    "Synthpop Funk": {
+      "substitutions": {
+        "pop": [ " pop", "-pop" ],
+        " funk": [ "funk", "-funk" ]
       }
     }
   }

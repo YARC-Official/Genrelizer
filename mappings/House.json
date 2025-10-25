@@ -69,6 +69,8 @@
       }
     },
 
+    "Melbourne Bounce": {},
+
     "Microhouse": {
       "substitutions": {
         "micro": [ "micro ", "micro-" ]
@@ -77,12 +79,46 @@
 
     "Minimal House": {},
 
+    "Neo House": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Progressive House": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
     "Pumping House": {
       "substitutions": {
         "pumping": [ "bumping" ]
       }
     },
 
-    "Tropical House": {}
+    "Russian Hard Bass": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Speedhouse": {
+      "substitutions": {
+        "speed": [ "speed ", "speed-" ]
+      }
+    },
+
+    "Super House": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Symphonic Complextro": {},
+
+    "Tropical House": {},
+
+    "World House": {}
   }
 }

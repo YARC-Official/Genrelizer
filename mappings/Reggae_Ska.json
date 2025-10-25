@@ -2,7 +2,14 @@
   "name": "Reggae/Ska",
 
   "substitutions": {
-    "reggae/ska": [ "ska/reggae", "reggaeska", "skareggae" ]
+    "reggae/ska": [
+      "reggae ska",
+      "ska reggae",
+      "ska/reggae",
+      "reggaeska",
+      "skareggae"
+
+    ]
   },
 
   "subgenres": {
@@ -34,6 +41,8 @@
 
     "Reggae": {},
 
+    "Reggae Fusion": {},
+
     "Reggae Rock": {
       "substitutions": {
         "reggae ": [ "reggae", "reggae-" ]
@@ -58,6 +67,19 @@
     "Ska Punk": {
       "substitutions": {
         "ska ": [ "ska", "ska-" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Ska Punk Reggae": {
+      "substitutions": {
+        "ska ": [ "ska", "ska-" ]
+      }
+    },
+
+    "Skastyle": {
+      "substitutions": {
+        "ska": [ "ska ", "ska-" ]
       }
     },
 

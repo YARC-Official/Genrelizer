@@ -16,10 +16,41 @@
 
     "Hard Trance": {},
 
+    "Melodic Trance": {
+      "substitutions": {
+        "melodic ": [ "melo", "melo-" ]
+      }
+    },
+
+    "Neo Trance": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Neo Trance Dance": {
+      "substitutions": {
+        "neo ": [ "neo", "neo-" ],
+        "trance ": [ "trance", "trance-" ]
+      }
+    },
+
+    "Progressive Trance": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
     "Psychedelic Trance": {
       "substitutions": {
-        "psychedelic": [ "psy", "psych", "psyche" ],
+        "psychedelic": [ "psychadelic", "psych", "psyche", "psy" ],
         " ": [ "", "-" ]
+      }
+    },
+
+    "Psycore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
       }
     }
   }

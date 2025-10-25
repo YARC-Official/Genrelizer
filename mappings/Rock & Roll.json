@@ -6,6 +6,8 @@
     "&": [ "and", "n", "'n'", "n'", "'n" ]
   },
 
+  "suffixes": [ " music" ],
+
   "subgenres": {
     "Boogie Woogie": {
       "substitutions": {

@@ -6,6 +6,8 @@
     "core": [ " core", "-core" ]
   },
 
+  "suffixes": [ " punk", " punkrock", " punk rock", " punk-rock"],
+
   "subgenres": {
     "Easycore": {
       "substitutions": {
@@ -17,6 +19,15 @@
       "substitutions": {
         "core": [ " core", "-core" ]
       }
+    },
+
+    "Progressive Post-Hardcore": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "post-": [ "post", "post " ],
+        "core": [ " core", "-core" ]
+      },
+      "suffixes": [ " punk", " punkrock", " punk rock", " punk-rock" ]
     }
   }
 }

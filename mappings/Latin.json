@@ -129,17 +129,33 @@
       }
     },
 
+    "New Flamenco": {},
+
+    "Orchestral Flamenco": {
+      "substitutions": {
+        "orchestral": [ "orchestra", "orchestration", "orch", "orch." ]
+      }
+    },
+
+    "Reggaeton": {},
+
+    "Regional Mexican": {},
+
     "Rhumba": {},
 
     "Rumba": {},
 
     "Salsa": {},
 
+    "Samba": {},
+
     "Sanjuanero": {},
 
     "Saya": {},
 
     "Son Cubano": {},
+
+    "Son Mexicano": {},
 
     "Son Montuno": {},
 

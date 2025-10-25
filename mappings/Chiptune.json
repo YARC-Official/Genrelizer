@@ -64,6 +64,13 @@
       "substitutions": {
         "nintendo": [ "nintendo ", "nintendo-" ]
       }
+    },
+
+    "Orchestral Chiptune": {
+      "substitutions": {
+        "orchestral": [ "orchestra", "orchestration", "orch", "orch." ],
+        "chiptune": [ "chip tune", "chip-tune" ]
+      }
     }
   }
 }

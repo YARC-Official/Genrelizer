@@ -50,6 +50,8 @@
 
 		"Garage Rock Revival": {},
 
+		"Slacker Rock": {},
+
 		"Stoner Rock": {
 			"substitutions": {
 				"stoner ": [ "stoner", "stoner-" ]

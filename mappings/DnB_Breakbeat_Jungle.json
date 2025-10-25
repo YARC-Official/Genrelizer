@@ -3,30 +3,42 @@
 
   "substitutions": {
     "dnb/breakbeat/jungle": [
+      "breakbeat dnb jungle",
+      "breakbeat d&b jungle",
       "breakbeat/dnb/jungle",
       "breakbeat/d&b/jungle",
       "breakbeatdnbjungle",
       "breakbeatd&bjungle",
 
+      "breakbeat jungle dnb",
+      "breakbeat jungle d&b",
       "breakbeat/jungle/dnb",
       "breakbeat/jungle/d&b",
       "breakbeatjunglednb",
       "breakbeatjungled&b",
 
+      "dnb jungle breakbeat",
+      "d&b jungle breakbeat",
       "dnb/jungle/breakbeat",
       "d&b/jungle/breakbeat",
       "dnbjunglebreakbeat",
       "d&bjunglebreakbeat",
 
+      "dnb breakbeat jungle",
+      "d&b breakbeat jungle",
       "d&b/breakbeat/jungle",
       "dnbbreakbeatjungle",
       "d&bbreakbeatjungle",
 
+      "jungle breakbeat dnb",
+      "jungle breakbeat d&b",
       "jungle/breakbeat/dnb",
       "jungle/breakbeat/d&b",
       "junglebreakbeatdnb",
       "junglebreakbeatd&b",
 
+      "jungle dnb breakbeat",
+      "jungle d&b breakbeat",
       "jungle/dnb/breakbeat",
       "jungle/d&b/breakbeat",
       "junglednbbreakbeat",
@@ -140,6 +152,29 @@
     "Drumstep": {
       "substitutions": {
         "step": [ " step", "-step" ]
+      }
+    },
+
+    "Fast DnB": {
+      "substitutions": {
+        "dnb": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
       }
     },
 
@@ -309,6 +344,29 @@
       }
     },
 
+    "Melodic DnB": {
+      "substitutions": {
+        "dnb": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      }
+    },
+
     "Metal and Bass": {
       "substitutions": {
         "metal and bass": [
@@ -339,11 +397,63 @@
       }
     },
 
+    "Neurostep": {
+      "substitutions": {
+        "neuro": [ "neuro ", "neuro-" ]
+      }
+    },
+
     "Sambass": {},
+
+    "Slow DnB": {
+      "substitutions": {
+        "dnb": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
+      }
+    },
 
     "Spunk Jazz": {
       "substitutions": {
         "spunk ": [ "spunk", "spunk-" ]
+      }
+    },
+
+    "Synth DnB": {
+      "substitutions": {
+        "dnb": [
+          "drum & bass",
+          "drum-&-bass",
+          "drum and bass",
+          "drum-and-bass",
+          "drum n bass",
+          "drum-n-bass",
+          "drum 'n' bass",
+          "drum-'n'-bass",
+          "drum 'n bass",
+          "drum-'n-bass",
+          "drum n' bass",
+          "drum-n'-bass",
+          "d.n.b",
+          "d.n.b.",
+          "d'n'b",
+          "d&b"
+        ]
       }
     },
 

@@ -103,12 +103,93 @@
       "suffixes": [ " rock", "rock", "-rock" ]
     },
 
-    "Psychobilly": {},
+    "Melodic Hardcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      },
+      "suffixes": [ " punk", "punk rock", " punkrock", "punk-rock" ]
+    },
+
+    "Metallic Hardcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      },
+      "suffixes": [ " punk", "punk rock", " punkrock", "punk-rock" ]
+    },
+
+    "Oi!": {
+      "substitutions": {
+        "i": [ "y" ],
+        "!": [ "" ]
+      }
+    },
+
+    "Post-Punk": {
+      "substitutions": {
+        "-": [ "", " " ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Post-Punk Revival": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Progressive Punk": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Proto-Punk": {
+      "substitutions": {
+        "-": [ "", " " ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Psychobilly": {
+      "substitutions": {
+        "billy": [ " billy", "-billy" ]
+      }
+    },
+
+    "Punk Electronic": {},
+
+    "Punk Metal": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
 
     "Riot Grrrl": {
       "substitutions": {
         "rrr": [ "rr", "r", "ir", "rrrr" ]
       }
+    },
+
+    "Synthpunk": {
+      "substitutions": {
+        "punk": [ " punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Technical Punk": {
+      "substitutions": {
+        "technical ": [ "tech ", "tech", "tech-" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Thrash Punk": {
+      "substitutions": {
+        " punk": [ "punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
     }
   }
 }

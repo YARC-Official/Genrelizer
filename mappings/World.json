@@ -1,6 +1,8 @@
 {
   "name": "World",
 
+  "suffixes": [ " music" ],
+
   "subgenres": {
     "Afrobeat": {
       "substitutions": {
@@ -40,6 +42,8 @@
         "ó": [ "o" ]
       }
     },
+
+    "Tarantella": {},
 
     "Worldbeat": {
       "substitutions": {

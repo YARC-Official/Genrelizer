@@ -22,6 +22,16 @@
       }
     },
 
-    "Minimal Techno": {}
+    "Melodic Techno": {
+      "substitutions": {
+        "melodic ": [ "melo", "melo-" ]
+      }
+    },
+
+    "Minimal Techno": {},
+
+    "Speed Techno": {},
+
+    "Wonky Techno": {}
   }
 }

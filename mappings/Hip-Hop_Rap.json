@@ -3,9 +3,15 @@
 
   "substitutions": {
     "hip-hop/rap": [
+      "hip hop rap",
+      "hip-hop rap",
+      "hiphop rap",
       "hip hop/rap",
       "hiphop/rap",
       "hiphoprap",
+      "rap hip hop",
+      "rap hip-hop",
+      "rap hiphop",
       "rap/hip hop",
       "rap/hip-hop",
       "rap/hiphop",
@@ -48,6 +54,15 @@
     "Country Rap": {},
 
     "Crunk": {},
+
+    "Djent Rap": {},
+
+    "East Coast Hip-Hop": {
+      "substitutions": {
+        "east ": [ "east", "east-" ],
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
 
     "Experimental Hip-Hop": {
       "substitutions": {
@@ -136,6 +151,24 @@
       }
     },
 
+    "Lo-Fi Beats": {
+      "substitutions": {
+        "lo": [ "low" ],
+        "-": [ "", " " ],
+        "fi": [ "fidelity" ],
+        "beats": [ "beat" ]
+      }
+    },
+
+    "Lo-Fi Hip-Hop": {
+      "substitutions": {
+        "lo": [ "low" ],
+        "-": [ "", " " ],
+        "fi": [ "fidelity" ],
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
     "Mafioso Rap": {},
 
     "Nerdcore Hip-Hop": {
@@ -145,7 +178,58 @@
       }
     },
 
+    "Pop Rap": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Progressive Hip-Hop": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
+    "Progressive Rap": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
     "Rap": {},
+
+    "Rapcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Rap Metal": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Rap Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Reggae Hip-Hop": {
+      "substitutions": {
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
+    "Southern Hip-Hop": {
+      "substitutions": {
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
+    "Southern Rap": {},
 
     "Trip Hop": {
       "substitutions": {
@@ -163,6 +247,13 @@
     "Underground Rap": {
       "substitutions": {
         "underground": [ "under ground", "under-ground" ]
+      }
+    },
+
+    "West Coast Hip-Hop": {
+      "substitutions": {
+        "west ": [ "west", "west-" ],
+        "hip-hop": [ "hip hop", "hiphop" ]
       }
     }
   }

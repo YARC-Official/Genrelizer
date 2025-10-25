@@ -37,9 +37,36 @@
 
     "Geek Rock": {},
 
+    "Lo-Fi Indie": {
+      "substitutions": {
+        "lo": [ "low" ],
+        "-": [ "", " " ],
+        "fi": [ "fidelity" ],
+        "ie": [ "y", "ependent" ]
+      }
+    },
+
     "Lo-Fi Rock": {
       "substitutions": {
-        "-": [ "", " " ]
+        "lo": [ "low" ],
+        "-": [ "", " " ],
+        "fi": [ "fidelity" ]
+      }
+    },
+
+    "Lo-Fi Slowcore": {
+      "substitutions": {
+        "lo": [ "low" ],
+        "-": [ "", " " ],
+        "fi": [ "fidelity" ],
+        "slow": [ "slo" ],
+        "core": [ "core", "-core" ]
+      }
+    },
+
+    "lowercase rock": {
+      "substitutions": {
+        "case": [ " case", "-case" ]
       }
     },
 
@@ -49,9 +76,35 @@
       }
     },
 
+    "Power Indie": {
+      "substitutions": {
+        "ie": [ "y", "ependent" ]
+      }
+    },
+
+    "Sadcore": {
+      "substitutions": {
+        "core": [ "core", "-core" ]
+      }
+    },
+
     "Shoegaze": {
       "substitutions": {
-        "gaze": [ " gaze", "-gaze", "gazing", " gazing", "-gazing" ]
+        "shoe": [ "shoe ", "shoe-" ],
+        "gaze": [ "gazing" ]
+      }
+    },
+
+    "Slowcore": {
+      "substitutions": {
+        "slow": [ "slo" ],
+        "core": [ "core", "-core" ]
+      }
+    },
+
+    "Twee Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
       }
     }
   }

@@ -26,6 +26,13 @@
       }
     },
 
+    "Nu-Core": {
+      "substitutions": {
+        "nu": [ "nü" ],
+        "-": [ "", " " ]
+      }
+    },
+
     "Nu-Metalcore": {
       "substitutions": {
         "nu": [ "nü" ],

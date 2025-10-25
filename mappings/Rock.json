@@ -57,12 +57,34 @@
 
     "Modern Rock": {},
 
+    "Orchestral Rock": {
+      "substitutions": {
+        "orchestral": [ "orchestra", "orchestration", "orch", "orch." ]
+      }
+    },
+
+    "Piano Rock": {},
+
     "Post-Grunge": {
       "substitutions": {
         "-": [ "", " " ]
       }
     },
 
-    "Shock Rock": {}
+    "Post-Rock": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Rock Opera": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Shock Rock": {},
+
+    "Symphonic Rock": {}
   }
 }

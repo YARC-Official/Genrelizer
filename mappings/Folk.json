@@ -12,6 +12,12 @@
       }
     },
 
+    "Dark Folk": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Folk Pop": {
       "substitutions": {
         " ": [ "-", "" ]
@@ -30,6 +36,24 @@
       "substitutions": {
         "ie": [ "y", "ependent" ],
         " ": [ "-", "" ]
+      }
+    },
+
+    "Murderfolk": {
+      "substitutons": {
+        "folk": [ " folk", "-folk" ]
+      }
+    },
+
+    "Neo Folk": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Progressive Folk": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
       }
     },
 

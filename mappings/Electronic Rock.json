@@ -58,9 +58,45 @@
 
     "Instrumental Synth Metal": {},
 
+    "MIDI Rock": {},
+
+    "MIDI Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "MIDI Shred": {
+      "suffixes": [ " metal" ]
+    },
+
+    "MIDI Thrash": {
+      "suffixes": [ " metal" ]
+    },
+
+    "Robot Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Synth Metal": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Synth Shred": {},
+
     "Synthrock": {
       "substitutions": {
         "synth": [ "synth ", "synth-" ]
+      }
+    },
+
+    "Techno Metal": {
+      "substitutions": {
+        " ": [ "", "-" ]
       }
     }
   }

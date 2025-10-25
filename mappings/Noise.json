@@ -35,13 +35,22 @@
 
     "Lo-Fi": {
       "substitutions": {
-        "-": [ "", " " ]
+        "lo": [ "low" ],
+        "-": [ "", " " ],
+        "fi": [ "fidelity" ]
       }
     },
 
     "No-Fi": {
       "substitutions": {
-        "-": [ "", " " ]
+        "-": [ "", " " ],
+        "fi": [ "fidelity" ]
+      }
+    },
+
+    "Noise Jazz": {
+      "substitutions": {
+        "noise ": [ "noise", "noise-" ]
       }
     },
 
@@ -60,7 +69,8 @@
     "Noise Punk": {
       "substitutions": {
         "noise ": [ "noise", "noise-" ]
-      }
+      },
+      "suffixes": [ "rock", " rock", "-rock" ]
     },
 
     "Noise Rock": {
@@ -78,6 +88,12 @@
     "Noisecore": {
       "substitutions": {
         "core": [ "-core", " core" ]
+      }
+    },
+
+    "Noisestep": {
+      "substitutions": {
+        "step": [ "-step", " step" ]
       }
     },
 

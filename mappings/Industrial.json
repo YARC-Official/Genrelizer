@@ -41,6 +41,12 @@
       }
     },
 
+    "Neue Deutsche Härte": {
+      "substitutions": {
+        "neue deutsche härte": [ "neue deutsche harte", "new german hardness", "ndh" ]
+      }
+    },
+
     "Post-Industrial": {
       "substitutions": {
         "-": [ " ", "" ]

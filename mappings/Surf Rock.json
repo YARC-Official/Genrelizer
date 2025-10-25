@@ -28,6 +28,12 @@
       "suffixes": [ " rock", "rock", "-rock" ]
     },
 
+    "Surf Shred": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Vocal Surf": {
       "suffixes": [ " rock" ]
     }

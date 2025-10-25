@@ -43,9 +43,28 @@
       }
     },
 
+    "Neue Deutsche Welle": {
+      "substitutions": {
+        "neue deutsche welle": [
+          "ndw",
+          "new german wave",
+          "german new wave",
+          "german newwave",
+          "german new-wave"
+
+        ]
+      }
+    },
+
     "Neue Deutsche Todeskunst": {
       "substitutions": {
         "neue deutsche todeskunst": [ "ndt", "new german death art" ]
+      }
+    },
+
+    "New Beat": {
+      "substitutions": {
+        "-": [ " ", "" ]
       }
     },
 

@@ -48,6 +48,12 @@
 
     "Minuet": {},
 
+    "Neoclassical": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ]
+      }
+    },
+
     "Opera": {},
 
     "Oratorio": {},

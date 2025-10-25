@@ -14,12 +14,69 @@
 
     "Hypnagogic Pop": {},
 
+    "Neo Psychedelia": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Psychedelia": {},
+
+    "Psychedelic Folk": {
+      "substitutions": {
+        "psychedelic": [ "psychadelic", "psych", "psyche", "psy" ],
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Psychedelic Fusion": {
+      "substitutions": {
+        "psychedelic": [ "psychadelic", "psych", "psyche", "psy" ],
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Psychedelic Jazz Rock": {
+      "substitutions": {
+        "psychedelic": [ "psychadelic", "psych", "psyche", "psy" ],
+        " jazz": [ "jazz", "-jazz" ],
+        " rock": [ "rock", "-rock" ]
+      }
+    },
+
+    "Psychedelic Metal": {
+      "substitutions": {
+        "psychedelic": [ "psychadelic", "psych", "psyche", "psy" ],
+        " ": [ "", "-" ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Psychedelic Pop": {
+      "substitutions": {
+        "psychedelic": [ "psychadelic", "psych", "psyche", "psy" ],
+        " ": [ "", "-" ]
+      }
+    },
 
     "Psychedelic Rock": {
       "substitutions": {
-        "psychedelic": [ "psychadelic", "psych", "psyche" ],
-        " rock": [ "rock", "-rock" ]
+        "psychedelic": [ "psychadelic", "psych", "psyche", "psy" ],
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Psychedelic Shred": {
+      "substitutions": {
+        "psychedelic": [ "psychadelic", "psych", "psyche", "psy" ],
+        " ": [ "", "-" ]
+      },
+      "suffixes": [ " metal" ]
+    },
+
+    "Space Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
       }
     }
   }

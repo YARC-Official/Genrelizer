@@ -113,11 +113,35 @@
       ]
     },
 
+    "Music Hall": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Orchestral Pop": {
+      "substitutions": {
+        "orchestral": [ "orchestra", "orchestration", "orch", "orch." ]
+      }
+    },
+
+    "Progressive Pop": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
     "Radio Pop": {},
+
+    "Space Pop": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
 
     "Teen Pop": {
       "substitutions": {
-        " pop": [ "-pop", "pop" ]
+        " ": [ "-", "" ]
       }
     },
 
@@ -125,6 +149,8 @@
       "suffixes": [
         " music"
       ]
-    }
+    },
+
+    "Violin Pop": {}
   }
 }

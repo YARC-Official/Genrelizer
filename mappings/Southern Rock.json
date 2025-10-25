@@ -20,6 +20,10 @@
       }
     },
 
-    "Southern Metal": {}
+    "Southern Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    }
   }
 }

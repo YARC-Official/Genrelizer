@@ -29,6 +29,22 @@
 
     "Kawaii Metal": {},
 
+    "Progressive J-Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "j": [ "japan", "japanese" ],
+        "-": [ "", " " ]
+      }
+    },
+
+    "Progressive J-Rock": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "j": [ "japan", "japanese" ],
+        "-": [ "", " " ]
+      }
+    },
+
     "Visual Kei": {}
   }
 }

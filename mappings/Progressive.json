@@ -44,9 +44,65 @@
       }
     },
 
+    "Neo Progressive Rock": {
+      "substitutions": {
+        "neo ": [ "neo-", "neo" ],
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        " rock": [ "rock", "-rock", "" ]
+      }
+    },
+
+    "Neoclassical Progressive Metal": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ],
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
     "New Prog": {
       "substitutions": {
         "prog": [ "prog.", "progressive" ]
+      }
+    },
+
+    "Progressive Blues Rock": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "blues ": [ "blues-", "blues" ]
+      }
+    },
+
+    "Progressive Emo": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
+    "Progressive Folk Rock": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
+    "Progressive Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
+    "Progressive Neoclassical": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "neo": [ "neo ", "neo-" ]
+      }
+    },
+
+    "Progressive Neoclassical Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "neo": [ "neo ", "neo-" ],
+        "metal": [ "heavy metal" ]
       }
     },
 
@@ -56,9 +112,10 @@
       }
     },
 
-    "Progressive Metal": {
+    "Progressive Shredcore": {
       "substitutions": {
-        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "core": [ " core", "-core" ]
       }
     }
   }

@@ -39,6 +39,48 @@
 
     "Sting": {},
 
+    "Symphonic VGM": {
+      "substitutions": {
+        "video game music": [
+          "video game",
+          "video-game",
+          "videogame",
+          "vg",
+          "vg music",
+          "vgmusic",
+          "video game music",
+          "video game ost",
+          "video-game ost",
+          "videogame ost",
+          "vg ost",
+          "game",
+          "game cover",
+          "game music",
+          "game ost",
+          "game soundtrack",
+          "game sound track",
+          "game sound-track",
+          "video game soundtrack",
+          "video-game soundtrack",
+          "videogame soundtrack",
+          "video game sound track",
+          "video-game sound track",
+          "videogame sound track",
+          "video game sound-track",
+          "video-game sound-track",
+          "videogame sound-track"
+        ]
+      }
+    },
+
+    "Theatrical": {},
+
+    "Theme Song": {
+      "substitutions": {
+        " song": [ " music", "" ]
+      }
+    },
+
     "Video Game Music": {
       "substitutions": {
         "video game music": [

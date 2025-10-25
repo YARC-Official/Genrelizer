@@ -19,7 +19,19 @@
       }
     },
 
+    "Japanese Power Metal": {
+      "substitutions": {
+        "power ": [ "power", "power-" ]
+      }
+    },
+
     "Melodic Metal": {},
+
+    "Melodic Power Metal": {
+      "substitutions": {
+        "power ": [ "power", "power-" ]
+      }
+    },
 
     "Neoclassical Metal": {
       "substitutions": {
@@ -28,13 +40,14 @@
       }
     },
 
-    "Pirate Metal": {},
-
-    "Japanese Power Metal": {
+    "Neoclassical Power Metal": {
       "substitutions": {
+        "neo": [ "neo ", "neo-" ],
         "power ": [ "power", "power-" ]
       }
     },
+
+    "Pirate Metal": {},
 
     "Power Metal": {
       "substitutions": {
@@ -47,6 +60,15 @@
         "metal": [ "heavy metal" ]
       }
     },
+
+    "Progressive Power Metal": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "power ": [ "power", "power-" ]
+      }
+    },
+
+    "Symphonic Folk Metal": {},
 
     "Symphonic Metal": {
       "substitutions": {

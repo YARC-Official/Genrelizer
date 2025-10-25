@@ -39,6 +39,12 @@
       "suffixes": [ "s" ]
     },
 
+    "Memecore": {
+      "suffixes": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "Novelty Chiptune": {
       "substitutions": {
         "novelty chiptune": [
@@ -66,6 +72,18 @@
     "Novelty Rap": {},
 
     "Novelty Rock": {},
+
+    "Parody": {
+      "substitutions": {
+        "parody": [ "spoof" ]
+      }
+    },
+
+    "Parody Rock": {
+      "substitutions": {
+        "parody": [ "spoof" ]
+      }
+    },
 
     "Stand-Up Comedy": {
       "substitutions": {

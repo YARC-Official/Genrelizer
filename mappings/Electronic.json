@@ -74,6 +74,33 @@
 
     "Indietronica": {},
 
+    "MIDI": {},
+
+    "MIDI Art": {},
+
+    "Minimal Electro": {},
+
+    "Neoclassical Electronic": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ]
+      }
+    },
+
+    "Oscilloscope Music": {
+      "substitutions": {
+        " music": [ "" ]
+      }
+    },
+
+    "Post-Synthwave": {
+      "substitutions": {
+        "-": [ "", " " ],
+        "synth": [ "synth ", "synth-" ]
+      }
+    },
+
+    "Speed Garage": {},
+
     "Synthwave": {
       "substitutions": {
         "synth": [ "synth ", "synth-" ]
@@ -83,6 +110,13 @@
     "UK Garage": {
       "substitutions": {
         "uk": [ "u.k." ]
+      }
+    },
+
+    "Vaporwave": {
+      "substitutions": {
+        "vapor": [ "vapour" ],
+        "wave": [ " wave", "-wave" ]
       }
     },
 

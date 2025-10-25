@@ -84,6 +84,41 @@
       }
     },
 
+    "Mákina": {
+      "substitutions": {
+        "á": [ "a" ]
+      }
+    },
+
+    "Melodic Extratone": {
+      "substitutions": {
+        "melodic ": [ "melo", "melo-" ],
+        "tone": [ " tone", "-tone" ]
+      }
+    },
+
+    "Melodic Speedcore": {
+      "substitutions": {
+        "melodic ": [ "melo", "melo-" ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Melodic Splittercore": {
+      "substitutions": {
+        "melodic ": [ "melo", "melo-" ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Melodic UK Hardcore": {
+      "substitutions": {
+        "melodic ": [ "melo", "melo-" ],
+        "uk": [ "u.k." ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "Speedcore": {
       "substitutions": {
         "core": [ " core", "-core" ]
@@ -91,6 +126,61 @@
     },
 
     "Splittercore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Symphonic Extratone": {
+      "substitutions": {
+        "melodic ": [ "melo", "melo-" ],
+        "tone": [ " tone", "-tone" ]
+      }
+    },
+
+    "Symphonic Speedcore": {
+      "substitutions": {
+        "melodic ": [ "melo", "melo-" ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Symphonic Splittercore": {
+      "substitutions": {
+        "melodic ": [ "melo", "melo-" ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Tokyo-Style Speedcore": {
+      "substitutions": {
+        "-style": [ "style", " style", "" ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Traditional Speedcore": {
+      "substitutions": {
+        "traditional ": [
+          "trad ",
+          "trad. ",
+          "trad' ",
+          "trad-",
+          "trad.-",
+          "trad'-"
+        ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "UK Hardcore": {
+      "substitutions": {
+        "uk": [ "u.k." ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Vortex Speedcore": {
       "substitutions": {
         "core": [ " core", "-core" ]
       }

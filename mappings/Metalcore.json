@@ -6,10 +6,30 @@
   },
 
   "subgenres": {
+    "Electronicore": {},
+
+    "Melodic Metalcore": {
+      "substitutions": {
+        "metal": [ "metal ", "metal-" ]
+      }
+    },
+
+    "Metallicore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "Progressive Metalcore": {
       "substitutions": {
         "progressive ": [ "prog ", "prog. ", "prog-" ],
         "metal": [ "metal ", "metal-" ]
+      }
+    },
+
+    "Trancecore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
       }
     }
   }

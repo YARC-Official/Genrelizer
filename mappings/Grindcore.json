@@ -55,6 +55,12 @@
       }
     },
 
+    "Mathgrind": {
+      "substitutions": {
+        "grind": [ " grind", "-grind" ]
+      }
+    },
+
     "Noisegrind": {
       "substitutions": {
         "grind": [ " grind", "-grind" ]
@@ -76,6 +82,19 @@
     "Pornogrind": {
       "substitutions": {
         "grind": [ " grind", "-grind" ]
+      }
+    },
+
+    "Postgrind": {
+      "substitutions": {
+        "post": [ " ", "post-" ]
+      },
+      "suffixes": [ "core", " core", "-core" ]
+    },
+
+    "Powercore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
       }
     },
 

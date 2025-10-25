@@ -16,8 +16,6 @@
       "substitutions": {
         "neo": [ "neo-", "neo " ]
       }
-    },
-
-    "Symphonic": {}
+    }
   }
 }

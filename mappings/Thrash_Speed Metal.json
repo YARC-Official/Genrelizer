@@ -34,6 +34,41 @@
       "suffixes": [ " metal" ]
     },
 
+    "Neoclassical Shred": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ]
+      },
+      "suffixes": [ " metal" ]
+    },
+
+    "Neoclassical Thrash Metal": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ],
+        " metal": [ "" ]
+      }
+    },
+
+    "Pop Shred": {
+      "substitutions": {
+        "pop ": [ "pop", "pop-" ]
+      },
+      "suffixes": [ " metal" ]
+    },
+
+    "Power Thrash Metal": {
+      "substitutions": {
+        "power ": [ "power", "power-" ],
+        " metal": [ "" ]
+      }
+    },
+
+    "Progressive Shred": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      },
+      "suffixes": [ " metal" ]
+    },
+
     "Progressive Speed Metal": {
       "substitutions": {
         "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
@@ -46,14 +81,46 @@
       }
     },
 
+    "Shred": {
+      "suffixes": [ " metal" ]
+    },
+
+    "Slavic Shred": {
+      "suffixes": [ " metal" ]
+    },
+
     "Speed Metal": {},
 
-    "Thrash Metal": {},
+    "Symphonic Speed Metal": {},
+
+    "Symphonic Thrash Metal": {},
+
+    "Technical Metal": {
+      "substitutions": {
+        "technical ": [ "tech ", "tech", "tech-" ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Technical Thrash Metal": {
+      "substitutions": {
+        "technical ": [ "tech ", "tech", "tech-" ],
+        " metal": [ "" ]
+      }
+    },
+
+    "Thrash Metal": {
+      "substitutions": {
+        " metal": [ "" ]
+      }
+    },
 
     "Thrashcore": {
       "substitutions": {
         "core": [ " core", "-core" ]
       }
-    }
+    },
+
+    "Violin Shred": {}
   }
 }

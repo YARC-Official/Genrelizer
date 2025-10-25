@@ -1,6 +1,8 @@
 {
   "name": "Djent",
 
+  "substitutions": [ "meshuggah" ],
+
   "suffixes": [ " metal" ],
 
   "subgenres": {
@@ -29,6 +31,17 @@
     "Electronic Djent": {},
 
     "Instrumental Djent": {},
+
+    "Pop Djent": {},
+
+    "Progressive Djent": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "djent": [ "metal djent", "djent metal" ]
+      }
+    },
+
+    "Rap Djent": {},
 
     "Thall": {}
   }

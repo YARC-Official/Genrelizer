@@ -38,6 +38,13 @@
       "substitutions": {
         " ": [ "", "-" ]
       }
+    },
+
+    "Teenager Rock": {
+      "substitutions": {
+        "ager": [ "" ],
+        " ": [ "-", "" ]
+      }
     }
   }
 }

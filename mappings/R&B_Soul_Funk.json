@@ -3,30 +3,42 @@
 
   "substitutions": {
     "r&b/soul/funk": [
+      "funk rnb soul",
+      "funk r&b soul",
       "funk/rnb/soul",
       "funk/r&b/soul",
       "funkrnbsoul",
       "funkr&bsoul",
 
+      "funk soul rnb",
+      "funk soul r&b",
       "funk/soul/rnb",
       "funk/soul/r&b",
       "funksoulrnb",
       "funksoulr&b",
 
+      "rnb funk soul",
+      "r&b funk soul",
       "rnb/funk/soul",
       "r&b/funk/soul",
       "rnbfunksoul",
       "r&bfunksoul",
 
+      "rnb soul funk",
+      "r&b soul funk",
       "rnb/soul/funk",
       "rnbsoulfunk",
       "r&bsoulfunk",
 
+      "soul funk rnb",
+      "soul funk r&b",
       "soul/funk/rnb",
       "soul/funk/r&b",
       "soulfunkrnb",
       "soulfunkr&b",
 
+      "soul rnb funk",
+      "soul r&b funk",
       "soul/rnb/funk",
       "soul/r&b/funk",
       "soulrnbfunk",
@@ -36,6 +48,18 @@
 
   "subgenres": {
     "Boogie": {},
+
+    "Brown-Eyed Soul": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Blue-Eyed Soul": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
 
     "Chicago Soul": {},
 
@@ -94,6 +118,12 @@
 
     "Motown": {},
 
+    "Neo Soul": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Pop R&B": {
       "substitutions": {
         "pop ": [ "pop-" ],
@@ -115,7 +145,13 @@
 
     "Pop Soul": {
       "substitutions": {
-        "pop ": [ "pop-" ]
+        " ": [ "-", "" ]
+      }
+    },
+
+    "Progressive Funk": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
       }
     },
 
@@ -139,9 +175,21 @@
 
     "Soul": {},
 
+    "Soul Funk": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Soul Rock": {
       "substitutions": {
-        " rock": [ "rock", "-rock" ]
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Synth Funk": {
+      "substitutions": {
+        " ": [ "", "-" ]
       }
     }
   }

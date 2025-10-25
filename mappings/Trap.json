@@ -26,9 +26,32 @@
       }
     },
 
+    "Neotrap": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ]
+      }
+    },
+
+    "Riddim Trap": {},
+
+    "Sexy Trap": {},
+
+    "Trap Metal": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
     "Trap Pop": {
       "substitutions": {
         " ": [ "-", "" ]
+      }
+    },
+
+    "Vaportrap": {
+      "substitutions": {
+        "vapor": [ "vapour" ],
+        "trap": [ " trap", "-trap" ]
       }
     }
   }

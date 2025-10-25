@@ -2,7 +2,14 @@
   "name": "Ambient/Drone",
 
   "substitutions": {
-    "ambient/drone": [ "drone/ambient", "ambientdrone", "droneambient" ]
+    "ambient/drone": [
+      "ambient drone",
+      "ambientdrone",
+      "drone ambient",
+      "drone/ambient",
+      "droneambient"
+
+    ]
   },
 
   "subgenres": {
