@@ -6,15 +6,14 @@
   "subgenres": {
     "Acid Punk": {
       "substitutions": {
-        " ": [ " ", "-" ]
+        " ": [ "", "-" ]
       },
       "suffixes": [ " rock", "rock", "-rock" ]
     },
 
     "Alternative Punk": {
       "substitutions": {
-        "alternative ": [ "alt", "alt ", "alt-", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternate" ],
-        " punk": [ "punk", "-punk" ]
+        "alternative ": [ "alt", "alt ", "alt-", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternate" ]
       },
       "suffixes": [ " rock", "rock", "-rock" ]
     },
@@ -28,7 +27,7 @@
 
     "Balkan Punk": {
       "substitutions": {
-        " ": [ " ", "-" ]
+        " ": [ "", "-" ]
       },
       "suffixes": [ " rock", "rock", "-rock" ]
     },
