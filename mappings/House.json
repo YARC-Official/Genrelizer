@@ -81,6 +81,8 @@
       "substitutions": {
         "pumping": [ "bumping" ]
       }
-    }
+    },
+
+    "Tropical House": {}
   }
 }

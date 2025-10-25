@@ -20,6 +20,12 @@
 
     "Hybrid Trap": {},
 
+    "Moombahtrap": {
+      "substitutions": {
+        "trap": [ " trap", "-trap" ]
+      }
+    },
+
     "Trap Pop": {
       "substitutions": {
         " ": [ "-", "" ]

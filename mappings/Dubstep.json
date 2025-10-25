@@ -72,6 +72,12 @@
       }
     },
 
+    "Reggaestep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
     "Wubstep": {
       "substitutions": {
         "step": [ " step", "-step" ]
