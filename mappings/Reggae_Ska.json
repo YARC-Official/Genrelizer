@@ -49,6 +49,12 @@
 
     "Ska": {},
 
+    "Ska Jazz": {
+      "substitutions": {
+        "ska ": [ "ska", "ska-" ]
+      }
+    },
+
     "Ska Punk": {
       "substitutions": {
         "ska ": [ "ska", "ska-" ]

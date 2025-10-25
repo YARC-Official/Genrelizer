@@ -153,7 +153,8 @@
 
 		"Melodic Death Metal": {
 			"substitutions": {
-				"melodic ": [ "melo", "melo ", "melo-" ]
+				"melodic ": [ "melo", "melo ", "melo-" ],
+				" metal": [ "" ]
 			}
 		},
 
@@ -193,7 +194,8 @@
 
 		"Technical Death Metal": {
 			"subtitutions": {
-				"technical": [ "tech", "tech-", "tech " ]
+				"technical": [ "tech", "tech-", "tech " ],
+				" metal": [ "" ]
 			}
 		},
 

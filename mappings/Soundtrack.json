@@ -26,7 +26,16 @@
 
     "Jingle": {},
 
+    "Musical": {},
+
     "Score": {},
+
+    "Show Tune": {
+      "substitutions": {
+        " ": [ "", "-" ],
+        "tune": [ "tunes" ]
+      }
+    },
 
     "Sting": {},
 

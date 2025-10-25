@@ -28,6 +28,12 @@
 
     "Junkanoo": {},
 
+    "Indigenous Music": {
+      "substitutions": {
+        " music": [ "" ]
+      }
+    },
+
     "Laïkó": {
       "substitutions": {
         "ï": [ "i" ],

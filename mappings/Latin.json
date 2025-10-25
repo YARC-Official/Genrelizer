@@ -2,9 +2,63 @@
   "name": "Latin",
 
   "subgenres": {
+    "Afro-Cuban Jazz": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Ballroom Rumba": {
+      "substitutions": {
+        "rumba": [ "rhumba" ]
+      }
+    },
+
+    "Ballroom Conga": {},
+
+    "Bambuco": {},
+
+    "Bambuco Fiestero": {},
+
     "Bolero": {},
 
     "Calypso": {},
+
+    "Canción": {
+      "substitutions": {
+        "ó": [ "o" ]
+      }
+    },
+
+    "Canción Andaluza": {
+      "substitutions": {
+        "canción andaluza": [ "cancion andaluza", "andalusian canción", "andalusian cancion" ]
+      }
+    },
+
+    "Canción Española": {
+      "substitutions": {
+        "canción española": [
+          "cancion espanola",
+          "canción espanola",
+          "cancion española",
+          "spanish cancion",
+          "spanish canción"
+        ]
+      }
+    },
+
+    "Canción Folklórica": {
+      "substitutions": {
+        "canción folklórica": [ "cancion folklorica", "canción folklorica", "cancion folklórica" ]
+      }
+    },
+
+    "Candombe": {},
+
+    "Carnavalito": {},
+
+    "Catalan Rumba": {},
 
     "Choro": {
       "substitutions": {
@@ -12,7 +66,46 @@
       }
     },
 
+    "Conga": {},
+
+    "Contradanza": {},
+
+    "Copla": {},
+
+    "Copla Andaluza": {
+      "substitutions": {
+        "copla andaluza": [ "andalusian copla" ]
+      }
+    },
+
+    "Cuplé": {
+      "substitutions": {
+        "é": [ "e" ]
+      }
+    },
+
+    "Danzón": {
+      "substitutions": {
+        "ó": [ "o" ]
+      },
+      "suffixes": [ "ete" ]
+    },
+
+    "Diablada": {
+      "substitutions": {
+        "diablada": [ "danza de los diablos" ]
+      }
+    },
+
+    "Fandango": {},
+
     "Flamenco": {},
+
+    "Huayno": {
+      "substitutions": {
+        "huayno": [ "waynu" ]
+      }
+    },
 
     "Latin Fusion": {},
 
@@ -26,6 +119,34 @@
 
     "Mariachi": {},
 
-    "Salsa": {}
+    "Milonga": {},
+
+    "Morenada": {},
+
+    "Neotango": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ]
+      }
+    },
+
+    "Rhumba": {},
+
+    "Rumba": {},
+
+    "Salsa": {},
+
+    "Sanjuanero": {},
+
+    "Saya": {},
+
+    "Son Cubano": {},
+
+    "Son Montuno": {},
+
+    "Tango": {},
+
+    "Tinku": {},
+
+    "Tonadilla": {}
   }
 }
