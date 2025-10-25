@@ -138,6 +138,13 @@
 
     "Mafioso Rap": {},
 
+    "Nerdcore Hip-Hop": {
+      "substitutions": {
+        "core": [ " core", "-core" ],
+        " hip-hop": [ " hiphop", " hip-hop", "" ]
+      }
+    },
+
     "Rap": {},
 
     "Trip Hop": {
