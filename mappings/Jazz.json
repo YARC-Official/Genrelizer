@@ -38,7 +38,8 @@
     "Chicaco-Style Hot Jazz": {
       "substitutions": {
         "chicago-style": [ "chicago style", "chicago" ],
-        "hot": [ "dixieland ", "dixie land ", "dixie-land " ]
+        "hot": [ "dixieland ", "dixie land ", "dixie-land " ],
+        " jazz": [ "" ]
       }
     },
 

@@ -5,14 +5,19 @@
     "electronic": [
       "dance/electronic/pop",
       "danceelectronicpop",
+
       "dance/pop/electronic",
       "dancepopelectronic",
-      "dance/electronic/pop",
-      "danceelectronicpop",
-      "dance/pop/electronic",
-      "dancepopelectronic",
+
+      "electronic/dance/pop",
+      "electronicdancepop",
+
+      "electronic/pop/dance",
+      "electronicpopdance",
+      
       "pop/dance/electronic",
       "popdanceelectronic",
+      
       "pop/electronic/dance",
       "popelectronicdance"
     ]
@@ -71,7 +76,7 @@
 
     "Synthwave": {
       "substitutions": {
-        "synth": [ "synth", "synth-" ]
+        "synth": [ "synth ", "synth-" ]
       }
     },
 

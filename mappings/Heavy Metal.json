@@ -32,7 +32,7 @@
 
     "Dark Metal": {
       "substitutions": {
-        "heavy metal": [ "metal" ]
+        "metal": [ "heavy metal" ]
       }
     },
 

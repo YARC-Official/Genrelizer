@@ -18,7 +18,7 @@
 		"Alternative Pop-Rock": {
 			"substitutions": {
 				"alternative ": [ "alt", "alt ", "alt-", "alt. ", "alt.-", "alt' ", "alt'-", "altern ", "altern. ", "altern' ", "alternate" ],
-				"-": [ "", " " ]
+				"pop-rock": [ "poprock", "pop rock" ]
 			}
 		},
 
@@ -52,7 +52,7 @@
 
 		"Stoner Rock": {
 			"substitutions": {
-				"desert ": [ "stoner", "stoner-" ]
+				"stoner ": [ "stoner", "stoner-" ]
 			}
 		}
 	}

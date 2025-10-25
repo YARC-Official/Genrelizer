@@ -16,24 +16,6 @@
       }
     },
 
-    "Country Pop": {
-      "substitutions": {
-        " ": [ "", "-" ]
-      }
-    },
-
-    "Country Rock": {
-      "substitutions": {
-        " ": [ "", "-" ]
-      }
-    },
-
-    "Country Swing": {
-      "substitutions": {
-        " ": [ "", "-" ]
-      }
-    },
-
     "EDM": {
       "substitutions": {
         "edm": [ "electronic dance music", "electronic dance" ]

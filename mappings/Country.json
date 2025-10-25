@@ -28,6 +28,12 @@
       }
     },
 
+    "Country Swing": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Electronic Country": {},
 
     "Honky Tonk": {
@@ -38,7 +44,7 @@
 
     "Newgrass": {
       "substitutions": {
-        "blue": [ "new ", "new-" ]
+        "new": [ "new ", "new-" ]
       }
     },
 

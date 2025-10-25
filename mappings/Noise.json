@@ -21,7 +21,7 @@
 
     "Harsh Noise Wall": {
       "substitutions": {
-        "harsh noise wall": [ "wall noise", "wall harsh noise", "hnw" ]
+        "harsh noise wall": [ "harsh wall noise", "wall harsh noise", "hnw" ]
       }
     },
 

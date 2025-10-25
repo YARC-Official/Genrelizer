@@ -30,7 +30,7 @@
 
     "16-Bitcore": {
       "substitutions": {
-        "8-": [ "16", "16 ", "sixteen", "sixteen ", "sixteen-" ],
+        "16-": [ "16", "16 ", "sixteen", "sixteen ", "sixteen-" ],
         "bitcore": [ "bit core", "bit-core" ]
       },
       "suffixes": [ " chiptune", " chip tune", " chip-tune" ]

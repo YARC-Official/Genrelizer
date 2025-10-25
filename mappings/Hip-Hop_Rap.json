@@ -141,7 +141,7 @@
     "Nerdcore Hip-Hop": {
       "substitutions": {
         "core": [ " core", "-core" ],
-        " hip-hop": [ " hiphop", " hip-hop", "" ]
+        " hip-hop": [ " hiphop", " hip hop", "" ]
       }
     },
 

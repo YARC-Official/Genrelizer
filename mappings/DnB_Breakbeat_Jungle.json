@@ -240,7 +240,7 @@
 
     "Light DnB": {
       "substitutions": {
-        "drum and bass": [
+        "dnb": [
           "drum & bass",
           "drum-&-bass",
           "drum and bass",
@@ -263,7 +263,7 @@
 
     "Liquid DnB": {
       "substitutions": {
-        "drum and bass": [
+        "dnb": [
           "drum & bass",
           "drum-&-bass",
           "drum and bass",
@@ -288,7 +288,7 @@
 
     "Mainstream DnB": {
       "substitutions": {
-        "drum and bass": [
+        "dnb": [
           "drum & bass",
           "drum-&-bass",
           "drum and bass",
