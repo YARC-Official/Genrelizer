@@ -262,7 +262,7 @@
     },
 
     "Swingin' Lounge": {
-      "substitutiongs": {
+      "substitutions": {
         "'": [ "", "g" ]
       },
       "suffixes": [ " jazz", " music" ]

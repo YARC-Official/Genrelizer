@@ -10,12 +10,6 @@
       "substitutions": {
         "bugle call": [ "bugle" ]
       }
-    },
-
-    "Neoclassical": {
-      "substitutions": {
-        "neo": [ "neo-", "neo " ]
-      }
     }
   }
 }

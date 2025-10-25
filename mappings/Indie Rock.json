@@ -70,12 +70,6 @@
       }
     },
 
-    "Post-Rock": {
-      "substitutions": {
-        "-": [ "", " " ]
-      }
-    },
-
     "Power Indie": {
       "substitutions": {
         "ie": [ "y", "ependent" ]
@@ -84,7 +78,7 @@
 
     "Sadcore": {
       "substitutions": {
-        "core": [ "core", "-core" ]
+        "core": [ " core", "-core" ]
       }
     },
 
@@ -98,7 +92,7 @@
     "Slowcore": {
       "substitutions": {
         "slow": [ "slo" ],
-        "core": [ "core", "-core" ]
+        "core": [ " core", "-core" ]
       }
     },
 

@@ -33,7 +33,7 @@
       "substitutions": {
         "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
         "j": [ "japan", "japanese" ],
-        "-": [ "", " " ]
+        "-metal": [ "metal", " metal" ]
       }
     },
 
@@ -41,7 +41,7 @@
       "substitutions": {
         "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
         "j": [ "japan", "japanese" ],
-        "-": [ "", " " ]
+        "-rock": [ "rock", " rock" ]
       }
     },
 
