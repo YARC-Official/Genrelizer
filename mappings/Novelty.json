@@ -40,7 +40,7 @@
     },
 
     "Memecore": {
-      "suffixes": {
+      "substitutions": {
         "core": [ " core", "-core" ]
       }
     },

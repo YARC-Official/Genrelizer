@@ -133,21 +133,18 @@
 
     "Symphonic Extratone": {
       "substitutions": {
-        "melodic ": [ "melo", "melo-" ],
         "tone": [ " tone", "-tone" ]
       }
     },
 
     "Symphonic Speedcore": {
       "substitutions": {
-        "melodic ": [ "melo", "melo-" ],
         "core": [ " core", "-core" ]
       }
     },
 
     "Symphonic Splittercore": {
       "substitutions": {
-        "melodic ": [ "melo", "melo-" ],
         "core": [ " core", "-core" ]
       }
     },

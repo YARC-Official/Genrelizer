@@ -147,7 +147,7 @@
 
     "Lounge Revival": {
       "substitutions": {
-        "lounge": "lounge jazz"
+        "lounge": [ "lounge jazz" ]
       }
     },
 

@@ -163,7 +163,7 @@
     "Lo-Fi Hip-Hop": {
       "substitutions": {
         "lo": [ "low" ],
-        "-": [ "", " " ],
+        "-fi": [ "fi", " fi" ],
         "fi": [ "fidelity" ],
         "hip-hop": [ "hip hop", "hiphop" ]
       }

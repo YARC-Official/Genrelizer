@@ -60,7 +60,7 @@
         "-": [ "", " " ],
         "fi": [ "fidelity" ],
         "slow": [ "slo" ],
-        "core": [ "core", "-core" ]
+        "core": [ " core", "-core" ]
       }
     },
 
