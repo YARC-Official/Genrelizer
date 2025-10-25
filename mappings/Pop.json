@@ -32,25 +32,25 @@
     },
 
     "Art Pop": {
-      "subtitutions": {
+      "substitutions": {
         " pop": [ "-pop", "pop" ]
       }
     },
 
     "Baroque Pop": {
-      "subtitutions": {
+      "substitutions": {
         " pop": [ "-pop", "pop" ]
       }
     },
 
     "Bubblegum Bass": {
-      "subtitutions": {
+      "substitutions": {
         "gum": [ "-gum", " gum" ]
       }
     },
 
     "Bubblegum Pop": {
-      "subtitutions": {
+      "substitutions": {
         "gum": [ "-gum", " gum" ],
         " pop": [ "-pop", "pop" ]
       }
@@ -93,7 +93,7 @@
     "Experimental Pop": {},
 
     "Hyperpop": {
-      "subtitutions": {
+      "substitutions": {
         " pop": [ "-pop", "pop" ]
       }
     },
@@ -116,7 +116,7 @@
     "Radio Pop": {},
 
     "Teen Pop": {
-      "subtitutions": {
+      "substitutions": {
         " pop": [ "-pop", "pop" ]
       }
     },

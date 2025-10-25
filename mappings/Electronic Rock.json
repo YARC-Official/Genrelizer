@@ -14,13 +14,13 @@
     },
 
     "Bit Metal": {
-      "subtitutions": {
+      "substitutions": {
         " ": [ "", "-" ]
       }
     },
 
     "Bit Rock": {
-      "subtitutions": {
+      "substitutions": {
         " ": [ "", "-" ]
       }
     },
