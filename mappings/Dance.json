@@ -83,6 +83,20 @@
       }
     },
 
+    "Moombahcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Moombahsoul": {
+      "substitutions": {
+        "soul": [ " soul", "-soul" ]
+      }
+    },
+
+    "Moombahton": {},
+
     "Rave": {}
   }
 }
