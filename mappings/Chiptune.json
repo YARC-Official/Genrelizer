@@ -38,7 +38,7 @@
 
     "Bitpop": {
       "substitutions": {
-        " ": [ "", "-" ]
+        "bitpop": [ "bit pop", "bit-pop" ]
       }
     },
 

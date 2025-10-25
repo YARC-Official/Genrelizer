@@ -94,7 +94,7 @@
 
     "Hyperpop": {
       "substitutions": {
-        " pop": [ "-pop", "pop" ]
+        "pop": [ "-pop", " pop" ]
       }
     },
 
