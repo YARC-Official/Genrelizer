@@ -7,8 +7,10 @@
 
   "subgenres": {
     "Hotrod Rock": {
-      "hotrod": [ "hot rod", "hot-rod" ],
-      " rock": [ "rock", "-rock" ]
+      "substitutions": {
+        "hotrod": [ "hot rod", "hot-rod" ],
+        " rock": [ "rock", "-rock" ]
+      }
     },
 
     "Surf Guitar": {},

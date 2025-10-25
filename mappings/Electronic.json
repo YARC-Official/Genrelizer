@@ -81,7 +81,7 @@
     },
 
     "UK Garage": {
-      "substitutioins": {
+      "substitutions": {
         "uk": [ "u.k." ]
       }
     },

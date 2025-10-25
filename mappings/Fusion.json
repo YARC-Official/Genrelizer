@@ -9,7 +9,9 @@
     "Digital Fusion": {},
 
     "Flamenco Jazz Fusion": {
-      "jazz fusion": [ "jazz-fusion" ]
+      "substitutions": {
+        "jazz fusion": [ "jazz-fusion" ]
+      }
     },
 
     "Flamenco Metal": {},

@@ -329,28 +329,28 @@
           "m&b"
         ]
       }
-    }
-  },
+    },
 
-  "Neuro": {},
+    "Neuro": {},
 
-  "Neurofunk": {
-    "substitutions": {
-      "neuro": [ "neuro ", "neuro-" ]
-    }
-  },
+    "Neurofunk": {
+      "substitutions": {
+        "neuro": [ "neuro ", "neuro-" ]
+      }
+    },
 
-  "Sambass": {},
+    "Sambass": {},
 
-  "Spunk Jazz": {
-    "substitutions": {
-      "spunk ": [ "spunk", "spunk-" ]
-    }
-  },
+    "Spunk Jazz": {
+      "substitutions": {
+        "spunk ": [ "spunk", "spunk-" ]
+      }
+    },
 
-  "Techstep": {
-    "substitutions": {
-      "tech": [ "tech ", "tech-" ]
+    "Techstep": {
+      "substitutions": {
+        "tech": [ "tech ", "tech-" ]
+      }
     }
   }
 }
