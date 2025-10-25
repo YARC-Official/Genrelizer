@@ -1,7 +1,9 @@
 {
   "name": "Djent",
 
-  "substitutions": [ "meshuggah" ],
+  "substitutions": {
+    "djent": "meshuggah"
+  },
 
   "suffixes": [ " metal" ],
 
