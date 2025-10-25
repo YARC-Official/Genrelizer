@@ -51,12 +51,6 @@
 			"suffixes": [ " metal" ]
 		},
 
-		"Blackened Thrash Metal": {
-			"substitutions": {
-				"thrash metal": [ "thrash" ]
-			}
-		},
-
 		"Blackgaze": {
 			"substitutions": {
 				"gaze": [ " gaze", "-gaze", "gazing", " gazing", "-gazing" ]
