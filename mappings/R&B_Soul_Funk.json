@@ -1,36 +1,38 @@
 {
   "name": "R&B/Soul/Funk",
 
-  "substitutions": [
-    "funk/rnb/soul",
-    "funk/r&b/soul",
-    "funkrnbsoul",
-    "funkr&bsoul",
+  "substitutions": {
+    "r&b/soul/funk": [
+      "funk/rnb/soul",
+      "funk/r&b/soul",
+      "funkrnbsoul",
+      "funkr&bsoul",
 
-    "funk/soul/rnb",
-    "funk/soul/r&b",
-    "funksoulrnb",
-    "funksoulr&b",
+      "funk/soul/rnb",
+      "funk/soul/r&b",
+      "funksoulrnb",
+      "funksoulr&b",
 
-    "rnb/funk/soul",
-    "r&b/funk/soul",
-    "rnbfunksoul",
-    "r&bfunksoul",
+      "rnb/funk/soul",
+      "r&b/funk/soul",
+      "rnbfunksoul",
+      "r&bfunksoul",
 
-    "rnb/soul/funk",
-    "rnbsoulfunk",
-    "r&bsoulfunk",
+      "rnb/soul/funk",
+      "rnbsoulfunk",
+      "r&bsoulfunk",
 
-    "soul/funk/rnb",
-    "soul/funk/r&b",
-    "soulfunkrnb",
-    "soulfunkr&b",
+      "soul/funk/rnb",
+      "soul/funk/r&b",
+      "soulfunkrnb",
+      "soulfunkr&b",
 
-    "soul/rnb/funk",
-    "soul/r&b/funk",
-    "soulrnbfunk",
-    "soulr&bfunk"
-  ],
+      "soul/rnb/funk",
+      "soul/r&b/funk",
+      "soulrnbfunk",
+      "soulr&bfunk"
+    ]
+  },
 
   "subgenres": {
     "Boogie": {},
