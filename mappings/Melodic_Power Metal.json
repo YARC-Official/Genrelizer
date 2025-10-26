@@ -18,10 +18,24 @@
       }
     },
 
+    "Epic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Epic Pagan Metal": {},
+
     "Extreme Power Metal": {
       "substitutions": {
         "extreme": [ "xtreme", "x-treme" ],
         "power ": [ "power", "power-" ]
+      }
+    },
+    
+    "Intense Symphonic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
       }
     },
 
@@ -31,7 +45,11 @@
       }
     },
 
+    "Melodic Folk Metal": {},
+
     "Melodic Metal": {},
+
+    "Melodic Pagan Metal": {},
 
     "Melodic Power Metal": {
       "substitutions": {
@@ -58,12 +76,6 @@
     "Power Metal": {
       "substitutions": {
         " ": [ "", "-" ]
-      }
-    },
-
-    "Intense Symphonic Metal": {
-      "substitutions": {
-        "metal": [ "heavy metal" ]
       }
     },
 

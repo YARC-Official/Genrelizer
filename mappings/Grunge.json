@@ -2,13 +2,42 @@
   "name": "Grunge",
 
   "substitutions": {
-    "grunge": [ "seattle sound" ]
+    "grunge": [ "seattle sound", "the seattle sound" ]
   },
 
   "subgenres": {
+    "90's Grunge": {
+      "substitutions": {
+        "90's": [ "90s", "1990s", "1990's", "nineties" ]
+      }
+    },
+
+    "Acoustic Grunge": {},
+
+    "Grunge Metal": {
+      "substitutions": {
+        "grunge ": [ "grunge-" ]
+      }
+    },
+
+    "Grunge Punk": {
+      "substitutions": {
+        "grunge ": [ "grunge-" ]
+      }
+    },
+
+    "Grunge Revival": {},
+
     "Grunge Rock": {
       "substitutions": {
         "grunge ": [ "grunge-" ]
+      }
+    },
+
+    "Grungegaze": {
+      "substitutions": {
+        "shoe": [ "shoe ", "shoe-" ],
+        "gaze": [ "gazing" ]
       }
     }
   }

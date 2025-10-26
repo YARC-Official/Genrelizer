@@ -43,11 +43,48 @@
       }
     },
 
+    "Qawwali": {},
+
+    "Quan Ho": {},
+
     "Tarantella": {},
+
+    "Throat Singing": {
+      "substitutions": {
+        "throat singing": [  "khoomei", "xoomii" ]
+      },
+      "prefixes": [ "mongolian ", "tuvan " ]
+    },
+
+    "Verbunkos": {
+      "substitutions": {
+        "verbunkos": [ "hongroise", "ungarischer tanz" ]
+      }
+    },
 
     "Worldbeat": {
       "substitutions": {
         "beat": [ " beat", "-beat" ]
+      }
+    },
+
+    "Zouk": {},
+
+    "Zouk Béton": {
+      "substitutions": {
+        "é": [ "e" ]
+      } 
+    },
+
+    "Zouk Chiré": {
+      "substitutions": {
+        "é": [ "e" ]
+      } 
+    },
+
+    "Zouk Hard": {
+      "substitutions": {
+        "zouk hard": [ "hard zouk" ]
       }
     }
   }

@@ -65,6 +65,8 @@
 			"suffixes": [ " metal" ]
 		},
 
+		"Blackened Folk Metal": {},
+
 		"Blackgaze": {
 			"substitutions": {
 				"black": [ "black ", "black-" ],
@@ -183,6 +185,10 @@
 			}
 		},
 
+		"Melodic Blackened Folk Metal": {},
+
+		"Melodic Blackened Pagan Metal": {},
+
 		"Melodic Death Metal": {
 			"substitutions": {
 				"melodic ": [ "melo", "melo ", "melo-" ],
@@ -287,6 +293,8 @@
 				"death metal": [ "death" ]
 			}
 		},
+
+    	"Satanic Black Metal": {},
 
 		"Slam": {
 			"substitutions": {

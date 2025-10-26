@@ -2,6 +2,8 @@
   "name": "Inspirational",
 
   "subgenres": {
+    "Antiphon": {},
+
     "Christian": {},
 
     "Christian Hip-Hop": {
@@ -26,15 +28,44 @@
 
     "Christian Rock": {},
 
+    "Conductus": {
+      "substitutions": {
+        "us": [ "i" ]
+      }
+    },
+
     "Gospel": {
       "suffixes": [ " music"]
     },
 
     "Gospel Rock": {},
 
-    "Gregorian Chant": {},
+    "Gregorian Chant": {
+      "suffixes": [ "ing" ]
+    },
 
     "Hymn": {},
+
+    "Liturgical": {
+      "substitutions": {
+        "ical": [ "y" ]
+      }
+    },
+
+    "Organum": {},
+
+    "Plainchant": {
+      "substitutions": { 
+        "plain": [ "plain ", "plain-" ]
+      },
+      "suffixes": [ "ing" ]
+    },
+
+    "Plainsong": {
+      "substitutions": { 
+        "plain": [ "plain ", "plain-" ]
+      }
+    },
 
     "Prayer": {},
 

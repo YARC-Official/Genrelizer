@@ -249,6 +249,19 @@
       }
     },
 
+    "Oldschool Hip-Hop": {
+      "substitutions": {
+        "old": [ "old ", "old-" ],
+        "hip-hop": [ "hiphop", "hip-hop" ]
+      }
+    },
+
+    "Oldschool Rap": {
+      "substitutions": {
+        "old": [ "old ", "old-" ]
+      }
+    },
+
     "Political Hip-Hop": {
       "substitutions": {
         "hip-hop": [ "hip hop", "hiphop" ]

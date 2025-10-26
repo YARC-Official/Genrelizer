@@ -8,6 +8,10 @@
       }
     },
 
+    "Bakersfield Sound": {
+      "prefixes": [ "the " ]
+    },
+
     "Bluegrass": {
       "substitutions": {
         "blue": [ "blue ", "blue-" ]
@@ -15,6 +19,8 @@
     },
 
     "Contemporary Country": {},
+
+    "Country Jazz": {},
 
     "Country Pop": {
       "substitutions": {
@@ -34,7 +40,21 @@
       }
     },
 
+    "Cowboy": {
+      "suffixes": [ " music", " song" ]
+    },
+
     "Electronic Country": {},
+
+    "Gothic Country": {},
+
+    "Hard Country": {},
+
+    "Hardcore Country": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
 
     "Honky Tonk": {
       "substitutions": {
@@ -45,6 +65,12 @@
     "Neoclassical Country": {
       "substitutions": {
         "neo": [ "neo ", "neo-" ]
+      }
+    },
+
+    "Neotraditional Country": {
+      "substitutions": {
+        "neo": [ "neo-", "neo ", "new " ]
       }
     },
 
@@ -62,11 +88,19 @@
       }
     },
 
+    "Progressive Country": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
     "Psychobluegrass": {
       "substitutions": {
         "psycho": [ "psycho ", "psycho-" ]
       }
     },
+
+    "Red Dirt": {},
 
     "Southern Gothic": {},
 
@@ -79,6 +113,8 @@
 
     "Western": {},
 
-    "Western Country": {}
+    "Western Country": {},
+
+    "Western Swing": {}
   }
 }

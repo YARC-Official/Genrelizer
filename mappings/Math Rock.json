@@ -13,6 +13,12 @@
       }
     },
 
+    "Math Metal": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
     "Mathcore": {
       "substitutions": {
         "core": [ " core", "-core" ]

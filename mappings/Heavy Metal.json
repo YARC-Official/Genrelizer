@@ -32,6 +32,12 @@
       }
     },
 
+    "Commercial Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
     "Cyber Metal": {
       "substitutions": {
         " ": [ "", "-" ]
@@ -101,6 +107,12 @@
       }
     },
 
+    "Modern Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
     "NWOBHM": {
       "substitutions": {
         "nwobhm": [ "new wave of british heavy metal" ]
@@ -116,6 +128,12 @@
     "Post-Metal": {
       "substitutions": {
         "-": [ "", " " ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Radio Metal": {
+      "substitutions": {
         "metal": [ "heavy metal" ]
       }
     },

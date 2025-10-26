@@ -31,6 +31,10 @@
       }
     },
 
+    "Barbershop": {
+      "suffixes": [ " quartet" ]
+    },
+
     "Beatboxing": {
       "substitutions": {
         "ing": [ "" ]
@@ -38,6 +42,10 @@
     },
 
     "Black MIDI": {},
+
+    "Chant": {
+      "suffixes": [ "ing" ]
+    },
 
     "Danger Music": {
       "substitutions": {
@@ -188,6 +196,12 @@
     "Virtuoso": {},
 
     "Waltz": {},
+
+    "Yodeling": {
+      "substitutions": {
+        "ing": [ "" ]
+      }
+    },
 
     "Zydeco": {}
   }

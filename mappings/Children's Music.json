@@ -17,6 +17,13 @@
       "substitutions": {
         "nursery ": [ "nursery-" ]
       }
+    },
+
+    "Singalong": {
+      "substitutions": {
+        "a": [ " ", "-a-" ]
+      },
+      "suffixes": [ " song" ]
     }
   }
 }

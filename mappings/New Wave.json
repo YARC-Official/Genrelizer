@@ -30,6 +30,12 @@
       }
     },
 
+    "Ethereal Darkwave": {
+      "substitutions": {
+        "wave": [ "-wave", " wave" ]
+      }
+    },
+
     "Ethereal Wave": {
       "substitutions": {
         " wave": [ "-wave", "wave" ]

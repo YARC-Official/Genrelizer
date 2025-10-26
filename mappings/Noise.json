@@ -15,6 +15,10 @@
       }
     },
 
+    "Black Noise": {},
+
+    "Blackened Noise": {},
+
     "Environmental Noise": {
       "substitutions": {
         " noise": [ " noises",  "" ]
@@ -125,6 +129,8 @@
       "substitutions": {
         "sound effects": [ "sound effect", "sound fx", "sfx" ]
       }
-    }
+    },
+
+    "White Noise": {}
   }
 }
