@@ -8,6 +8,12 @@
 
     "Digital Fusion": {},
 
+    "Eclecticism": {
+      "substitutions": {
+        "ism": [ "" ]
+      }
+    },
+
     "Flamenco Jazz Fusion": {
       "substitutions": {
         "jazz fusion": [ "jazz-fusion" ]

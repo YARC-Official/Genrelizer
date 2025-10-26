@@ -49,6 +49,8 @@
 
     "Drone Rock": {},
 
+    "Illbient": {},
+
     "lowercase": {
       "substitutions": {
         "lower": [ "lower ", "lower-" ]
@@ -57,6 +59,16 @@
 
     "Psybient": {},
 
-    "Soundscape": {}
+    "Soundscape": {},
+
+    "Space": {
+      "suffixes": [ " music", "music" ]
+    },
+
+    "Space Ambient": {
+      "substitutions": {
+        "ambient": [ "amb", "amb'", "amb.", "ambience", "ambiance" ]
+      }
+    }
   }
 }

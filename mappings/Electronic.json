@@ -38,6 +38,18 @@
       }
     },
 
+    "Chillout": {
+      "substitutions": {
+        "chill": [ "chill ", "chill-" ]
+      }
+    },
+
+    "Chillwave": {
+      "substitutions": {
+        "chill": [ "chill ", "chill-" ]
+      }
+    },
+
     "Darksynth": {
       "substitutions": {
         "dark": [ "dark ", "dark-" ]
@@ -84,6 +96,15 @@
     "French Electro": {},
 
     "Garage": {},
+
+    "Hauntology": {},
+
+    "Ibizan Chillout": {
+      "substitutions": {
+        "ibizan": [ "ibiza", "balearic" ],
+        "chill": [ "chill ", "chill-" ]
+      }
+    },
 
     "Indietronic": {},
 

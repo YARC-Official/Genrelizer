@@ -10,6 +10,12 @@
       }
     },
 
+    "Balearic House": {
+      "substitutions": {
+        "balearic": [ "ibiza", "ibizan" ]
+      }
+    },
+
     "Bass House": {},
 
     "Booty House": {},
@@ -135,7 +141,12 @@
 
     "Tribal House": {},
 
-    "Tropical House": {},
+    "Tropical House": {
+      "substitutions": {
+        "tropical": [ "trop", "trop.", "trop'" ],
+        " ": [ "-" ]
+      }
+    },
 
     "World House": {}
   }

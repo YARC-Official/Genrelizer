@@ -10,6 +10,12 @@
       }
     },
 
+    "Balearic Beat": {
+      "substitutions": {
+        "balearic": [ "ibiza", "ibizan" ]
+      }
+    },
+
     "Big Room": {
       "substitutions": {
         " ": [ "", "-" ]
@@ -31,6 +37,8 @@
         "edm": [ "electronic dance music", "electronic dance" ]
       }
     },
+
+    "Dungeon Synth": {},
 
     "EDM": {
       "substitutions": {

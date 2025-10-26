@@ -2,13 +2,29 @@
   "name": "Trance",
 
   "subgenres": {
+    "Anthem Trance": {},
+
+    "Balearic Trance": {
+      "substitutions": {
+        "balearic": [ "ibiza" ]
+      }
+    },
+
+    "Dream Trance": {},
+
     "Electro Trance": {
       "substitutions": {
         "electro ": [ "electro", "electro-" ]
       }
     },
 
+    "Emotional Trance": {},
+
+    "Energetic Trance": {},
+
     "Epic Trance": {},
+
+    "Euphoric Trance": {},
 
     "Fusion Trance": {},
 
@@ -55,6 +71,8 @@
     },
 
     "Symphonic Trance": {},
+
+    "Uplifting Trance": {},
 
     "Vocal Trance": {}
   }

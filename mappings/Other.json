@@ -41,6 +41,18 @@
       }
     },
 
+    "Biomusic": {
+      "substitutions": {
+        "bio": [ "bio-", "bio "]
+      }
+    },
+
+    "Bird Song": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Black MIDI": {},
 
     "Chant": {
