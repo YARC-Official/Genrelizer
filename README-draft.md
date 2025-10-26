@@ -166,7 +166,7 @@ You do not need to provide an `en-US` value, because the property name implicitl
   * Defining overlapping substitutions. To alias `foo bar` to `foobar`, you can use `"foo ": [ "foo" ]` or `" bar": [ " bar" ]`, but not both.
 
 
-### Can I submit a pull request to change an existing mapping?
+### Can I submit a pull request to relocate an existing subgenre?
 **We'd prefer you didn't.** We understand that genres can be subjective and controversial, and that some subgenre mappings can come down to a bit of a coin flip (is `industrial rock` `rock` or `industrial`?) or be considered sacreligious to some communities (`deathcore` living under `death/black metal` vs. `metalcore`). But the point of this repo isn't to lay down the law about what subgenres _absolutely belong_ where; we're just compiling a bunch of best-effort guesses to help make sense of the wild west that is freeform genre tags. If you feel so strongly about `deathcore` belonging under `metalcore`, you can set your `genre` and `subgenre` fields that way yourself and Genrelizer won't put up a fight.
 
 That said, if you notice something that is _truly absolutely unambiguously_ a mistake and not just a divisive decision, then please do issue a correction through a pull request.
