@@ -13,7 +13,7 @@
     "Blues Rock": {
       "substitutions": {
         "blues ": [ "blues", "blues-" ]
-      }
+      },
       "foo": 4
     },
 
