@@ -1,13 +1,13 @@
 # Genrelizer
 Have you ever tried to sort your rhythm game charts by genre, and found yourself trudging through inconsistent and hyperspecific genre labels that are useless for actual sorting?
 
-<img width="350" alt="A partial list of chart genres, displaying 'Prog Death', 'Prog-Death-Core', 'Progressive', 'Progressive Death Metal', 'Progressive Death-Metal', and 'Progressive Deathcore'." src="https://github.com/user-attachments/assets/1dcf64b9-4494-43b8-a81e-8f281200f684" />
+<p align="center"><img width="350" alt="A partial list of chart genres, displaying 'Prog Death', 'Prog-Death-Core', 'Progressive', 'Progressive Death Metal', 'Progressive Death-Metal', and 'Progressive Deathcore'." src="https://github.com/user-attachments/assets/1dcf64b9-4494-43b8-a81e-8f281200f684" /></p>
 
 _YARG_'s official content sticks to [a standardized list of genres](https://wiki.yarg.in/wiki/List_of_common_genre_names) and uses the `sub_genre` tag to get into the nitty-gritty details about each song's sound. However, charts from other sources aren't bound to the same system, and a lot of charters express a lot of detail in their `genre` tags without using the `sub_genre` tag. Genrelizer attempts to keep your library organized by mapping unofficial `genre` tags to a combination of an official `genre` tag and a mostly-untouched `sub_genre` tag that retains the charter's original intent.
 
 For example, if a chart has `genre = 12-Bar Blues`, that's not an official genre. But Genrelizer recognizes it as a type of blues music, and this is the result:
 
-<img width="347" height="41" alt="A genre field in the YARG music library sidebar, displaying `Blues, 12-Bar Blues`." src="https://github.com/user-attachments/assets/13a024bc-e048-476e-8f0a-ab682c59e181" />
+<p align="center"><img width="347" height="41" alt="A genre field in the YARG music library sidebar, displaying `Blues, 12-Bar Blues`." src="https://github.com/user-attachments/assets/13a024bc-e048-476e-8f0a-ab682c59e181" /></p>
 
 Genrelizer also performs some light copy-editing, so that `12 Bar Blues`, `Twelve Bar Blues`, and `Twelve-Bar Blues` all end up under the same `12-Bar Blues` subgenre. We've taken great pains to make sure that subtle naming variations get merged into one sortable value, but even the slightest difference in _sound_ between two subgenre names gets honored as two distinct things.
 
