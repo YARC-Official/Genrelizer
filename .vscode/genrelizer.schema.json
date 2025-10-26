@@ -1,0 +1,88 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "type": "object",
+    "additionalProperties": false,
+    "required": [ "name" ],
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "The name of the genre, as it appears in the en-US localization file."
+        },
+
+        "substitutions": {
+            "type": "object",
+            "patternProperties": {
+                ".+": { 
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "uniqueItems": true
+                    }
+                }
+            }
+        },
+
+        "prefixes": { 
+            "type": "array",
+            "items": {
+                "type": "string",
+                "uniqueItems": true
+            }
+        },
+
+        "suffixes": { 
+            "type": "array",
+            "items": {
+                "type": "string",
+                "uniqueItems": true
+            }
+        },
+
+        "subgenres": {
+            "type": "object",
+            "patternProperties": {
+                ".+": {
+                    "type": "object",
+                    "additionalProperties": false,
+                    "properties": {
+                        "substitutions": {
+                            "type": "object",
+                            "patternProperties": {
+                                ".+": { 
+                                    "type": "array",
+                                    "items": {
+                                        "type": "string",
+                                        "uniqueItems": true
+                                    }
+                                }
+                            }
+                        },
+
+                        "prefixes": { 
+                            "type": "array",
+                            "items": {
+                                "type": "string",
+                                "uniqueItems": true
+                            }
+                        },
+
+                        "suffixes": { 
+                            "type": "array",
+                            "items": {
+                                "type": "string",
+                                "uniqueItems": true
+                            }
+                        },
+
+                        "localizations": {
+                            "type": "object",
+                            "patternProperties": {
+                                ".+": { "type": "string" }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "json.schemas": [
+        {
+            "fileMatch": [
+                "mappings/*.json"
+            ],
+            "url": ".vscode/genrelizer.schema.json"
+        }
+    ]
+}
