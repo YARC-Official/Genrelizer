@@ -14,6 +14,7 @@
       "substitutions": {
         "blues ": [ "blues", "blues-" ]
       }
+      "foo": 4
     },
 
     "Blues Shred": {
