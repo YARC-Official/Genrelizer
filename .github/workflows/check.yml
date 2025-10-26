@@ -20,5 +20,5 @@ jobs:
       - name: Validating
         uses: lyubick/action-YAML-schema-validator@v2.1
         with:
-          json-schema-file: .vscode/opensource.schema.json
+          json-schema-file: .vscode/genrelizer.schema.json
           yaml-json-file-dir: mappings/
