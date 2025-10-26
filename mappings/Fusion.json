@@ -20,6 +20,12 @@
 
     "Fusion Rock": {},
 
+    "Jam Fusion": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
     "Jazz Fusion": {
       "substitutions": {
         " ": [ "-", "" ]

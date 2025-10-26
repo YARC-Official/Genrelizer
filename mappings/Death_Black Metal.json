@@ -26,6 +26,15 @@
 			}
 		},
 
+		"Avant-Garde Death Metal": {
+			"substitutions": {
+				"-garde ": [ "garde ", " garde ", "" ],
+				" metal": [ "" ]
+			}
+		},
+
+		"Bestial Black Metal": {},
+
 		"Black Metal": {},
 
 		"Black Speed Metal": {},
@@ -113,6 +122,12 @@
 			}
 		},
 
+		"Deathcrust": {
+			"substitutions": {
+				"crust": [ " crust", "-crust" ]
+			}
+		},
+
 		"Deathrash": {
 			"substitutions": {
 				"deathrash": [ "death thrash", "death-thrash" ]
@@ -140,9 +155,13 @@
 
 		"Folk Black Metal": {},
 
-		"Industrial Black Metal": {},
+		"Gothic Black Metal": {},
 
-		"Industrial Death Metal": {},
+		"Gothic Death Metal": {
+			"substitutions": {
+				" death metal": [ " death" ]
+			}
+		},
 
 		"Melodic Black Metal": {
 			"substitutions": {
@@ -156,6 +175,12 @@
 				"black-death": [ "blackdeath", "black death" ]
 			},
 			"suffixes": [ " metal" ]
+		},
+
+		"Melodic Blackened Death Metal": {
+			"substitutions": {
+				" metal": [ "" ]
+			}
 		},
 
 		"Melodic Death Metal": {
@@ -257,7 +282,11 @@
 
 		"Raw Black Metal": {},
 
-		"Raw Death Metal": {},
+		"Raw Death Metal": {
+			"substitutions": {
+				"death metal": [ "death" ]
+			}
+		},
 
 		"Slam": {
 			"substitutions": {
@@ -269,6 +298,12 @@
 					"slam-death metal"
 
 				]
+			}
+		},
+
+		"Stoner Death Metal": {
+			"substitutions": {
+				"death metal": [ "death" ]
 			}
 		},
 
@@ -348,6 +383,8 @@
 		},
 
 		"Viking Metal": {},
+
+		"War Black Metal": {},
 
 		"War Metal": {}
 	}

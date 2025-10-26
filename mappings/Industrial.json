@@ -9,11 +9,21 @@
       }
     },
 
+    "Death Pop": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
     "Electro-Industrial": {
       "substitutions": {
         "-": [ " ", "" ]
       }
     },
+    
+		"Industrial Black Metal": {},
+
+		"Industrial Death Metal": {},
 
     "Industrial Electronica": {},
 
@@ -51,6 +61,8 @@
       "substitutions": {
         "-": [ " ", "" ]
       }
-    }
+    },
+
+    "Symphonic Industrial": {}
   }
 }

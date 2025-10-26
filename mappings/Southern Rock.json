@@ -6,6 +6,24 @@
   },
 
   "subgenres": {
+    "Alternative Southern Rock": {
+			"substitutions": {
+				"alternative ": [ 
+          "alt", 
+          "alt ", 
+          "alt-", 
+          "alt. ", 
+          "alt.-", 
+          "alt' ", 
+          "alt'-", 
+          "altern ", 
+          "altern. ", 
+          "altern' ", 
+          "alternate" 
+        ]
+			}
+		},
+    
     "Boogie Rock": {},
 
     "Jam Rock": {

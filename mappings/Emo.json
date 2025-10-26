@@ -21,6 +21,12 @@
       }
     },
 
+    "Post-Emo": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
     "Scene": {},
 
     "Scene Rock": {},

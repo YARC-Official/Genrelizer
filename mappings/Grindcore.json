@@ -6,11 +6,24 @@
   },
 
   "subgenres": {
+    "Avant-Garde Grindcore": {
+			"substitutions": {
+				"-garde ": [ "garde ", " garde ", "" ],
+        "core": [ " core", "-core", "" ]
+			}
+		},
+
     "Blackened Deathgrind": {
       "substitutions": {
         "grind": [ " grind", "-grind" ]
       }
     },
+
+    "Blackened Grindcore": {
+			"substitutions": {
+        "core": [ " core", "-core", "" ]
+			}
+		},
 
     "Crustgrind": {
       "substitutions": {
@@ -30,15 +43,15 @@
       }
     },
 
-    "Experimental Deathgrind": {
+    "Disco Deathgrind": {
       "substitutions": {
+        "disco ": [ "disco-" ],
         "grind": [ " grind", "-grind" ]
       }
     },
 
-    "Disco Deathgrind": {
+    "Experimental Deathgrind": {
       "substitutions": {
-        "disco ": [ "disco-" ],
         "grind": [ " grind", "-grind" ]
       }
     },
@@ -101,6 +114,13 @@
     "Powerviolence": {
       "substitutions": {
         "violence": [ " violence", "-violence" ]
+      }
+    },
+
+    "Progressive Grindcore": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "core": [ " core", "-core", "" ]
       }
     }
   }

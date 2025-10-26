@@ -39,6 +39,24 @@
       }
     },
 
+    "Austrialian Hip-Hop": {
+      "substitutions": {
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
+    "British Hip-Hop": {
+      "substitutions": {
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
+    "Celtic Hip-Hop": {
+      "substitutions": {
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
     "Chip-Hop": {
       "substitutions": {
         "-": [ "", " " ]
@@ -57,10 +75,18 @@
 
     "Djent Rap": {},
 
+    "Dirty Rap": {},
+
     "East Coast Hip-Hop": {
       "substitutions": {
         "east ": [ "east", "east-" ],
         "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
+    "Electro-Hop": {
+      "substitutions": {
+        "-": [ " ", "" ]
       }
     },
 
@@ -78,9 +104,17 @@
       }
     },
 
+    "Funk Rap": {},
+
     "Gangsta Rap": {
       "substitutions": {
         "gangsta": [ "gangster" ]
+      }
+    },
+
+    "Ghettotech": {
+      "substitutions": {
+        "tech": [ " tech", "-tech" ]
       }
     },
 
@@ -88,6 +122,12 @@
       "substitutions": {
         "golden age": [ "golden-age" ],
         "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
+    "G-Funk": {
+      "substitutions": {
+        "-": [ "", " " ]
       }
     },
 
@@ -122,11 +162,26 @@
       }
     },
 
+    "Hipster-Hop": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
     "Horrorcore": {
       "substitutions": {
         "horrorcore": [ "horror core", "horror-core" ]
       },
       "suffixes": [ "hip hop", "hip-hop", "hiphop" ]
+    },
+
+    "Hyphy": {},
+
+    "Indie Hip-Hop": {
+      "substitutions": {
+        "ie": [ "y", "y-", "ependent", "ependent-" ],
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
     },
 
     "Indie Rap": {
@@ -135,6 +190,14 @@
         " ": [ "-", "" ]
       }
     },
+
+    "Industrial Hip-Hop": {
+      "substitutions": {
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
+    "Industrial Rap": {},
 
     "Instrumental Hip-Hop": {
       "substitutions": {
@@ -171,10 +234,24 @@
 
     "Mafioso Rap": {},
 
+    "Miami Bass": {},
+
+    "Nederhop": {
+      "substitutions": {
+        "hop": [ " hop", "-hop" ]
+      }
+    },
+
     "Nerdcore Hip-Hop": {
       "substitutions": {
         "core": [ " core", "-core" ],
         " hip-hop": [ " hiphop", " hip hop", "" ]
+      }
+    },
+
+    "Political Hip-Hop": {
+      "substitutions": {
+        "hip-hop": [ "hip hop", "hiphop" ]
       }
     },
 
@@ -223,6 +300,8 @@
       }
     },
 
+    "Scat Rap": {},
+
     "Southern Hip-Hop": {
       "substitutions": {
         "hip-hop": [ "hip hop", "hiphop" ]
@@ -231,9 +310,17 @@
 
     "Southern Rap": {},
 
-    "Trip Hop": {
+    "Stoner Rap": {},
+
+    "Swing-Hop": {
       "substitutions": {
-        " ": [ "", "-" ]
+        "-": [ "", " " ]
+      }
+    },
+
+    "Trip-Hop": {
+      "substitutions": {
+        "-": [ "", " " ]
       }
     },
 

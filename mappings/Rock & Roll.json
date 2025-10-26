@@ -9,11 +9,19 @@
   "suffixes": [ " music" ],
 
   "subgenres": {
+    "Beat": {
+      "suffixes": [ " music" ]
+    },
+    
     "Boogie Woogie": {
       "substitutions": {
         " ": [ "-", "" ]
       }
     },
+
+    "Hillbilly Boogie": {},
+
+    "Merseybeat": {},
 
     "Rockabilly": {},
 

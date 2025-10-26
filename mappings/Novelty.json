@@ -2,6 +2,10 @@
   "name": "Novelty",
 
   "subgenres": {
+    "Circus": {
+      "suffixes": [ " music" ] 
+    },
+
     "Country Novelty": {
       "substitutions": {
         "country novelty": [ "novelty country" ]
@@ -84,6 +88,10 @@
         "parody": [ "spoof" ]
       }
     },
+
+    "Shitpost": {},
+
+    "Skit": {},
 
     "Stand-Up Comedy": {
       "substitutions": {

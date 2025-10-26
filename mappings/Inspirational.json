@@ -4,6 +4,12 @@
   "subgenres": {
     "Christian": {},
 
+    "Christian Hip-Hop": {
+      "substitutions": {
+        "hip-hop": [ "hip hop", "hiphop" ]
+      }
+    },
+
     "Christian Metal": {
       "substitutions": {
         "metal": [ "heavy metal" ]
@@ -24,12 +30,18 @@
       "suffixes": [ " music"]
     },
 
+    "Gospel Rock": {},
+
+    "Gregorian Chant": {},
+
     "Hymn": {},
 
     "Prayer": {},
 
     "Religious": {},
 
-    "Sacred Jazz": {}
+    "Sacred Jazz": {},
+
+    "Spiritual": {}
   }
 }

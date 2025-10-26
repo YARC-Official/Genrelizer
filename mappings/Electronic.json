@@ -54,6 +54,19 @@
 
     "Electro": {},
 
+    "Electroclassical": {
+      "substitutions": {
+        "electro": [ "electro-", "electro "]
+      }
+    },
+
+    "Electrogaze": {
+      "substitutions": {
+        "electro": [ "electro ", "electro-" ],
+        "gaze": [ "gazing" ]
+      }
+    },
+
     "Electronic Waltz": {},
 
     "Electronica": {},
@@ -66,6 +79,8 @@
 
     "Experimental Electronic": {},
 
+    "Experimental Electronica": {},
+
     "French Electro": {},
 
     "Garage": {},
@@ -73,6 +88,8 @@
     "Indietronic": {},
 
     "Indietronica": {},
+
+    "Jamtronica": {},
 
     "MIDI": {},
 
@@ -96,6 +113,12 @@
       "substitutions": {
         "-": [ "", " " ],
         "synth": [ "synth ", "synth-" ]
+      }
+    },
+
+    "Skweee": {
+      "substitutions": {
+        "eee": [ "ee", "eeee" ]
       }
     },
 

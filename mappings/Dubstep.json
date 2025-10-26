@@ -66,6 +66,12 @@
       }
     },
 
+    "Jazzstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
     "Melodic Dubstep": {
       "substitutions": {
         "step": [ " step", "-step" ]
@@ -100,6 +106,12 @@
     },
 
     "Reggaestep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
+    "Skullstep": {
       "substitutions": {
         "step": [ " step", "-step" ]
       }

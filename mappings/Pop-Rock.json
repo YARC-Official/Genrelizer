@@ -6,10 +6,6 @@
   },
 
   "subgenres": {
-    "Beat": {
-      "suffixes": [ " music" ]
-    },
-
     "Britpop": {
       "substitutions": {
         "pop": [ " pop", "-pop" ]
@@ -25,6 +21,19 @@
     "Jangle Pop": {
       "substitutions": {
         " ": [ "", "-" ]
+      }
+    },
+
+    "Gulf & Western": {
+      "substitutions": {
+        "&": [ "and" ]
+      }
+    },
+
+    "Post-Britpop": {
+      "substitutions": {
+        "post-": [ "post", "post " ],
+        "brit": [ "brit-", "birt " ]
       }
     },
 

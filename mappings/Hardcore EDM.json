@@ -7,6 +7,13 @@
   },
 
   "subgenres": {
+    "Breakbeat Hardcore": {
+      "substitutions": {
+        "break": [ "break ", "break-" ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "Chaotic Extratone": {
       "substitutions": {
         "tone": [ " tone", "-tone" ]
@@ -67,6 +74,12 @@
     "Hard Dance": {},
 
     "Hardcore Dance": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Hardcore Rave": {
       "substitutions": {
         "core": [ " core", "-core" ]
       }

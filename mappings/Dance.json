@@ -10,6 +10,22 @@
       }
     },
 
+    "Big Room": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Bubblegum Dance": {
+      "substitutions": {
+        "gum": [ " gum", "-gum" ]
+      }
+    },
+
+    "Chicago Juke": {},
+
+    "Club": {},
+
     "Country EDM": {
       "substitutions": {
         "edm": [ "electronic dance music", "electronic dance" ]
@@ -46,11 +62,27 @@
       }
     },
 
+    "Eurodub": {
+      "substitutions": {
+        "euro": [ "euro ", "euro-" ]
+      }
+    },
+
     "Folk EDM": {},
+
+    "Footwork": {},
 
     "Future Bass": {},
 
     "Grime": {},
+
+    "Hi-NRG": {
+      "substitutions": {
+        "hi": [ "high" ],
+        "-": [ " " ],
+        "nrg": [ "energy", "n.r.g", "n.r.g.", "n-r-g" ]
+      }
+    },
 
     "Hyper Eurobeat": {
       "substitutions": {
@@ -59,11 +91,22 @@
       }
     },
 
+    "Indie Dance": {
+      "substitutions": {
+        "ie": [ "y", "ependent" ],
+        " ": [ "-", "" ]
+      }
+    },
+
     "Italodance": {
       "substitutions": {
         "italo": [ "italo ", "italo-" ]
       }
     },
+
+    "Juke": {},
+
+    "Monumental Dance": {},
 
     "Moombahcore": {
       "substitutions": {
@@ -80,6 +123,14 @@
     "Moombahton": {},
 
     "New Rave": {},
+
+    "Party-Juke": {
+      "substitutions": {
+        "-": [ "", " "]
+      }
+    },
+
+    "Proper Juke": {},
 
     "Rave": {},
 

@@ -47,6 +47,8 @@
 
     "Cool Jazz": {},
 
+    "Crossover Jazz": {},
+
     "Dark Cabaret": {},
 
     "Djazz": {},
@@ -73,6 +75,13 @@
       "substitutions": {
         " ": [ "", "-" ]
       }
+    },
+
+    "Experimental Big Band": {
+      "substitutions": {
+        "big band": [ "big-band", "bigband" ]
+      },
+      "suffixes": [ " jazz" ]
     },
 
     "Experimental Jazz": {},
@@ -278,6 +287,8 @@
       "suffixes": [ " jazz" ]
     },
 
+    "Tin Pan Alley": {},
+
     "Traditional Jazz": {
       "substitutions": {
         "traditional ": [
@@ -290,6 +301,8 @@
         ]
       }
     },
+
+    "Vocal Jazz": {},
 
     "West Coast Revival": {
       "substitutions": {

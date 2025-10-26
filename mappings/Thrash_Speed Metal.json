@@ -16,6 +16,8 @@
       }
     },
 
+    "Blackened Speed Metal": {},
+
     "Blackened Thrash Metal": {
       "substitutions": {
         "thrash metal": [ "thrash" ]
@@ -99,6 +101,12 @@
       "substitutions": {
         "technical ": [ "tech ", "tech", "tech-" ],
         "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Technical Speed Metal": {
+      "substitutions": {
+        "technical ": [ "tech ", "tech", "tech-" ]
       }
     },
 

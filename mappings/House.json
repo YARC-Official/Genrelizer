@@ -12,6 +12,8 @@
 
     "Bass House": {},
 
+    "Booty House": {},
+
     "Bounce House": {},
 
     "Chicago House": {},
@@ -21,6 +23,8 @@
     "Deep House": {},
 
     "Disco House": {},
+
+    "Dream House": {},
 
     "Electro House": {
       "substitutions": {
@@ -50,11 +54,15 @@
 
     "Garage House": {},
 
+    "Ghetto House": {},
+
     "Hard Bass": {
       "substitutions": {
         " ": [ "", "-" ]
       }
     },
+
+    "Hard House": {},
 
     "Indie House": {
       "substitutions": {
@@ -84,6 +92,8 @@
         " ": [ "-", "" ]
       }
     },
+
+    "Outsider House": {},
 
     "Progressive House": {
       "substitutions": {
@@ -116,6 +126,14 @@
     },
 
     "Symphonic Complextro": {},
+
+    "Tech House": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Tribal House": {},
 
     "Tropical House": {},
 

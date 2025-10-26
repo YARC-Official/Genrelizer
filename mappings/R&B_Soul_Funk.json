@@ -47,6 +47,33 @@
   },
 
   "subgenres": {
+    "Alternative R&B": {
+      "substitutions": {
+        "alternative": [ 
+          "alt", 
+          "alt.", 
+          "alt'", 
+          "altern", 
+          "altern.", 
+          "altern'", 
+          "alternate" 
+        ],
+        "r&b": [
+          "rhythm and blues",
+          "rhythm & blues",
+          "rhythm n blues",
+          "rhythm 'n' blues",
+          "rhythm 'n blues",
+          "rhythm n' blues",
+          "rhythm'n'blues",
+          "rnb",
+          "r.n.b",
+          "r.n.b.",
+          "r'n'b"
+        ]
+      }
+    },
+
     "Boogie": {},
 
     "Brown-Eyed Soul": {
@@ -58,6 +85,24 @@
     "Blue-Eyed Soul": {
       "substitutions": {
         "-": [ "", " " ]
+      }
+    },
+
+    "British R&B": {
+      "substitutions": {
+        "r&b": [
+          "rhythm and blues",
+          "rhythm & blues",
+          "rhythm n blues",
+          "rhythm 'n' blues",
+          "rhythm 'n blues",
+          "rhythm n' blues",
+          "rhythm'n'blues",
+          "rnb",
+          "r.n.b",
+          "r.n.b.",
+          "r'n'b"
+        ]
       }
     },
 
@@ -110,15 +155,56 @@
       }
     },
 
+    "Go-Go": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
     "Jazz Funk": {
       "substitutions": {
         " ": [ "-", "" ]
       }
     },
 
+    "Memphis Soul": {},
+
     "Motown": {},
 
     "Neo Soul": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "New Orleans R&B": {
+      "substitutions": {
+        "pop ": [ "pop-" ],
+        "r&b": [
+          "rhythm and blues",
+          "rhythm & blues",
+          "rhythm n blues",
+          "rhythm 'n' blues",
+          "rhythm 'n blues",
+          "rhythm n' blues",
+          "rhythm'n'blues",
+          "rnb",
+          "r.n.b",
+          "r.n.b.",
+          "r'n'b"
+        ]
+      }
+    },
+
+    "Northern Soul": {},
+
+    "P-Funk": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
+    "Porn Groove": {
       "substitutions": {
         " ": [ "", "-" ]
       }
@@ -186,6 +272,8 @@
         " ": [ "", "-" ]
       }
     },
+
+    "Southern Soul": {},
 
     "Synth Funk": {
       "substitutions": {

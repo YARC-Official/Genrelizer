@@ -20,6 +20,12 @@
       }
     },
 
+    "Glitch House": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Glitch Pop": {
       "substitutions": {
         " ": [ "", "-" ]

@@ -29,7 +29,7 @@
 
     "Epic Doom Metal": {
       "substitutions": {
-        "doom metal": [ "doom" ]
+        "epic doom metal": [ "epic doom", "epicus doomicus metallicus" ]
       }
     },
 
@@ -42,6 +42,13 @@
     "Gothic Doom Metal": {
       "substitutions": {
         "doom metal": [ "doom" ]
+      }
+    },
+
+    "Post-Doom Metal": {
+      "substitutions": {
+        "-": [ "", " " ],
+        " metal": [ "" ]
       }
     },
 

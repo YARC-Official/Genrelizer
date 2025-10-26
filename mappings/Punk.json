@@ -32,6 +32,14 @@
       "suffixes": [ " rock", "rock", "-rock" ]
     },
 
+    "Beatdown Hardcore": {
+      "substitutions": {
+        "beat": [ "beat ", "beat-" ],
+        "core": [ " core", "-core" ]
+      },
+      "suffixes": [ " punk", "punk rock", " punkrock", "punk-rock" ]
+    },
+
     "Blackened Punk": {
       "suffixes": [ " rock", "rock", "-rock" ]
     },
@@ -44,11 +52,25 @@
       "suffixes": [ " rock", "rock", "-rock" ]
     },
 
+    "Cowpunk": {
+      "substitutions": {
+        "cow": [ "cow ", "cow-" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
     "Crust Punk": {
       "substitutions": {
         " punk": [ "punk", "-punk" ]
       },
       "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Crustcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      },
+      "suffixes": [ " punk", "punk rock", " punkrock", "punk-rock" ]
     },
 
     "Dance-Punk": {
@@ -96,9 +118,23 @@
       }
     },
 
+    "Hardcore Slam": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "Horror Punk": {
       "substitutions": {
         " punk": [ "punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
+    "Indie Punk": {
+      "substitutions": {
+        "ie": [ "y", "ependent" ],
+        " ": [ "-", "" ]
       },
       "suffixes": [ " rock", "rock", "-rock" ]
     },
@@ -169,6 +205,10 @@
       "substitutions": {
         "rrr": [ "rr", "r", "ir", "rrrr" ]
       }
+    },
+
+    "Street Punk": {
+      "suffixes": [ " rock", "rock", "-rock" ]
     },
 
     "Synthpunk": {

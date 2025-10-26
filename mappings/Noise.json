@@ -15,7 +15,17 @@
       }
     },
 
+    "Environmental Noise": {
+      "substitutions": {
+        " noise": [ " noises",  "" ]
+      }
+    },
+
     "Experimental Noise": {},
+
+    "Field Recording": {
+      "suffixes": [ "s" ]
+    },
 
     "Harsh Noise": {},
 

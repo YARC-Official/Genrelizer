@@ -117,6 +117,13 @@
         "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
         "core": [ " core", "-core" ]
       }
+    },
+
+    "Proto-Prog": {
+      "substitutions": {
+        "-": [ "", " " ],
+        "prog": [ "progressive", "prog.", "prog-", "prog.-" ]
+      }
     }
   }
 }

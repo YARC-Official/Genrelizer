@@ -46,9 +46,19 @@
 			}
 		},
 
+		"Fringe Pop": {
+			"substitutions": {
+				" ": [ "-", "" ]
+			}
+		},
+
 		"Garage Rock": {},
 
 		"Garage Rock Revival": {},
+
+		"Madchester": {},
+
+		"Primus": {},
 
 		"Slacker Rock": {},
 

@@ -58,6 +58,12 @@
 
     "Instrumental Synth Metal": {},
 
+    "Krautrock": {
+      "substitutions": {
+        "krautrock": [ "kraut rock", "kraut-rock", "krosmische musik" ]
+      }
+    },
+
     "MIDI Rock": {},
 
     "MIDI Metal": {

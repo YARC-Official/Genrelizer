@@ -31,6 +31,12 @@
       }
     },
 
+    "Ambient Pop": {
+      "substitutions": {
+        "ambient": [ "amb", "amb'", "amb." ]
+      }
+    },
+
     "Art Pop": {
       "substitutions": {
         " pop": [ "-pop", "pop" ]
@@ -55,6 +61,8 @@
         " pop": [ "-pop", "pop" ]
       }
     },
+
+    "Chamber Pop": {},
 
     "City Pop": {},
 
@@ -119,6 +127,10 @@
       }
     },
 
+    "New Jack Swing": {},
+
+    "Operatic Pop": {},
+
     "Orchestral Pop": {
       "substitutions": {
         "orchestral": [ "orchestra", "orchestration", "orch", "orch." ]
@@ -139,6 +151,8 @@
       }
     },
 
+    "Sunshine Pop": {},
+
     "Teen Pop": {
       "substitutions": {
         " ": [ "-", "" ]
@@ -146,11 +160,19 @@
     },
 
     "Traditional Pop": {
-      "suffixes": [
-        " music"
-      ]
+      "substitutions": {
+        "traditional ": [ "trad ", "trad. ", "trad-" ]
+      },
+      "suffixes": [ " music" ]
     },
 
-    "Violin Pop": {}
+    "Violin Pop": {},
+
+    "Yé-Yé": {
+      "substitutions": {
+        "é": [ "e" ],
+        "-": [ "", " " ]
+      }
+    }
   }
 }

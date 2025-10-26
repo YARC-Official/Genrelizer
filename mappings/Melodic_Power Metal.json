@@ -12,6 +12,12 @@
   },
 
   "subgenres": {
+    "Blackened Power Metal": {
+      "substitutions": {
+        "power ": [ "power", "power-" ]
+      }
+    },
+
     "Extreme Power Metal": {
       "substitutions": {
         "extreme": [ "xtreme", "x-treme" ],

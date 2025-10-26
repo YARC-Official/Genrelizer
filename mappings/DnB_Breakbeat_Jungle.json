@@ -178,6 +178,8 @@
       }
     },
 
+    "Footwork Jungle": {},
+
     "Funky Breaks": {},
 
     "Fungle": {},
@@ -400,6 +402,12 @@
     "Neurostep": {
       "substitutions": {
         "neuro": [ "neuro ", "neuro-" ]
+      }
+    },
+
+    "Oldschool Jungle": {
+      "substitutions": {
+        "old": [ "old ", "old-" ]
       }
     },
 

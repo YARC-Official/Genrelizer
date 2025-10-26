@@ -25,6 +25,19 @@
       }
     },
 
+    "Ambient Industrial": {
+      "substitutions": {
+        "ambient": [ "amb", "amb'", "amb." ]
+      }
+    },
+
+    "Ambient Metal": {
+      "substitutions": {
+        "ambient": [ "amb", "amb'", "amb." ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
     "Dark Ambient": {
       "substitutions": {
         "dark ": [ "dark", "dark-" ],
@@ -34,10 +47,16 @@
 
     "Drone": {},
 
+    "Drone Rock": {},
+
     "lowercase": {
       "substitutions": {
         "lower": [ "lower ", "lower-" ]
       }
-    }
+    },
+
+    "Psybient": {},
+
+    "Soundscape": {}
   }
 }

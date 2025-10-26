@@ -46,7 +46,17 @@
 
     "Electronic Blues": {},
 
+    "Folk Blues": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Jump Blues": {},
+
+    "Soul Blues": {},
+
+    "Talking Blues": {},
 
     "Texas Blues": {
       "substitutions": {

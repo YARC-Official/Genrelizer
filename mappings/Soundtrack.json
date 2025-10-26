@@ -37,6 +37,10 @@
       }
     },
 
+    "Spy": {
+      "suffixes": [ " music", " theme" ]
+    },
+
     "Sting": {},
 
     "Symphonic VGM": {

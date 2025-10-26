@@ -22,6 +22,12 @@
       }
     },
 
+    "Bedroom Pop": {
+      "substitutions": {
+        "bed": [ "bed ", "bed-" ]
+      }
+    },
+
     "Experimental Indie": {
       "substitutions": {
         "ie": [ "y", "ependent" ]

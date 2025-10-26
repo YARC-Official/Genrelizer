@@ -16,6 +16,14 @@
 
     "Bass Metal": {},
 
+    "Cello Metal": {},
+    
+    "Celtic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
     "Chinese Folk Metal": {},
 
     "Classic Heavy Metal": {
@@ -86,6 +94,13 @@
       }
     },
 
+    "Jam Metal": {
+      "substitutions": {
+        " ": [ "-" ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
     "NWOBHM": {
       "substitutions": {
         "nwobhm": [ "new wave of british heavy metal" ]
@@ -112,6 +127,8 @@
     },
 
     "Stoner Metal": {},
+
+    "Swing Metal": {},
 
     "Synthetic Metal": {
       "substitutions": {

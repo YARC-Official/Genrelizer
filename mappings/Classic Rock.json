@@ -20,6 +20,19 @@
       }
     },
 
+    "Heartland Rock": {
+      "substitutions": {
+        "land": [ "-land", " land" ]
+      }
+    },
+
+    "Nederbeat": {
+      "substitutions": {
+        "neder": [ "neder ", "neder-" ],
+        "beat": [ "biet" ]
+      }
+    },
+
     "Yacht Rock": {
       "substitutions": {
         "yacht ": [ "yacht", "yacht-" ]

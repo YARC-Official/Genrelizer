@@ -97,13 +97,28 @@
 
     "Interlude": {},
 
+    "Interstitial": {},
+
     "Lesson": {
       "suffixes": [ "s" ]
+    },
+
+    "Live Looping": {
+      "substitutions": {
+        " ": [ "", "-" ],
+        "ing": [ "", "s" ]
+      }
     },
 
     "Minimalism": {
       "substitutions": {
         "ism": [ "ist", "" ]
+      }
+    },
+
+    "Musique Concrète": {
+      "substitutions": {
+        "è": [ "e" ]
       }
     },
 
@@ -150,11 +165,21 @@
       }
     },
 
+    "Silence": {},
+
     "Solo": {},
+
+    "Sound Art": {},
 
     "Spoken Word": {},
 
     "Sung Poetry": {},
+
+    "Traditional": {
+      "substitutions": {
+        "traditional ": [ "trad", "trad." ]
+      }
+    },
 
     "Tutorial": {
       "suffixes": [ "s" ]

@@ -2,6 +2,20 @@
   "name": "Urban",
 
   "subgenres": {
-    "Urban Pop": {}
+    "Mainstream Urban":  {
+      "suffixes": [ " music" ]
+    },
+
+    "Urban Adult Alternative": {},
+
+    "Urban Adult Contemporary": {},
+
+    "Urban Contemporary": {
+      "suffixes": [ " music" ]
+    },
+
+    "Urban Pop": {},
+
+    "Urban Rock": {}
   }
 }

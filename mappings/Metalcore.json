@@ -6,6 +6,13 @@
   },
 
   "subgenres": {
+    "Avant-Garde Metalcore": {
+			"substitutions": {
+				"-garde ": [ "garde ", " garde ", "" ],
+        "core": [ " core", "-core" ]
+			}
+		},
+
     "Electronicore": {},
 
     "Melodic Metalcore": {

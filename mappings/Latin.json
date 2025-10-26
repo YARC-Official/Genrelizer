@@ -60,6 +60,8 @@
 
     "Catalan Rumba": {},
 
+    "Chicano Rock": {},
+
     "Choro": {
       "substitutions": {
         "choro": [ "chorinho" ]
@@ -117,6 +119,8 @@
 
     "Latino": {},
 
+    "Limbo": {},
+
     "Mariachi": {},
 
     "Milonga": {},
@@ -149,6 +153,8 @@
 
     "Samba": {},
 
+    "Samba Rock": {},
+
     "Sanjuanero": {},
 
     "Saya": {},
@@ -160,6 +166,8 @@
     "Son Montuno": {},
 
     "Tango": {},
+
+    "Tejano": {},
 
     "Tinku": {},
 

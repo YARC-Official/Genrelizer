@@ -8,6 +8,10 @@
 
     "American Roots": {},
 
+    "Americana": {},
+
+    "Celtic Folk": {},
+
     "Dance-Folk": {
       "substitutions": {
         "-": [ "", " " ]
@@ -19,6 +23,8 @@
         " ": [ "", "-" ]
       }
     },
+
+    "Filk": {},
 
     "Folk Pop": {
       "substitutions": {
@@ -56,6 +62,19 @@
     "Progressive Folk": {
       "substitutions": {
         "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
+    "Sea Shanty": {
+      "substitutions": {
+        "sea ": [ "" ],
+        "y": [ "ies" ]
+      }
+    },
+
+    "Traditional Celtic": {
+      "substitutions": {
+        "traditional ": [ "trad ", "trad. ", "trad-" ]
       }
     },
 
