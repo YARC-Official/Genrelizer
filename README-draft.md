@@ -1,7 +1,9 @@
 # Genrelizer
-Genrelizer is a community-sourced attempt to organize the various genres that are encoded in the rhythm game chart formats that _[YARG](https://github.com/YARC-Official/YARG)_ supports. While all official _YARG_ content is tagged using [the _YARG_ team's official list of genres](https://wiki.yarg.in/wiki/List_of_common_genre_names), and we recommend that custom charters do the same, charts from unofficial sources can encode any number of other genres. In particular, _Clone Hero_ customs use completely freeform text for their genres, and this can make them a nightmare to sort or filter in your music library. Thus, Genrelizer was born.
+Have you ever tried to sort your rhythm game charts by genre, and found yourself trudging through inconsistent and hyperspecific genre labels that are useless for actual sorting?
 
-Genrelizer attempts to make sense of genre metadata that falls outside the scope of _YARG_'s official genre list. Unofficial genres are mapped to official ones for sorting purposes, and the original values get preserved in the `sub_genre` field so the charter's original description of the song isn't lost.
+<img width="350" alt="A partial list of chart genres, displaying 'Prog Death', 'Prog-Death-Core', 'Progressive', 'Progressive Death Metal', 'Progressive Death-Metal', and 'Progressive Deathcore'." src="https://github.com/user-attachments/assets/1dcf64b9-4494-43b8-a81e-8f281200f684" />
+
+_YARG_'s official content sticks to [a standardized list of genres](https://wiki.yarg.in/wiki/List_of_common_genre_names) and uses the `sub_genre` tag to get into the nitty-gritty details about each song's sound. However, charts from other sources aren't bound to the same system, and a lot of charters express a lot of detail in their `genre` tags without using the `sub_genre` tag. Genrelizer attempts to keep your library organized by mapping unofficial `genre` tags to a combination of an official `genre` tag and a mostly-untouched `sub_genre` tag that retains the charter's original intent.
 
 For example, if a chart has `genre = 12-Bar Blues`, that's not an official genre. But Genrelizer recognizes it as a type of blues music, and this is the result:
 
@@ -13,9 +15,9 @@ Genrelizer also performs some light copy-editing, so that `12 Bar Blues`, `Twelv
 ## What Genrelizer is _not_
 * **Genrelizer is not a tool for making new charts; it's a tool for categorizing old ones.** If you're making new charts, you don't need to consult Genrelizer. Just pick an official _YARG_ genre, then add any level of detail you want in the `sub_genre` field. Genrelizer is here to clean up external content where the original charter isn't around anymore to clarify their intent; it doesn't need to get involved with new charts.
 
-* **Genrelizer is not a definitive list of how subgenres _must_ be categorized.** Genrelizer's mappings are only meant to be best-guesses when all we have is a single, nonstandard genre name to work with. We know it might be controversial to see `Deathcore` under `Death/Black Metal`, but that doesn't mean we think that that's the _only_ way to categorize it. If you want your deathcore chart to be categorized under `Metalcore` instead, you can set the `genre` and `sub_genre` fields accordingly, and Genrelizer won't intervene. Heck, you could use `Bubblegum Pop` as a subgenre under `Grindcore` and Genrelizer wouldn't bat an eye. It's only when `genre` is unrecognized that Genrelizer starts making decisions.
+* **Genrelizer is not a definitive list of how subgenres _must_ be categorized.** Genrelizer's mappings are only meant to be best-guesses when all we have is a single, nonstandard genre name to work with. We know it might be controversial to see `Deathcore` under `Death/Black Metal`, but that doesn't mean we think that that's the _only_ way to categorize it. If you want your deathcore chart to be categorized under `Metalcore` instead, you can set the `genre` and `sub_genre` fields accordingly, and Genrelizer won't intervene. Heck, you could use `Bubblegum Pop` as a subgenre under `Grindcore` and Genrelizer wouldn't bat an eye. It's only when `genre` is unrecognized that Genrelizer starts making decisions about where things belong (with some minor exceptions; see below).
 
-* **Genrelizer is not (usually) going to save you from updating your charts if _YARG_ adds a new official genre.** Say you have a polka chart, and you've set `genre = World ; sub_genre = Polka`, but then we at the _YARG_ team decide that polka music deserves its own entire genre tag. Since your chart still has a legitimate `genre` tag (`World`), Genrelizer isn't going to touch it. If you want to make use of that new `Polka` genre, you're going to have to update the chart yourself.
+* **Genrelizer is not (usually) going to save you from updating your charts if _YARG_ adds a new official genre.** Say you have a polka chart, and you've set `genre = World / sub_genre = Polka`, but then we at the _YARG_ team decide that polka music deserves its own entire genre tag. Since your chart still has a legitimate `genre` tag (`World`), Genrelizer isn't going to touch it. If you want to make use of that new `Polka` genre, you're going to have to update the chart yourself.
 
   There are, however, two exceptions to this rule:
 
@@ -24,32 +26,144 @@ Genrelizer also performs some light copy-editing, so that `12 Bar Blues`, `Twelv
   * Genrelizer _is_ willing to push around genres when it recognizes a genre/subgenre pair from Magma, the compiler used for _Rock Band_ songs, because Magma offers only a closed list of genres and subgenres. For example, Magma lacks a `Metalcore` genre, but it does have `Core` as a subgenre of `Metal`. If Genrelizer sees that _exact_ pairing, it assumes that the chart was made by a Magma user who would have used `Metalcore` had it been an option, and reinterprets the genre as such. This only applies to a precise match of `Metal > Core`, because that's a telltale sign of Magma; Genrelizer will _not_ recategorize `Metal > Metalcore`, nor `Heavy Metal > Core`.
 
 
-## File Structure
-Three JSON files, in the order listed below, drive the core behavior of Genrelizer.
+## How It Works
+When YARG starts up, it consults Genrelizer's data to create a large dictionary of case-insensitive mappings from strings to `(genre, subgenre)` value pairs (with the subgenre being optional). For example, the dictionary maps `Rock` to `(Rock, null)`, because it's standard genre, and it maps `Hard Trance` to `(Trance, Hard Trance)`, because it understands that `Hard Trance` is a subgenre of `Trance`.
 
-### `genreAliases.json`
-This file contains aliases for YARG's official genres, capturing things like style differences (e.g. `nu metal` to `nu-metal`), synonyms (e.g. `kids' music` to `children's music`), and other nonsemantic variations (e.g. `black/death metal` to `death/black metal`). These must strictly add _no_ additional meaning or specificity beyond the official genre name - even something as innoccuous as `alternative rock` is technically more specific than `alternative`, and should go under one of the other files.
+Under the `mappings` directory, you'll find a bunch of JSON files - one for each of YARG's official genres. Each file contains a JSON object that defines string mappings for the dictionary. As a contrived example, let's suppose that we weren't satisfied with just `Polka` as a standalone genre, and we decided to branch off a whole dedicated `Hardcore Polka` genre to separate the men from the boys.
 
-### `subgenreAliases.json`
-This file similarly aliases various nonsemantic variants of genre names, but for genres that are _not_ within YARG's official list (but which are handled in the following file). For example, `funeral doom metal` and `funeral doom` both refer to exactly the same style of music, so we alias the former to the latter as a style consistency effort.
+### Standard Genres
 
-### `subgenreMappings.json`
-This is the real meat of Genrelizer, and it maps various unofficial genre names as subgenres of official genres - for example, `funeral doom` is not an official genre, but we recognize it as a subgenre of `doom metal`, which is. This file also optionally captures localization strings for mapped subgenre names (e.g. `rock alternativo` for `alternative rock` in Spanish).
+At the absolute minimum, the object in the `Hardcore Polka.json` file must establish the name of the genre.
+```
+{
+  "name": "Hardcore Polka"
+}
+```
+The name should match the name of the genre in [YARG's `en-US.json` localization file](https://github.com/YARC-Official/YARG/blob/master/Assets/StreamingAssets/lang/en-US.json). Doing this establishes one entry in the dictionary: `Hardcore Polka` maps to `(Hardcore Polka, null)`. Since the dictionary is case-insensitive, this already means that we'll collate `hardcore polka`, `HARDCORE POLKA`, and the like all into one grouping, which is a good start.
 
-Note that these mappings apply only to cases where the charter provides a nonstandard genre and no subgenre. If the charter provides both a genre and subgenre, we still consult these files for style consistency and localization, but we do not pass judgment on whether the subgenre belongs somewhere else. For example, while Genrelizer maps `deathcore` as a subgenre of `death/black metal`, a charter could mark a chart as `metalcore > deathcore` and it would not be moved to `death/black metal`.
+However, some genres might be known by various names, or with certain style variations - maybe some people are using the original Czech terms `Pulka` or `Půlka`, and maybe some people spell `Hardcore` with a space or a hyphen. To account for this, we can use the optional `substitutions` property. This property is an object that contains any number of mappings from substring (of the original genre name) to replacements of that substring. For example:
+```
+{
+  "name": Hardcore Polka",
+  "substitutions": {
+    "hardcore": [ "hard core", "hard-core" ],
+    "polka": [ "pulka", "půlka" ]
+  }
+}
+```
+YARG will create variations on the `Hardcore Polka` string based on the cartesian product of all of the substitutions - that means that `Hard Core Polka`, `Hard-Core Polka`, `Hardcore Pulka`, `Hard Core Pulka`, `Hard-Core Pulka`, `Hardcore Půlka`, `Hard Core Půlka`, and `Hard-Core Půlka` will all also map to `(Hardcore Polka, null)`. This lets you account for a wide variety of style variations without getting stuck in the combinatorical hell of listing every possible combination of variants (note - sometimes you will still have to brute-force a bunch of combinations, usually when you need to reorder terms in a string rather than just substitute them, but most of the time it's not necessary).
 
-The only exception to this is for certain specific genre/subgenre pairs that Magma (the compiler for RB CON files) supports. Magma users are forced to contend with a smaller list of genres than YARG's official list, but Magma associates each genre with a small list of predefined subgenres, some of which map cleanly to official YARG genres. For example, a Magma user who wishes to tag a metalcore song has to settle for `metal > core`, but clearly would have preferred to use YARG's `metalcore` genre if it had been available. If we see one of these exact pairings, we _do_ alias both the genre and subgenre, under the assumption that the chart was Magma-compiled and tagged under Magma's restrictions. Most Magma genre/subgenre pairs have minor aliases for style consistency, and some are left completely unchanged. For a list of pairs that are substantially affected, see [here](Telltale%20Magma%20Value%20Pairs.md).
+Note that these substitutions are written in all-lowercase as a matter of convention, because the dictionary is case-insensitive. The only value so far where the capitalization actually matters is `name`.
+
+You can also specify affixes for your genre names using the optional `suffixes` and `affixes` properties. For example:
+```
+{
+  "name": Hardcore Polka",
+  "substitutions": {
+    "hardcore": [ "hard core", "hard-core" ],
+    "polka": [ "pulka", "půlka" ]
+  },
+  "prefixes": [ "the " ],
+  "suffixes": [ " music", " musik" ]
+}
+```
+This means that we'll also produce duplicate keys of the forms `The Hardcore Polka`, `Hardcore Polka Music`, `Hardcore Polka Musik`, `The Hardcore Polka Music`, and `The Hardcore Polka Musik` -- _for every one of the variations we created with the `substitutions` property_. In just these 7 lines of JSON, we've defined 45 ways to write `Hardcore Polka` that will all map to the same official YARG genre. Now let's move on to describing the subgenres of `Hardcore Polka`.
+
+P.S.: Note the trailing and leading spaces in the prefix and suffix values - we don't want to create `TheHardcore Polka` or `Hardcore Polkamusik`.
+
+
+### Subgenres
+
+The last property for the genre object is `subgenres` - this property is technically optional, but in practice we use it everywhere. This object can contain any arbitrary number of properties (each holding an object) to define known subgenres of the genre in question. The key of the property should define the "standardized" rendering of the subgenre name, including capitalization. This is how the subgenre will be rendered in the game.
+
+In the simplest cases, the property can hold an empty object. For example:
+```
+{
+  "name": Hardcore Polka",
+  "substitutions": {
+    "hardcore": [ "hard core", "hard-core" ],
+    "polka": [ "pulka", "půlka" ]
+  },
+  "prefixes": [ "the " ],
+  "suffixes": [ " music", " musik" ],
+  "subgenres": {
+    "First-Wave Hardcore Polka": {}
+  }
+}
+```
+
+This means that `First-Wave Hardcore Polka`, `First-wave hardcore polka`, `FIRST-WAVE HARDCORE POLKA`, and all other capitalization variations will all map to `(Hardcore Polka, First-Wave Hardcore Polka)`. But of course, we have the same concerns about `hardcore` and `polka` variations as before, plus now we have to worry about `first-wave` vs `first wave` vs `1st wave` and so on. The subgenre doesn't inherit the substitutions and affixes from the parent genre, but we can define them on a per-subgenre basis in the same way:
+```
+{
+  "name": Hardcore Polka",
+  "substitutions": {
+    "hardcore": [ "hard core", "hard-core" ],
+    "polka": [ "pulka", "půlka" ]
+  },
+  "prefixes": [ "the " ],
+  "suffixes": [ " music", " musik" ],
+  "subgenres": {
+    "First-Wave Hardcore Polka": {
+      "substitutions": {
+        "first": [ "1st" ],
+        "-wave": [ "wave", " wave" ],
+        "hardcore": [ "hard core", "hard-core" ],
+        "polka": [ "pulka", "půlka" ]
+      },
+      "prefixes": [ "the " ],
+      "suffixes": [ " music", " musik" ]
+    }
+  }
+}
+```
+
+We can continue doing this for any number of subgenres of `Hardcore Polka`. Each must define its own substitutions and affixes; these will often repeat among subgenres, so feel free to use some careful copy-pasting.
+
+Lastly, there is one more optional property that is unique to the `subgenre` objects: `localizations`. Standard genres are localized via YARG's localization files, but those files don't keep up with everything inside Genrelizer. Instead, we can define localizations for each subgenre, like so:
+```
+{
+  "name": Hardcore Polka",
+  "substitutions": {
+    "hardcore": [ "hard core", "hard-core" ],
+    "polka": [ "pulka", "půlka" ]
+  },
+  "prefixes": [ "the " ],
+  "suffixes": [ " music", " musik" ],
+  "subgenres": {
+    "First-Wave Hardcore Polka": {
+      "substitutions": {
+        "first": [ "1st" ],
+        "-wave": [ "wave", " wave" ],
+        "hardcore": [ "hard core", "hard-core" ],
+        "polka": [ "pulka", "půlka" ]
+      },
+      "prefixes": [ "the " ],
+      "suffixes": [ " music", " musik" ],
+      "localizations": {
+        "es-ES": "Primera Ola del Polca Hardcore",
+        "fr-FR": "Première Vague Polka Hardcore"
+      }
+    }
+  }
+}
+```
+
+You do not need to provide an `en-US` value, because the property name implicitly acts as that value. When a localization is not provided for the player's selected language, we fall back to the `en-US` value.
+
 
 
 ## Frequently-Asked Questions
 
-### Can I submit a pull request to add a new mapping or alias?
+### Can I submit a pull request to add a new subgenre or new variations on an existing one?
 **Yes!** Genrelizer is meant to be crowdsourced, and we're always happy to receive new mappings and aliases from the community. Please make sure you follow these rules:
-* Follow the capitalization patterns that you see in each file. In some cases, this is just for readability, but many Title Case strings in these files will be rendered case-sensitively in _YARG_
-* Don't submit aliases between genre names that have _any_ semantic difference. Aliases have to be absolutely 100% synonymous to be valid
-* _Do_ try to be exhaustive with aliases for nonsemantic differences. If a genre might hyphenate two words, alias the hyphenated version to the non-hyphenated one or vice-versa (your call, depending on which is more common). If there's a shortened version of a word (like "prog" for "progressive"), alias one to the other. When a genre name has multiple of these scenarios at once, create aliases for all the possible permutations (`progressive hip-hop`, `prog hip-hop`, `progressive hip hop`, `prog hip hop`...)
+* Follow the capitalization and spacing standards used throughout the JSON files
+* Don't submit aliases between genre names that have _any_ semantic difference. Aliases have to be absolutely 100% synonymous to be valid. `Blackened Progressive Metal` and `Progressive Black Metal` are not strictly the same thing!
+* _Do_ try to be exhaustive with your substitutions and affixes. It's okay if you end up producing some implausible combinations (e.g. in the example above, we're producing `the 1stwave hard-core půlkamusik`, which is overkill, but it would be more work to specifically exclude it)
 * Try to avoid subgenre names that are just adjectives - we prefer "alternative rock" over "alternative". You can bend this rule if a genre name is getting overly long, or if the adjective-only form is much more common in everyday use
-* Check your JSON formatting!!!!
+* Don't define duplicate instances of the same dictionary key. This can happen in a few ways:
+  * Adding a subgenre that's already considered a subgenre of something else. Before you add `Industrial Death Metal` to `Death/Black Metal`, you better check if it's already under `Industrial`
+  * Defining substitutions for substrings that don't exist in the original name. If you add `"polka": [ "pulka" ]` as a substitution for `Industrial`, then it's going to change nothing and produce a second `Industrial` key
+  * Defining overlapping substitutions. To alias `foo bar` to `foobar`, you can use `"foo ": [ "foo" ]` or `" bar": [ " bar" ]`, but not both
 
 
 ### Can I submit a pull request to change an existing mapping?
@@ -57,6 +171,8 @@ The only exception to this is for certain specific genre/subgenre pairs that Mag
 
 That said, if you notice something that is _truly absolutely unambiguously_ a mistake and not just a divisive decision, then please do issue a correction through a pull request.
 
+### Can I submit a pull request to add a new standard genre?
+**Not without prior discussion.** Adding a new standard genre is a pretty big decision that requires changes on the YARG side in addition to in Genrelizer. You're welcome to float ideas in our Discord or Reddit communities, but don't make a pull request as your first step.
 
 ### What is the policy on potentially-problematic/offensive genres or genre names?
 This breaks down to a few subcategories.
