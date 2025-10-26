@@ -7,7 +7,7 @@ _YARG_'s official content sticks to [a standardized list of genres](https://wiki
 
 For example, if a chart has `genre = 12-Bar Blues`, that's not an official genre. But Genrelizer recognizes it as a type of blues music, and this is the result:
 
-<img width="347" height="41" alt="image" src="https://github.com/user-attachments/assets/13a024bc-e048-476e-8f0a-ab682c59e181" />
+<img width="347" height="41" alt="A genre field in the YARG music library sidebar, displaying `Blues, 12-Bar Blues`." src="https://github.com/user-attachments/assets/13a024bc-e048-476e-8f0a-ab682c59e181" />
 
 Genrelizer also performs some light copy-editing, so that `12 Bar Blues`, `Twelve Bar Blues`, and `Twelve-Bar Blues` all end up under the same `12-Bar Blues` subgenre. We've taken great pains to make sure that subtle naming variations get merged into one sortable value, but even the slightest difference in _sound_ between two subgenre names gets honored as two distinct things.
 
@@ -156,14 +156,14 @@ You do not need to provide an `en-US` value, because the property name implicitl
 
 ### Can I submit a pull request to add a new subgenre or new variations on an existing one?
 **Yes!** Genrelizer is meant to be crowdsourced, and we're always happy to receive new mappings and aliases from the community. Please make sure you follow these rules:
-* Follow the capitalization and spacing standards used throughout the JSON files
+* Follow the capitalization and spacing standards used throughout the JSON files.
 * Don't submit aliases between genre names that have _any_ semantic difference. Aliases have to be absolutely 100% synonymous to be valid. `Blackened Progressive Metal` and `Progressive Black Metal` are not strictly the same thing!
-* _Do_ try to be exhaustive with your substitutions and affixes. It's okay if you end up producing some implausible combinations (e.g. in the example above, we're producing `the 1stwave hard-core půlkamusik`, which is overkill, but it would be more work to specifically exclude it)
-* Try to avoid subgenre names that are just adjectives - we prefer "alternative rock" over "alternative". You can bend this rule if a genre name is getting overly long, or if the adjective-only form is much more common in everyday use
+* _Do_ try to be exhaustive with your substitutions and affixes. It's okay if you end up producing some implausible combinations (e.g. in the example above, we're producing `the 1stwave hard-core půlkamusik`, which is overkill, but it would be more work to specifically exclude it).
+* Try to avoid subgenre names that are just adjectives - we prefer "alternative rock" over "alternative". You can bend this rule if a genre name is getting overly long, or if the adjective-only form is much more common in everyday use.
 * Don't define duplicate instances of the same dictionary key. This can happen in a few ways:
-  * Adding a subgenre that's already considered a subgenre of something else. Before you add `Industrial Death Metal` to `Death/Black Metal`, you better check if it's already under `Industrial`
-  * Defining substitutions for substrings that don't exist in the original name. If you add `"polka": [ "pulka" ]` as a substitution for `Industrial`, then it's going to change nothing and produce a second `Industrial` key
-  * Defining overlapping substitutions. To alias `foo bar` to `foobar`, you can use `"foo ": [ "foo" ]` or `" bar": [ " bar" ]`, but not both
+  * Adding a subgenre that's already considered a subgenre of something else. Before you add `Industrial Death Metal` to `Death/Black Metal`, you better check if it's already under `Industrial`.
+  * Defining substitutions for substrings that don't exist in the original name. If you add `"polka": [ "pulka" ]` as a substitution for `Industrial`, then it's going to change nothing and produce a second `Industrial` key.
+  * Defining overlapping substitutions. To alias `foo bar` to `foobar`, you can use `"foo ": [ "foo" ]` or `" bar": [ " bar" ]`, but not both.
 
 
 ### Can I submit a pull request to change an existing mapping?
