@@ -91,10 +91,6 @@
       }
     },
 
-    "Field Recording": {
-      "suffixes": [ "s" ]
-    },
-
     "Fingerstyle": {
       "suffixes": [ " guitar" ]
     },
@@ -197,7 +193,7 @@
 
     "Traditional": {
       "substitutions": {
-        "traditional ": [ "trad", "trad." ]
+        "traditional": [ "trad", "trad." ]
       }
     },
 

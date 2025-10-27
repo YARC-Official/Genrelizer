@@ -36,7 +36,7 @@
 
     "Grungegaze": {
       "substitutions": {
-        "shoe": [ "shoe ", "shoe-" ],
+        "grunge": [ "grunge ", "grunge-" ],
         "gaze": [ "gazing" ]
       }
     }

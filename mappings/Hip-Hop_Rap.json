@@ -252,7 +252,7 @@
     "Oldschool Hip-Hop": {
       "substitutions": {
         "old": [ "old ", "old-" ],
-        "hip-hop": [ "hiphop", "hip-hop" ]
+        "hip-hop": [ "hiphop", "hip hop" ]
       }
     },
 

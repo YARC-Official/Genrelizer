@@ -179,7 +179,6 @@
 
     "New Orleans R&B": {
       "substitutions": {
-        "pop ": [ "pop-" ],
         "r&b": [
           "rhythm and blues",
           "rhythm & blues",
