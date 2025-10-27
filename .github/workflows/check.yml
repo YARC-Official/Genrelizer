@@ -10,7 +10,7 @@ on:
 
 jobs:
   checker:
-    name: Check for duplicates keys or unexpected files
+    name: Check for duplicate keys or unexpected files
     runs-on: ubuntu-latest
 
     steps:
