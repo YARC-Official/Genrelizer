@@ -3,7 +3,7 @@ Have you ever tried to sort your rhythm game charts by genre, and found yourself
 
 <p align="center"><img width="350" alt="A partial list of chart genres, displaying 'Prog Death', 'Prog-Death-Core', 'Progressive', 'Progressive Death Metal', 'Progressive Death-Metal', and 'Progressive Deathcore'." src="https://github.com/user-attachments/assets/1dcf64b9-4494-43b8-a81e-8f281200f684" /></p>
 
-_YARG_'s official content sticks to [a standardized list of genres](https://wiki.yarg.in/wiki/List_of_common_genre_names) and uses the `sub_genre` tag to get into the nitty-gritty details about each song's sound. However, charts from other sources aren't bound to the same system, and a lot of charters express a lot of detail in their `genre` tags without using the `sub_genre` tag. Genrelizer attempts to keep your library organized by mapping unofficial `genre` tags to a combination of an official `genre` tag and a mostly-untouched `sub_genre` tag that retains the charter's original intent.
+_YARG_'s official content sticks to [a standardized list of genres](https://wiki.yarg.in/wiki/List_of_common_genre_names) and uses the `sub_genre` tag to get into the nitty-gritty details about each song's sound. However, charts from other sources aren't bound to the same system, and many charters express a lot of detail in their `genre` tags without using the `sub_genre` tag. Genrelizer attempts to keep your library organized by mapping unofficial `genre` tags to a combination of an official, sortable `genre` tag and a mostly-untouched `sub_genre` tag that retains the charter's original intent.
 
 For example, if a chart has `genre = 12-Bar Blues`, that's not an official genre. But Genrelizer recognizes it as a type of blues music, and this is the result:
 
