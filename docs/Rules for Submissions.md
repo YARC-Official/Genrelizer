@@ -49,5 +49,5 @@ Here are some common ways to accidentally introduce duplicate keys:
 
 * Adding a subgenre to one file without checking if it already exists in another. Before you add `Industrial Death Metal` to `Death/Black Metal`, you better check if it's already under `Industrial`.
 * Defining substitutions for substrings that don't exist in the original name. If you add `"polka": [ "pulka" ]` as a substitution for `Industrial`, then it's going to change nothing and produce a second `Industrial` key.
-* Defining overlapping substitutions. To alias `foo bar` to `foobar`, you can use `"foo ": [ "foo" ]` or `" bar": [ " bar" ]`, but not both.
+* Defining overlapping substitutions. To alias `foo bar` to `foobar`, you can use `"foo ": [ "foo" ]` or `" bar": [ "bar" ]`, but not both.
 
