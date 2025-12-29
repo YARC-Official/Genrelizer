@@ -1,9 +1,9 @@
 # Special Cases
-Genrelizer contains some special cases for maximum compatibility with legacy charts that were originally designed for RB games. Because the set of RB genres is closed and finite, these cases are hardcoded into YARG rather than being part of Genrelizer. They are listed in the following sections for reference, but **this file does not drive actual Genrelizer behavior. Do not submit a pull request for this file.**
+Genrelizer contains some special cases for maximum compatibility with legacy charts that were originally designed for RB games. Because the set of RB genres is closed and finite, these cases are hardcoded into YARG rather than being part of Genrelizer. They are documented in the following sections for reference, but **this file does not drive actual Genrelizer behavior. Do not submit a pull request for this file.**
 
 
 ## Telltale Magma Value Pairs
-Users of Magma (the compiler for RB CON files) are forced to contend with a smaller list of genres than YARG's official list. However, Magma associates each genre is with a small list of predefined subgenres, some of which map cleanly to official YARG genres.
+Users of Magma (the compiler for RB CON files) are forced to contend with a smaller list of genres than YARG's official list. However, Magma associates each genre with a small list of predefined subgenres, some of which map cleanly to official YARG genres.
 
 For example, a Magma user who wishes to tag a metalcore song has to settle for `metal > core`, but clearly would have preferred to use YARG's `metalcore` genre if it had been available. If we see one of these exact pairings, we alias both the genre and subgenre, under the assumption that the chart was Magma-compiled and tagged under Magma's restrictions.
 
