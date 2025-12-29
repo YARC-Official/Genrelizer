@@ -19,7 +19,7 @@
 
     "First-Wave Ska": {
       "substitutions": {
-        "first": [ "1st" ],
+        "first": [ "1st", "1ˢᵗ" ],
         "-": [ " ", "" ]
       }
     },
@@ -28,12 +28,24 @@
 
     "Second-Wave Ska": {
       "substitutions": {
-        "second": [ "2nd" ],
+        "second": [ "2nd", "2ⁿᵈ" ],
         "-": [ " ", "" ]
       }
     },
 
     "Ska Jazz": {
+      "substitutions": {
+        "ska ": [ "ska", "ska-" ]
+      }
+    },
+
+    "Ska Metal": {
+      "substitutions": {
+        "ska ": [ "ska", "ska-" ]
+      }
+    },
+
+    "Ska Pop": {
       "substitutions": {
         "ska ": [ "ska", "ska-" ]
       }
@@ -52,15 +64,23 @@
       }
     },
 
+    "Skacore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "Skastyle": {
       "substitutions": {
         "ska": [ "ska ", "ska-" ]
       }
     },
 
+    "Spouge": {},
+
     "Third-Wave Ska": {
       "substitutions": {
-        "third": [ "3rd" ],
+        "third": [ "3rd", "3ʳᵈ" ],
         "-": [ " ", "" ]
       }
     }
