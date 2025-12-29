@@ -18,14 +18,57 @@
 
     "Dub": {},
 
-    "Reggae Fusion": {},
-
-    "Reggae Rock": {
+    "Early Reggae": {
       "substitutions": {
-        "reggae ": [ "reggae", "reggae-" ]
+        "reggae": [ "reggay", "rege" ]
       }
     },
 
-    "Roots Reggae": {},
+    "Lovers Rock": {
+      "substitutions": {
+        "s": [ "s'" ]
+      }
+    },
+
+    "Mento": {},
+
+    "Steppa": {
+      "substitutions": {
+        "a": [ "ers" ]
+      }
+    },
+
+    "Reggae Fusion": {
+      "substitutions": {
+        "reggae": [ "reggay", "rege" ]
+      }
+    },
+
+    "Reggae Rock": {
+      "substitutions": {
+        "reggae": [ "reggay", "rege" ],
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Rockers": {},
+
+    "Rocksteady": {
+      "substitutions": {
+        "rock": [ "rock ", "rock-" ]
+      }
+    },
+
+    "Roots Reggae": {
+      "substitutions": {
+        "reggae": [ "reggay", "rege" ]
+      }
+    },
+
+    "Rub-a-Dub": {
+      "substitutions": {
+        "-": [ " ", "" ]
+      }
+    },
   }
 }
