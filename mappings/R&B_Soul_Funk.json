@@ -147,6 +147,12 @@
 
     "Emergency Funk": {},
 
+    "Free Funk": {
+      "substitutions": {
+        "free": [ "freeform" ]
+      }
+    },
+
     "Funk": {},
 
     "Funk Rock": {

@@ -31,6 +31,8 @@
 
     "Bossa Nova": {},
 
+    "British Dance Band": {},
+
     "Cape Jazz": {},
 
     "Chamber Jazz": {},
@@ -45,13 +47,19 @@
 
     "Contemporary Jazz": {},
 
+    "Continental Jazz": {},
+
     "Cool Jazz": {},
 
     "Crossover Jazz": {},
 
     "Dark Cabaret": {},
 
+    "Dark Jazz": {},
+
     "Djazz": {},
+
+    "Doom Jazz": {},
 
     "Dutch Old-Style Jazz": {
       "substitutions": {
@@ -71,9 +79,21 @@
       }
     },
 
+    "Ethio-Jazz": {
+      "substitutions": {
+        "-": [ " " , "", "pean "]
+      }
+    },
+
     "Ethno Jazz": {
       "substitutions": {
         " ": [ "", "-" ]
+      }
+    },
+
+    "European Free Jazz": {
+      "substitutions": {
+        "free": [ "freeform" ]
       }
     },
 
@@ -118,6 +138,12 @@
       }
     },
 
+    "Indo Jazz": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Jazz Guitar": {},
 
     "Jazz Manouche": {
@@ -132,7 +158,15 @@
       }
     },
 
+    "Jazz Noir": {},
+
     "Jazz Piano": {},
+
+    "Jazz Poetry": {
+      "substitutions": {
+        "try": [ "m", "ms" ]
+      }
+    },
 
     "Jazz Pop": {
       "substitutions": {
@@ -303,6 +337,12 @@
     },
 
     "Vocal Jazz": {},
+
+    "West Coast Jazz": {
+      "substitutions": {
+        "west ": [ "west", "west-" ]
+      }
+    },
 
     "West Coast Revival": {
       "substitutions": {

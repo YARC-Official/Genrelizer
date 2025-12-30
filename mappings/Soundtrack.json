@@ -8,6 +8,7 @@
   "subgenres": {
     "Backing Music": {
       "substitutions": {
+        "ing": [ "ground" ],
         " music": [ "" ]
       }
     },
@@ -26,9 +27,13 @@
 
     "Jingle": {},
 
+    "Leitmotif": {},
+
     "Musical": {},
 
-    "Score": {},
+    "Score": {
+      "prefixes": [ "original " ]
+    },
 
     "Show Tune": {
       "substitutions": {
