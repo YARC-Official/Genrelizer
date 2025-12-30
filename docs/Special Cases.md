@@ -83,7 +83,6 @@ Some Magma subgenres map cleanly to official YARG genres. For example, a Magma u
 | `other > house`                        | `house > {}`                           | Exclusive to Magma v1                                                                                                        |
 | `other > techno`                       | `techno > {}`                          | Exclusive to Magma v1                                                                                                        |
 | `other > trance`                       | `trance > {}`                          | Exclusive to Magma v1                                                                                                        |
-|----------------------------------------|----------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
 
 
 ### Stylistic Adjustments
@@ -179,7 +178,6 @@ This table lists the remaining Magma value pairs, which Genrelizer does not edit
 | `other > acoustic`                    |                       |
 | `other > experimental`                |                       |
 | `other > oldies`                      |                       |
-|---------------------------------------|-----------------------|
 
 
 
