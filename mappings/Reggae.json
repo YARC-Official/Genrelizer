@@ -10,15 +10,52 @@
 
   "subgenres": {
     
+    "Acoustic Reggae": {
+      "substitutions": {
+        "reggae": [ "reggay", "rege" ]
+      }
+    },
+
+    "Alté": {
+      "substitutions": {
+        "é": [ "e" ]
+      }
+    },
+
+    "Bouyon-Muffin": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
     "Dancehall": {
       "substitutions": {
         "dance": [ "dance ", "dance-" ]
       }
     },
 
+    "Dancehall Pop": {
+      "substitutions": {
+        "dance": [ "dance ", "dance-" ],
+        "hall ": [ "hall-" ]
+      }
+    },
+
     "Dub": {},
 
+    "Dub Poetry": {
+      "substitutions": {
+        "try": [ "m", "ms" ]
+      }
+    },
+
     "Early Reggae": {
+      "substitutions": {
+        "reggae": [ "reggay", "rege" ]
+      }
+    },
+
+    "Gospel Reggae": {
       "substitutions": {
         "reggae": [ "reggay", "rege" ]
       }
@@ -32,9 +69,11 @@
 
     "Mento": {},
 
-    "Steppa": {
+    "Ragga": {},
+
+    "Raggamuffin": {
       "substitutions": {
-        "a": [ "ers" ]
+        "ragga": [ "ragga ", "ragga-" ]
       }
     },
 
@@ -42,6 +81,14 @@
       "substitutions": {
         "reggae": [ "reggay", "rege" ]
       }
+    },
+
+    "Reggae Punk": {
+      "substitutions": {
+        "reggae": [ "reggay", "rege" ],
+        "punk": [ " punk", "-punk" ]
+      },
+      "suffixes": [ " rock", "rock", "-rock" ]
     },
 
     "Reggae Rock": {
@@ -70,5 +117,17 @@
         "-": [ " ", "" ]
       }
     },
+
+    "Seggae": {
+      "substitutions": {
+        "seggae": [ "seggay", "sege" ]
+      }
+    },
+
+    "Steppa": {
+      "substitutions": {
+        "a": [ "ers" ]
+      }
+    }
   }
 }

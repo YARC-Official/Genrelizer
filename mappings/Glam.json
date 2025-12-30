@@ -20,6 +20,10 @@
       }
     },
 
+    "Glam Punk": {
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
     "Glam Rock": {
       "substitutions": {
         " ": [ "", "-" ]

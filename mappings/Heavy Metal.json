@@ -12,9 +12,19 @@
       }
     },
 
-    "Arabic Metal": {},
+    "Arabic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
 
     "Bass Metal": {},
+
+    "Biker Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
 
     "Cello Metal": {},
     
@@ -103,6 +113,12 @@
     "Jam Metal": {
       "substitutions": {
         " ": [ "-" ],
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Medieval Metal": {
+      "substitutions": {
         "metal": [ "heavy metal" ]
       }
     },

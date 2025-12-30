@@ -40,6 +40,10 @@
       "suffixes": [ " punk", "punk rock", " punkrock", "punk-rock" ]
     },
 
+    "Biker Punk": {
+      "suffixes": [ " rock", "rock", "-rock" ]
+    },
+
     "Blackened Punk": {
       "suffixes": [ " rock", "rock", "-rock" ]
     },

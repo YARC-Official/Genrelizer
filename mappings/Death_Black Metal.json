@@ -151,7 +151,8 @@
 
 		"First-Wave Black Metal": {
 			"substitutions": {
-				"first-": [ "1st", "1st-", "first " ]
+				"first": [ "1st", "1ˢᵗ" ],
+				"-": [ " ", "" ]
 			}
 		},
 
@@ -219,6 +220,13 @@
 			"substitutions": {
 				"neo": [ "neo ", "neo-" ],
 				" metal": [ "" ]
+			}
+		},
+
+		"Oldschool Death Metal": {
+			"substitutions": {
+			  "old": [ "old ", "old-" ],
+			  " metal": [ "" ]
 			}
 		},
 

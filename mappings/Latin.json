@@ -119,6 +119,12 @@
 
     "Latin Jazz": {},
 
+    "Latin Metal": {
+        "substitutions": {
+          "metal": [ "heavy metal" ]
+        }
+    },
+
     "Latin Pop": {},
 
     "Latin Rock": {},
