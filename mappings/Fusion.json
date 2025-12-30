@@ -76,7 +76,11 @@
       }
     },
 
-    "World Fusion": {},
+    "World Fusion": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
 
     "Zeuhl": {}
   }
