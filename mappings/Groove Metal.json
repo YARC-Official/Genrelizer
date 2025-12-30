@@ -6,6 +6,8 @@
   },
 
   "subgenres": {
+    "Blackened Groove Metal": {},
+
     "Chug Metal": {},
 
     "Groove Metalcore": {
@@ -13,6 +15,14 @@
         "core": [ "-core", " core" ]
       }
     },
+
+    "Groovecore": {
+      "substitutions": {
+        "core": [ "-core", " core" ]
+      }
+    },
+
+    "Industrial Groove Metal": {},
 
     "Melodic Groove Metal": {},
 
