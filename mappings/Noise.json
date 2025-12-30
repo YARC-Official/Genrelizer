@@ -55,6 +55,12 @@
       }
     },
 
+    "Nihilism": {
+      "substitutions": {
+        "m": [ "t", "t music" ]
+      }
+    },
+
     "No-Fi": {
       "substitutions": {
         "-": [ "", " " ],

@@ -18,6 +18,8 @@
       }
     },
 
+    "Classic Country": {},
+
     "Contemporary Country": {},
 
     "Country Jazz": {},
@@ -61,6 +63,8 @@
         "honky ": [ "honky", "honky-" ]
       }
     },
+
+    "Modern Country": {},
 
     "Neoclassical Country": {
       "substitutions": {

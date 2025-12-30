@@ -240,6 +240,8 @@
       }
     },
 
+    "Quiet Storm": {},
+
     "Rhythm & Blues": {
       "substitutions": {
         "rhythm & blues": [
@@ -257,6 +259,14 @@
         ]
       }
     },
+
+    "Slow Jam": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Smooth Soul": {},
 
     "Soul": {},
 
