@@ -17,7 +17,7 @@ Some Magma subgenres map cleanly to official YARG genres. For example, a Magma u
 | `metal > black`                        | `death/black metal > black metal`      |                                                                                                                              |
 | `metal > core`                         | `metalcore > {}`                       |                                                                                                                              |
 | `metal > death`                        | `death/black metal > death metal`      |                                                                                                                              |
-| `metal > hair`                         | `heavy metal > hair metal`             |                                                                                                                              |
+| `metal > hair`                         | `heavy metal > hair metal`             | Magma users had the option of using `glam` and passed it up, so assume hair is a secondary descriptor and prioritize `metal` |
 | `metal > industrial`                   | `industrial > industrial metal`        |                                                                                                                              |
 | `metal > metal`                        | `heavy metal > {}`                     |                                                                                                                              |
 | `metal > power`                        | `melodic/power metal > power metal`    |                                                                                                                              |
