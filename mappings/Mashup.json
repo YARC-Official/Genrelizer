@@ -8,6 +8,12 @@
   "subgenres": {
     "Compilation": {},
 
+    "DJ": {
+      "substitutions": {
+        "dj": [ "deejay", "disc jockey", "disk jockey", "disc jockeying", "disk jockeying" ]
+      }
+    },
+
     "Endless Setlist": {},
 
     "Guitar Turntablism": {},
@@ -35,6 +41,8 @@
 
     "Sampling": {},
 
+    "Scratching": {},
+
     "Solo Medley": {},
 
     "Sound Collage": {},
@@ -52,7 +60,7 @@
 
     "YTPMV": {
       "substitutions": {
-        "ytpmv": [ "ytp", "youtube poop", "youtube poop music video" ]
+        "ytpmv": [ "ytp", "youtube poop", "youtube poop music video", "ytp music video" ]
       }
     }
   }

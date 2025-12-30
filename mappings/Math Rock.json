@@ -19,8 +19,22 @@
       }
     },
 
+    "Progressive Math Rock": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
+        "math ": [ "math", "math-" ]
+      }
+    },
+
     "Mathcore": {
       "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Progressive Mathcore": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
         "core": [ " core", "-core" ]
       }
     }

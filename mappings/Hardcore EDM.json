@@ -67,7 +67,7 @@
 
     "Happy Hardcore": {
       "substitutions": {
-        " hardcore": [ " hard core", "hard-core", " core", "core" ]
+        " hardcore": [ " hard core", "hard-core", " core", "core", "-core" ]
       }
     },
 
@@ -94,6 +94,18 @@
     "Hardstyle": {
       "substitutions": {
         "style": [ " style", "-style" ]
+      }
+    },
+
+    "Jumpstyle": {
+      "substitutions": {
+        "style": [ " style", "-style" ]
+      }
+    },
+
+    "Lento Violento": {
+      "substitutions": {
+        " violento": [ "" ]
       }
     },
 
@@ -128,6 +140,12 @@
       "substitutions": {
         "melodic ": [ "melo", "melo-" ],
         "uk": [ "u.k." ],
+        "core": [ " core", "-core" ]
+      }
+    },
+
+    "Nightcore": {
+      "substitutions": {
         "core": [ " core", "-core" ]
       }
     },

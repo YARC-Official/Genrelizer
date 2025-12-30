@@ -2,6 +2,8 @@
   "name": "Glam",
 
   "subgenres": {
+    "Cock Rock": {},
+
     "Glam Hard Rock": {
       "substitutions": {
         "hard ": [ "hard", "hard-" ]

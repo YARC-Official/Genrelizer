@@ -26,6 +26,12 @@
 
     "Epic Pagan Metal": {},
 
+    "Epic Power Metal": {
+      "substitutions": {
+        "power ": [ "power", "power-" ]
+      }
+    },
+
     "Extreme Power Metal": {
       "substitutions": {
         "extreme": [ "xtreme", "x-treme" ],
@@ -90,6 +96,13 @@
 
     "Symphonic Metal": {
       "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
+    "Symphonic Neoclassical Metal": {
+      "substitutions": {
+        "neo": [ "neo ", "neo-" ],
         "metal": [ "heavy metal" ]
       }
     },

@@ -164,6 +164,12 @@
 
     "Swing Metal": {},
 
+    "Symphonic Gothic Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
     "Synthetic Metal": {
       "substitutions": {
         "metal": [ "heavy metal" ]
