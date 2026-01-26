@@ -1,7 +1,7 @@
 ﻿# How Genrelizer Works
-When YARG starts up, it consults Genrelizer's data to create a large dictionary of case-insensitive mappings from strings to `(genre, subgenre)` value pairs (with the subgenre being optional). For example, the dictionary maps `Rock` to `(Rock, null)`, because it's standard genre, and it maps `Hard Trance` to `(Trance, Hard Trance)`, because it understands that `Hard Trance` is a subgenre of `Trance`.
+When _YARG_ starts up, it consults Genrelizer's data to create a large dictionary of case-insensitive mappings from strings to `(genre, subgenre)` value pairs (with the subgenre being optional). For example, the dictionary maps `Rock` to `(Rock, null)`, because it's a standard genre, and it maps `Hard Trance` to `(Trance, Hard Trance)`, because it understands that `Hard Trance` is a subgenre of `Trance`.
 
-Under the `mappings` directory, you'll find a bunch of JSON files - one for each of YARG's official genres. Each file contains a JSON object that defines string mappings for the dictionary.
+Under the `mappings` directory, you'll find a bunch of JSON files - one for each of _YARG_'s official genres. Each file contains a JSON object that defines string mappings for the dictionary.
 
 The rest of this document walks through the creation of a hypothetical new mappings file. In the README, we imagined a scenario where we added a dedicated `Polka` genre. Now let's imagine a world where that wasn't specific enough, and we decided to split off a new `Hardcore Polka` genre to separate the men from the boys.
 
