@@ -79,7 +79,7 @@ This means that `First-Wave Hardcore Polka`, `First-wave hardcore polka`, `FIRST
   "subgenres": {
     "First-Wave Hardcore Polka": {
       "substitutions": {
-        "first": [ "1st" ],
+        "first": [ "1st", "1ˢᵗ" ],
         "-wave": [ "wave", " wave" ],
         "hardcore": [ "hard core", "hard-core" ],
         "polka": [ "pulka", "půlka" ]
@@ -91,7 +91,7 @@ This means that `First-Wave Hardcore Polka`, `First-wave hardcore polka`, `FIRST
 }
 ```
 
-We can continue doing this for any number of subgenres of `Hardcore Polka`. Each must define its own substitutions and affixes; these will often repeat among subgenres, so feel free to use some careful copy-pasting.
+We can continue doing this for any number of subgenres of `Hardcore Polka`. Substitutions and affixes will often repeat among subgenres, but each subgenre must define its own properties; there's no programmatic way to reuse them from one object to another. Feel free to use some careful copy-pasting.
 
 Lastly, there is one more optional property that is unique to the `subgenre` objects: `localizations`. Standard genres are localized via YARG's localization files, but those files don't keep up with everything inside Genrelizer. Instead, we can define localizations for each subgenre, like so:
 ```
@@ -106,7 +106,7 @@ Lastly, there is one more optional property that is unique to the `subgenre` obj
   "subgenres": {
     "First-Wave Hardcore Polka": {
       "substitutions": {
-        "first": [ "1st" ],
+        "first": [ "1st", "1ˢᵗ" ],
         "-wave": [ "wave", " wave" ],
         "hardcore": [ "hard core", "hard-core" ],
         "polka": [ "pulka", "půlka" ]
