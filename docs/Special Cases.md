@@ -188,8 +188,8 @@ RB3 introduced the `reggae/ska` genre tag, which fuses two genres that are histo
 Most Magma-compiled `reggae/ska` charts do not have this problem, because they have either the `reggae` or `ska` subgenre tag, which is handled as described above. However, this leaves behind 3 sets of problematic charts:
 
 1) The 33 Harmonix-authored (and thus subgenreless) RB charts that use `reggae/ska`
-2) Any Magma-generated charts that use the `reggae/ska > Other` subgenre
-3) Any charts from any other source that use `reggae/ska` with no subgenre (or `Other` as the subgenre)
+2) Any Magma-generated charts that use the `reggae/ska > other` subgenre
+3) Any charts from any other source that use `reggae/ska` with no subgenre (or `other` as the subgenre)
 
 Sets 2 and 3 are likely negligible, so our solution focuses on the Harmonix-authored charts. Of these, 23 are clear-cut reggae songs (22 of which are by Bob Marley and the Wailers, plus one by UB40), while the rest are unambiguously ska. Thus, _YARG_ includes a hardcoded artist name check that it runs against any `reggae/ska > {}` or `reggae/ska > other` charts. If the artist contains `Bob Marley` or is exactly `UB40` or `Zing Experience`, the chart is categorized as `reggae`; otherwise, it defaults to `ska`.
 
