@@ -33,6 +33,7 @@ There are, however, two exceptions to this rule:
 **Genrelizer is crowdsourced!** There are always more subgenres to account for, and you're welcome to contribute. See these resources for more information:
 
 * [How Genrelizer Works](docs/How%20Genrelizer%20Works.md)
+* [Special Cases](docs/Special%20Cases.md)
 * [Rules for Submissions](docs/Rules%20for%20Submissions.md)
 * [Frequently-Asked Questions](docs/FAQ.md)
 
