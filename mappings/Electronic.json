@@ -3,6 +3,8 @@
 
   "substitutions": {
     "electronic": [
+      "danceelectronic",
+
       "dance/electronic/pop",
       "danceelectronicpop",
 
