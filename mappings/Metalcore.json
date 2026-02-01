@@ -40,7 +40,7 @@
       }
     },
 
-    "Trancecore": {
+    "Risecore": {
       "substitutions": {
         "core": [ " core", "-core" ]
       }

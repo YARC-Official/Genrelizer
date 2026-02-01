@@ -27,6 +27,12 @@
       }
     },
 
+    "Pop Screamo": {
+      "substitutions": {
+        " ": [ "-" ]
+      }
+    },
+
     "Scene": {},
 
     "Scene Rock": {},

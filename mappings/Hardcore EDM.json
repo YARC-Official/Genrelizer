@@ -201,6 +201,12 @@
       }
     },
 
+    "Trancecore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "UK Hardcore": {
       "substitutions": {
         "uk": [ "u.k." ],
