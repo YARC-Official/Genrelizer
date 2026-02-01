@@ -8,6 +8,13 @@
       }
     },
 
+    "Avant-Garde Noise Metal": {
+      "substitutions": {
+        "-garde ": [ "garde ", " garde ", "" ],
+        "noise ": [ "noise", "noise-" ]
+      }
+    },
+
     "Avant-Garde Noise Rock": {
       "substitutions": {
         "-garde ": [ "garde ", " garde ", "" ],
@@ -28,6 +35,10 @@
     "Experimental Noise": {},
 
     "Field Recording": {
+      "suffixes": [ "s" ]
+    },
+
+    "Found Sound": {
       "suffixes": [ "s" ]
     },
 
@@ -136,6 +147,8 @@
         "sound effects": [ "sound effect", "sound fx", "sfx" ]
       }
     },
+
+    "Static": {},
 
     "White Noise": {}
   }

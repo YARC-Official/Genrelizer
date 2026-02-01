@@ -88,6 +88,13 @@
       }
     },
 
+    "Shitgaze": {
+      "substitutions": {
+        "shit": [ "shit ", "shit-" ],
+        "gaze": [ "gazing" ]
+      }
+    },
+
     "Shoegaze": {
       "substitutions": {
         "shoe": [ "shoe ", "shoe-" ],

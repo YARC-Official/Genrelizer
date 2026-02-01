@@ -34,9 +34,17 @@
       }
     },
 
-    "Delta Blues": {},
+    "Delta Blues": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
 
-    "Desert Blues": {},
+    "Desert Blues": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
 
     "Electric Blues": {
       "substitutions": {
@@ -52,11 +60,29 @@
       }
     },
 
-    "Jump Blues": {},
+    "Jump Blues": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
 
-    "Punk Blues": {},
+    "Punk Blues": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
 
-    "Soul Blues": {},
+    "Soul Blues": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
+    "Swamp Blues": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
 
     "Talking Blues": {},
 

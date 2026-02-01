@@ -8,6 +8,18 @@
       }
     },
 
+    "Andalusian Rock": {
+      "substitutions": {
+        "andalusian": [ "andalusia" ]
+      }
+    },
+
+    "Argentine Rock": {
+      "substitutions": {
+        "argentine rock": [ "argentina rock", "argentinian rock", "argentinean rock", "rock nacional" ]
+      }
+    },
+
     "Ballroom Rumba": {
       "substitutions": {
         "rumba": [ "rhumba" ]
@@ -21,6 +33,12 @@
     "Bambuco Fiestero": {},
 
     "Bolero": {},
+
+    "Brazilian Rock": {
+      "substitutions": {
+        "brazilian rock": [ "brazil rock" ]
+      }
+    },
 
     "Calypso": {},
 
@@ -68,9 +86,21 @@
 
     "Chicano Rock": {},
 
+    "Chilean Rock": {
+      "substitutions": {
+        "chilean": [ "chile" ]
+      }
+    },
+
     "Choro": {
       "substitutions": {
         "choro": [ "chorinho" ]
+      }
+    },
+
+    "Colombian Rock": {
+      "substitutions": {
+        "colombian": [ "colombia" ]
       }
     },
 
@@ -105,6 +135,12 @@
       }
     },
 
+    "Ecuadorian Rock": {
+      "substitutions": {
+        "ecuadorian": [ "ecuador" ]
+      }
+    },
+
     "Fandango": {},
 
     "Flamenco": {},
@@ -112,6 +148,13 @@
     "Huayno": {
       "substitutions": {
         "huayno": [ "waynu" ]
+      }
+    },
+
+    "Iê-Iê-Iê": {
+      "substitutions": {
+        "ê": [ "e" ],
+        "-": [ " " ]
       }
     },
 
@@ -159,6 +202,12 @@
 
     "Rhumba": {},
 
+    "Rock en Español": {
+      "substitutions": {
+        "ñ": [ "n", "n~" ]
+      }
+    },
+
     "Rumba": {},
 
     "Salsa": {},
@@ -170,6 +219,8 @@
     "Sanjuanero": {},
 
     "Saya": {},
+
+    "Soca": {},
 
     "Son Cubano": {},
 
@@ -184,6 +235,12 @@
     "Tinku": {},
 
     "Tonadilla": {},
+
+    "Tropicália": {
+      "substitutions": {
+        "á": [ "a" ]
+      }
+    },
 
     "Xote": {}
   }

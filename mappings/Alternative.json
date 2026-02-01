@@ -60,7 +60,11 @@
 
 		"Primus": {},
 
-		"Slacker Rock": {},
+		"Slacker Rock": {
+			"substitutions": {
+				" ": [ "-" ]
+			}
+		},
 
 		"Stoner Rock": {
 			"substitutions": {

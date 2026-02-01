@@ -135,6 +135,12 @@
       }
     },
 
+    "Occult Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+
     "Pop Metal": {
       "substitutions": {
         "metal": [ "heavy metal" ]

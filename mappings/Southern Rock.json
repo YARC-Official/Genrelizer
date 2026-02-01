@@ -50,7 +50,12 @@
       }
     },
 
-    
+    "Swamp Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Tulsa Sound": {
       "prefixes": [ "the " ]
     }

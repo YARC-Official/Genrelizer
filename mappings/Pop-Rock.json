@@ -54,6 +54,13 @@
         "ager": [ "" ],
         " ": [ "-", "" ]
       }
+    },
+
+    "Trop Rock": {
+      "substitutions": {
+        "trop": [ "trop.", "trop'", "tropical" ],
+        " ": [ "-", "" ]
+      }
     }
   }
 }
