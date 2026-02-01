@@ -64,13 +64,6 @@
       }
     },
 
-    "Progressive Shred": {
-      "substitutions": {
-        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
-      },
-      "suffixes": [ " metal" ]
-    },
-
     "Progressive Speed Metal": {
       "substitutions": {
         "progressive": [ "prog", "prog.", "prog-", "prog.-" ]

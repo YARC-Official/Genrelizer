@@ -6,6 +6,12 @@
   },
 
   "subgenres": {
+    "Art Metal": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Art Rock": {
       "substitutions": {
         " ": [ "", "-" ]
@@ -112,6 +118,12 @@
       }
     },
 
+    "Progressive Shred": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
     "Progressive Shredcore": {
       "substitutions": {
         "progressive": [ "prog", "prog.", "prog-", "prog.-" ],
@@ -119,11 +131,18 @@
       }
     },
 
+    "Progressive Southern Rock": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
     "Proto-Prog": {
       "substitutions": {
         "-": [ "", " " ],
         "prog": [ "progressive", "prog.", "prog-", "prog.-" ]
-      }
+      },
+      "suffixes": [ " rock" ]
     }
   }
 }

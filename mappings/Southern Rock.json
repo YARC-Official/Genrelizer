@@ -44,6 +44,12 @@
       }
     },
 
+    "Southern Progressive Rock": {
+      "substitutions": {
+        "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
+      }
+    },
+
     
     "Tulsa Sound": {
       "prefixes": [ "the " ]

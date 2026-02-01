@@ -6,10 +6,38 @@
   },
 
   "subgenres": {
+    "Brass": {},
+
+    "Brass Band": {},
+
+    "Brass Ensemble": {},
+
     "Bugle Call": {
       "substitutions": {
         "bugle call": [ "bugle" ]
       }
-    }
+    },
+
+    "Chamber Music": {
+      "substitutions": {
+        " music": ["" ]
+      }
+    },
+
+    "Laptop Orchestra": {},
+
+    "Percussion Ensemble": {},
+
+    "Pit Orchestra": {},
+
+    "String Ensemble": {},
+
+    "String Quartet": {},
+
+    "String Orchestra": {},
+
+    "Strings": {},
+
+    "Youth Orchestra": {}
   }
 }
