@@ -97,6 +97,12 @@
       }
     },
 
+    "Hypertone": {
+      "substitutions": {
+        "tone": [ " tone", "-tone" ]
+      }
+    },
+
     "Jumpstyle": {
       "substitutions": {
         "style": [ " style", "-style" ]

@@ -67,6 +67,13 @@
       }
     },
 
+    "ECM Jazz": {
+      "substitutions": {
+        "ecm": [ "edition of contemporary music" ],
+        "jazz": [ "records jazz" ]
+      }
+    },
+
     "Electro-Jazz": {
       "substitutions": {
         "-": [ "", " " ]
