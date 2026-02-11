@@ -115,6 +115,12 @@
 
     "Live Pop": {},
 
+    "Mainstream Pop": {},
+
+    "Mainstream Urban":  {
+      "suffixes": [ " music" ]
+    },
+
     "Modern Pop": {
       "suffixes": [
         " music"
@@ -165,6 +171,16 @@
       },
       "suffixes": [ " music" ]
     },
+
+    "Urban Adult Alternative": {},
+
+    "Urban Adult Contemporary": {},
+
+    "Urban Contemporary": {
+      "suffixes": [ " music" ]
+    },
+
+    "Urban Pop": {},
 
     "Violin Pop": {},
 

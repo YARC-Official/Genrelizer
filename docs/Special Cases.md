@@ -73,6 +73,7 @@ Some Magma subgenres map cleanly to official YARG genres. For example, a Magma u
 | `urban > rap`                          | `hip-hop/rap > rap`                    | Exclusive to Magma v1                                                                                                        |
 | `urban > trip hop`                     | `hip-hop/rap > trip hop`               | Exclusive to Magma v1                                                                                                        |
 | `urban > underground rap`              | `hip-hop/rap > underground rap`        | Exclusive to Magma v1                                                                                                        |
+| `urban > other`                        | `other > urban`                        | Exclusive to Magma v1. This is the only case where we remap to a preexisting genre (`other`), because `urban` is deprecated as a genre|
 | `other > ambient`                      | `ambient/drone > {}`                   | Exclusive to Magma v1                                                                                                        |
 | `other > breakbeat`                    | `dnb/breakbeat/jungle > breakbeat`     | Exclusive to Magma v1                                                                                                        |
 | `other > chiptune`                     | `chiptune > {}`                        | Exclusive to Magma v1                                                                                                        |
@@ -146,7 +147,6 @@ Many of Magma's subgenres aren't aligned with Genrelizer's style guide, such as 
 | `rock > rock`                         | (none)                    |                                                                                                                           |
 | `rock > other`                        | (none)                    |                                                                                                                           |
 | `southern rock > southern rock`       | (none)                    |                                                                                                                           |
-| `urban > other`                       | (none)                    | Exclusive to Magma v1                                                                                                     |
 | `world > world`                       | (none)                    | Exclusive to Magma v2                                                                                                     |
 | `other > other`                       | (none)                    |                                                                                                                           |
 
