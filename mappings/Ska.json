@@ -83,6 +83,11 @@
         "third": [ "3rd", "3ʳᵈ" ],
         "-": [ " ", "" ]
       }
-    }
+    },
+	"Reggae/Ska
+	  "substitutions": {
+	   "Reggae/Ska": [ "Reggaeska" ]
+	  }
+	}
   }
 }
