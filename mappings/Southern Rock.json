@@ -26,6 +26,12 @@
     
     "Boogie Rock": {},
 
+    "Farm Rock": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+	  
     "Jam Rock": {
       "substitutions": {
         " ": [ "", "-" ]
