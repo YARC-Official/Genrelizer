@@ -48,6 +48,12 @@
       "prefixes": [ "heavy ", "heavy" ]
     },
 
+    "Polka Fusion": {
+      "substitutions": {
+        " ": [ "-", "" ]
+      }
+    },
+
     "Power Jazz Fusion": {
       "substitutions": {
         "power ": [ "power", "power-" ],
