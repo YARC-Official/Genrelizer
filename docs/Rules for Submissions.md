@@ -18,6 +18,14 @@ Substitutions and affixes are meant to handle cosmetic variations on a subgenre 
 * Some people might tell you that all `Classic Rock` is `Dad Rock`, but others might consider only _some_ of the classics to be meant for dads. Since `Dad Rock` can carry some more-specific implications than `Classic Rock`, we treat the former as a subgenre of the latter, rather than substituting `classic` for `dad` at the genre level.
 * Can't hear (or at least appreciate) the difference between `Harsh Noise` and `Harsh Noise Wall`? Doesn't matter - if they mean different things to _some_ people, that's all that matters to keep them separate.
 
+## Focus on genres, not charts
+If you're submitting a new mapping to Genrelizer, chances are it's because you have a chart that isn't getting categorized. That's great - it's exactly what we want you to do when you see something getting dumped under `other`. But once you've identified a missing subgenre, try to put the chart in question out of your mind and focus on the genre name in a vacuum.
+
+For example, suppose we didn't have `fusion rock` as a mapping and you found a chart with that genre getting dumped under `other`. The two obvious genre candidates would be `fusion` and `rock`, but you should make your choice based on the text of the genre rather than the audio of this particular chart you found. In other words:
+* **What you _should_ do:** Read the genre name `fusion rock` and recognize that `fusion` is a much more distinctive term than `rock`. We tend to reserve `rock` as a bit of a last-resort for generic-sounding rock music that doesn't fit anywhere else, so `fusion` is the way to go here.
+* **What you _should NOT_ do:** Listen to that song and decide that it's actually pretty generic rock music, and the `fusion` descriptor is only a minor detail that shouldn't factor into the song's top-level categorization.
+
+The reason for this is that we aren't trying to fix _that chart_; we're trying to account for the possibility of `fusion rock` being a genre tag _in general_. Surely there are other charts with that tag, and we wouldn't want a bunch of distinctively fusion-flavored rock music getting dumped into regular old `rock` just because of one questionably-tagged chart.
 
 ## Be exhaustive with substitutions and affixes (and overkill is okay!)
 
