@@ -12,6 +12,12 @@
       }
     },
 
+    "American Metal": {
+      "substitutions": {
+        "metal": [ "heavy metal" ]
+      }
+    },
+    
     "Arabic Metal": {
       "substitutions": {
         "metal": [ "heavy metal" ]
