@@ -169,9 +169,21 @@
       }
     },
 
+    "Remixcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "Speedcore": {
       "substitutions": {
         "core": [ " core", "-core" ]
+      }
+    },
+
+    "Spinstyle": {
+      "substitutions": {
+        "style": [ " style", "-style" ]
       }
     },
 

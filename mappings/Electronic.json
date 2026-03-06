@@ -34,6 +34,8 @@
       }
     },
 
+    "Artcore": {},
+
     "Bleep Bloop": {
       "substitutions": {
         " ": [ "", "-" ]
@@ -118,6 +120,13 @@
 
     "MIDI Art": {},
 
+    "Midtempo Bass": {
+      "substitutions": {
+        "midtempo": [ "mid-tempo", "mid tempo" ],
+        " bass": [ "", " electro" ]
+      }
+    },
+
     "Minimal Electro": {},
 
     "Neoclassical Electronic": {
@@ -164,6 +173,8 @@
         "uk": [ "u.k." ]
       }
     },
+
+    "Utopian Virtual": {},
 
     "Vaporwave": {
       "substitutions": {
