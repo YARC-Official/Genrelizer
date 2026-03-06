@@ -68,9 +68,13 @@
 
     "Ghetto House": {},
 
-    "Hard Bass": {
+    "Hardbass": {
       "substitutions": {
-        " ": [ "", "-" ]
+        "hardbass": [ "hard bass", "hard-bass" ]
+      },
+      "prefixes": [ "russian " ],
+      "localizations": {
+        "ru-RU": "Хардбасс"
       }
     },
 
@@ -116,12 +120,6 @@
     "Pumping House": {
       "substitutions": {
         "pumping": [ "bumping" ]
-      }
-    },
-
-    "Russian Hard Bass": {
-      "substitutions": {
-        " ": [ "", "-" ]
       }
     },
 

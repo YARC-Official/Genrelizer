@@ -73,16 +73,6 @@
 
     "Hard Dance": {},
 
-    "Hardbass": {
-      "substitutions": {
-        "hardbass": [ "hard bass" ]
-      },
-      "prefixes": [ "russian " ],
-      "localizations": {
-        "ru-RU": "Хардбасс"
-      }
-    },
-
     "Hardcore Chiptune": {
       "substitutions": {
         "core": [ " core", "-core" ],
