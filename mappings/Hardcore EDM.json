@@ -73,6 +73,16 @@
 
     "Hard Dance": {},
 
+    "Hardbass": {
+      "substitutions": {
+        "hardbass": [ "hard bass" ]
+      },
+      "prefixes": [ "russian " ],
+      "localizations": {
+        "ru-RU": "Хардбасс"
+      }
+    },
+
     "Hardcore Chiptune": {
       "substitutions": {
         "core": [ " core", "-core" ],
@@ -169,9 +179,21 @@
       }
     },
 
+    "Remixcore": {
+      "substitutions": {
+        "core": [ " core", "-core" ]
+      }
+    },
+
     "Speedcore": {
       "substitutions": {
         "core": [ " core", "-core" ]
+      }
+    },
+
+    "Spinstyle": {
+      "substitutions": {
+        "style": [ " style", "-style" ]
       }
     },
 

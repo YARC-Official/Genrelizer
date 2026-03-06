@@ -4,6 +4,12 @@
   "subgenres": {
     "Acid House": {},
 
+    "Acid Bass": {
+      "substitutions": {
+        " ": [ "", "-" ]
+      }
+    },
+
     "Ambient House": {
       "substitutions": {
         "ambient": [ "amb", "amb'", "amb." ]

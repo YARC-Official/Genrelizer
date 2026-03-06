@@ -92,6 +92,12 @@
       }
     },
 
+    "Shredstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
     "Symphonic Folk Metal": {},
 
     "Symphonic Metal": {
