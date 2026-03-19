@@ -50,6 +50,8 @@
       }
     },
 
+    "Electronic Dance Metal": {},
+
     "Electronic Metal": {
       "substitutions": {
         "metal": [ "heavy metal" ]
@@ -83,6 +85,12 @@
     "Robot Rock": {
       "substitutions": {
         " ": [ "", "-" ]
+      }
+    },
+
+    "Shredstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
       }
     },
 
