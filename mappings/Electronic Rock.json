@@ -88,6 +88,12 @@
       }
     },
 
+    "Shredstep": {
+      "substitutions": {
+        "step": [ " step", "-step" ]
+      }
+    },
+
     "Synth Metal": {
       "substitutions": {
         " ": [ "", "-" ]
