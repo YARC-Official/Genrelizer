@@ -32,6 +32,12 @@
 
     "Hard Trance": {},
 
+    "Hi-Tech": {
+      "substitutions": {
+        "-": [ "", " " ]
+      }
+    },
+
     "Melodic Trance": {
       "substitutions": {
         "melodic ": [ "melo", "melo-" ]
