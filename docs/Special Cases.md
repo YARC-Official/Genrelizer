@@ -135,8 +135,8 @@ Many of Magma's subgenres aren't aligned with Genrelizer's style guide, such as 
 | `pop-rock > contemporary`             | `contemporary pop-rock`   |                                                                                                                           |
 | `pop-rock > other`                    | (none)                    |                                                                                                                           |
 | `prog > prog rock`                    | (none)                    | Magma offers no other `prog` subgenres, so this is effectively meaningless                                                |
-| `punk > alternative`                  | `alternative punk rock`   |                                                                                                                           |
-| `punk > classic`                      | `classic punk rock`       |                                                                                                                           |
+| `punk > alternative`                  | `alternative punk`        |                                                                                                                           |
+| `punk > classic`                      | `classic punk`            |                                                                                                                           |
 | `punk > dance punk`                   | `dance-punk`              |                                                                                                                           |
 | `punk > garage`                       | `garage punk`             |                                                                                                                           |
 | `punk > hardcore`                     | `hardcore punk`           |                                                                                                                           |
