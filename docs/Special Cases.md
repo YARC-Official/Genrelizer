@@ -27,12 +27,12 @@ Some Magma subgenres map cleanly to official YARG genres. For example, a Magma u
 | `metal > other`                        | `heavy metal > {}`                     |                                                                                                                              |
 | `new wave > synthpop`                  | `synthpop/electropop > synthpop`       |                                                                                                                              |
 | `pop/dance/electronic > ambient`       | `ambient/drone > ambient`              | Exclusive to Magma v2                                                                                                        |
-| `pop/dance/electronic > breakbeat`     | `d&b/breakbeat/jungle > breakbeat`     | Exclusive to Magma v2                                                                                                        |
+| `pop/dance/electronic > breakbeat`     | `dnb/breakbeat/jungle > breakbeat`     | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > chiptune`      | `chiptune > {}`                        | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > dance`         | `dance > {}`                           | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > downtempo`     | `electronic > downtempo`               | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > dub`           | `dubstep > {}`                         | Exclusive to Magma v2. In the context of electronic music, this is more likely to refer to dubstep than to dub reggae        |
-| `pop/dance/electronic > drum and bass` | `d&b/breakbeat/jungle > drum and bass` | Exclusive to Magma v2                                                                                                        |
+| `pop/dance/electronic > drum and bass` | `dnb/breakbeat/jungle > drum and bass` | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > electronica`   | `electronic > electronica`             | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > garage`        | `electronic > garage`                  | Exclusive to Magma v2. In the context of electronic music, "garage" is a noun (UK Garage), not an adjective (Garage Rock)    |
 | `pop/dance/electronic > hardcore dance`  | `hardcore edm > hardcore dance`        | Exclusive to Magma v2                                                                                                        |
@@ -46,6 +46,7 @@ Some Magma subgenres map cleanly to official YARG genres. For example, a Magma u
 | `pop-rock > pop`                       | `pop > pop-rock`                       |                                                                                                                              |
 | `pop-rock > rhythm and blues`          | `r&b/soul/funk > rhythm and blues`     | Exclusive to Magma v1                                                                                                        |
 | `pop-rock > soul`                      | `r&b/soul/funk > soul`                 | Exclusive to Magma v1                                                                                                        |
+| `pop-rock > teen`                      | `pop > teen pop`                       |                                                                                                                              |
 | `punk > pop-punk`                      | `pop-punk > {}`                        |                                                                                                                              |
 | `r&b/soul/funk > disco`                | `disco > {}`                           | Exclusive to Magma v2                                                                                                        |
 | `reggae/ska > reggae`                  | `reggae > {}`                          | Exclusive to Magma v2                                                                                                        |
@@ -65,6 +66,7 @@ Some Magma subgenres map cleanly to official YARG genres. For example, a Magma u
 | `urban > dub`                          | `reggae > dub`                         | Exclusive to Magma v1. Outside the context of electronic music, this is more likely to refer to dub reggae than to dubstep   |
 | `urban > electronica`                  | `electronic > electronica`             | Exclusive to Magma v1                                                                                                        |
 | `urban > gangsta`                      | `hip-hop/rap > gangsta rap`            | Exclusive to Magma v1                                                                                                        |
+| `urban > garage`                       | `electronic > garage`                  | Exclusive to Magma v1                                                                                                        |
 | `urban > hardcore dance`               | `hardcore edm > hardcore dance`        | Exclusive to Magma v1                                                                                                        |
 | `urban > hardcore rap`                 | `hip-hop/rap > hardcore rap`           | Exclusive to Magma v1                                                                                                        |
 | `urban > hip hop`                      | `hip-hop/rap > hip-hop`                | Exclusive to Magma v1                                                                                                        |
@@ -131,6 +133,7 @@ Many of Magma's subgenres aren't aligned with Genrelizer's style guide, such as 
 | `new wave > dark wave`                | `darkwave`                |                                                                                                                           |
 | `new wave > new wave`                 | (none)                    |                                                                                                                           |
 | `new wave > other`                    | (none)                    |                                                                                                                           |
+| `novelty > novelty`                   | (none)                    |                                                                                                                           |
 | `nu-metal > nu-metal`                 | (none)                    |                                                                                                                           |
 | `pop-rock > contemporary`             | `contemporary pop-rock`   |                                                                                                                           |
 | `pop-rock > other`                    | (none)                    |                                                                                                                           |
