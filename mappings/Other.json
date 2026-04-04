@@ -55,10 +55,6 @@
 
     "Black MIDI": {},
 
-    "Chant": {
-      "suffixes": [ "ing" ]
-    },
-
     "Danger Music": {
       "substitutions": {
         " music": [ "" ]
@@ -192,12 +188,6 @@
     "Spoken Word": {},
 
     "Sung Poetry": {},
-
-    "Traditional": {
-      "substitutions": {
-        "traditional": [ "trad", "trad." ]
-      }
-    },
 
     "Tutorial": {
       "suffixes": [ "s" ]

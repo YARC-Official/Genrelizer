@@ -16,19 +16,11 @@
 
     "Apocalyptic Folk": {},
 
-    "Appalachian": {
-      "suffixes": [ " music" ]
-    },
-
     "Appalachian Folk": {
       "suffixes": [ " music" ]
     },
 
     "Ballade": {},
-
-    "Cajun": {
-      "suffixes": [ " music" ]
-    },
 
     "Canso": {
       "substitutions": {
@@ -58,8 +50,6 @@
       }
     },
 
-    "Estampie": {},
-
     "Filk": {},
 
     "Folk Pop": {
@@ -78,12 +68,6 @@
 
     "Folktronica": {},
 
-    "Geisslerlieder": {
-      "substitutions": {
-        "geisslerlieder": [ "flagellant", "flagellant song" ]
-      }
-    },
-
     "Indie Folk": {
       "substitutions": {
         "ie": [ "y", "ependent" ],
@@ -96,10 +80,6 @@
         " band": [ "-band", "band", "" ]
       }
     },
-
-    "Lai": {},
-
-    "Medieval": {},
 
     "Murderfolk": {
       "substitutions": {
@@ -119,48 +99,18 @@
       }
     },
 
-    "Planctus": {},
-
     "Progressive Folk": {
       "substitutions": {
         "progressive": [ "prog", "prog.", "prog-", "prog.-" ]
       }
     },
 
-    "Railroad": {
-      "substitutions": {
-        "rail": [ "rail-", "rail "]
-      },
-      "suffixes": [ " song", " music" ]
-    },
-
-    "Rondeau": {
-      "suffixes": [ "x" ]
-    },
-
-    "Sea Shanty": {
-      "substitutions": {
-        "sea ": [ "" ],
-        "y": [ "ies" ]
-      }
-    },
-
     "Swamp Pop": {},
-
-    "Traditional Celtic": {
-      "substitutions": {
-        "traditional ": [ "trad ", "trad. ", "trad-" ]
-      }
-    },
 
     "Traditional Folk": {
       "substitutions": {
         "traditional ": [ "trad ", "trad. ", "trad-" ]
       }
-    },
-
-    "Trecento Madrigal": {},
-
-    "Virelai": {}
+    }
   }
 }

@@ -35,7 +35,7 @@ Some Magma subgenres map cleanly to official YARG genres. For example, a Magma u
 | `pop/dance/electronic > drum and bass` | `dnb/breakbeat/jungle > drum and bass` | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > electronica`   | `electronic > electronica`             | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > garage`        | `electronic > garage`                  | Exclusive to Magma v2. In the context of electronic music, "garage" is a noun (UK Garage), not an adjective (Garage Rock)    |
-| `pop/dance/electronic > hardcore dance`  | `hardcore edm > hardcore dance`        | Exclusive to Magma v2                                                                                                        |
+| `pop/dance/electronic > hardcore dance`  | `hardcore edm > hardcore dance`      | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > house`         | `house > {}`                           | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > industrial`    | `industrial > {}`                      | Exclusive to Magma v2                                                                                                        |
 | `pop/dance/electronic > techno`        | `techno > {}`                          | Exclusive to Magma v2                                                                                                        |
@@ -43,7 +43,7 @@ Some Magma subgenres map cleanly to official YARG genres. For example, a Magma u
 | `pop/dance/electronic > other`         | `electronic > {}`                      | Exclusive to Magma v2                                                                                                        |
 | `pop-rock > disco`                     | `disco > {}`                           | Exclusive to Magma v1                                                                                                        |
 | `pop-rock > motown`                    | `r&b/soul/funk > motown`               | Exclusive to Magma v1                                                                                                        |
-| `pop-rock > pop`                       | `pop > pop-rock`                       |                                                                                                                              |
+| `pop-rock > pop`                       | `pop > {}`                             |                                                                                                                              |
 | `pop-rock > rhythm and blues`          | `r&b/soul/funk > rhythm and blues`     | Exclusive to Magma v1                                                                                                        |
 | `pop-rock > soul`                      | `r&b/soul/funk > soul`                 | Exclusive to Magma v1                                                                                                        |
 | `pop-rock > teen`                      | `pop > teen pop`                       |                                                                                                                              |
@@ -52,6 +52,7 @@ Some Magma subgenres map cleanly to official YARG genres. For example, a Magma u
 | `reggae/ska > reggae`                  | `reggae > {}`                          | Exclusive to Magma v2                                                                                                        |
 | `reggae/ska > ska`                     | `ska > {}`                             | Exclusive to Magma v2                                                                                                        |
 | `reggae/ska > other`                   | [special case; see below]              | Exclusive to Magma v2                                                                                                        |
+| `rock > arena rock`                    | `hard rock > arena rock`               |                                                                                                                              |
 | `rock > folk rock`                     | `folk > folk rock`                     |                                                                                                                              |
 | `rock > funk`                          | `r&b/soul/funk > funk`                 | Exclusive to Magma v1                                                                                                        |
 | `rock > psychedelic`                   | `psychedelic > psychedelic rock`       |                                                                                                                              |

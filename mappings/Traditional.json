@@ -1,0 +1,65 @@
+{
+  "name": "Traditional",
+
+  "substitutions": {
+    "traditional": [ "trad", "trad." ]
+  },
+
+  "subgenres": {
+    "Appalachian": {
+      "suffixes": [ " music" ]
+    },
+
+    "Cajun": {
+      "suffixes": [ " music" ]
+    },
+
+    "Chant": {
+      "suffixes": [ "ing" ]
+    },
+
+    "Estampie": {},
+
+    "Geisslerlieder": {
+      "substitutions": {
+        "geisslerlieder": [ "flagellant", "flagellant song" ]
+      }
+    },
+
+    "Lai": {},
+
+    "Medieval": {},
+
+    "Planctus": {},
+
+    "Railroad": {
+      "substitutions": {
+        "rail": [ "rail-", "rail "]
+      },
+      "suffixes": [ " song", " music" ]
+    },
+
+    "Rondeau": {
+      "suffixes": [ "x" ]
+    },
+
+    "Sea Shanty": {
+      "substitutions": {
+        "sea ": [ "" ],
+        "y": [ "ies" ]
+      }
+    },
+
+    "Traditional Celtic": {
+      "substitutions": {
+        "traditional ": [ "trad ", "trad. ", "trad-" ]
+      }
+    },
+
+    "Trecento Madrigal": {},
+
+    "Work Song": {},    
+
+    "Virelai": {}
+  }
+}
